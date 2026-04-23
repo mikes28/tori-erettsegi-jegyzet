@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **nehézipar**
 - **vegyipar**
 - **iparosodás Magyarországon**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](ipari_forradalom_elso_hullam.md)
+- [Következő téma](ket_vilaghaboru_kozott_nemetorszag_szovjetunio_magyarorszag.md)

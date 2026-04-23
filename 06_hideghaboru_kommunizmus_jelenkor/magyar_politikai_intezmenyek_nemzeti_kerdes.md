@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **választási rendszer**
 - **nemzetiségek**
 - **romák**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](ketpolusu_vilagrend_felbomlasa.md)
+- [Következő téma](rakosi_korszak_kommunista_diktatura.md)

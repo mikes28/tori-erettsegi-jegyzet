@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **Függetlenségi nyilatkozat**
 - **Világos**
 - **megtorlás**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](reformkor_szechenyi_kossuth.md)
+- [Következő téma](szocializmus_marxizmus_nagyhatalmi_torekvesek.md)

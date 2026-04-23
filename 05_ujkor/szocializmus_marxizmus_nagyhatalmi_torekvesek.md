@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **polgári állam**
 - **imperializmus**
 - **nagyhatalom**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](szabadsagharc_1848_1849.md)
+- [Következő téma](uj_eszmek_polgari_allam.md)

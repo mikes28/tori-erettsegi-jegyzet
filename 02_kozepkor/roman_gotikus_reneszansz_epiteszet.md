@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **reneszánsz stílus**
 - **csúcsív**
 - **kupola**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](kozepkori_varos_cehek_kereskedelem.md)
+- [Következő téma](uradalom_jobbagyseg_huberiseg.md)

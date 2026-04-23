@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **német megszállás**
 - **nyilasok**
 - **holokauszt**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](magyarorszag_az_elso_vh_tol_a_masodik_vh_osszeomlasig.md)
+- [Következő téma](pesti_forradalom_aprilisi_torvenyek.md)

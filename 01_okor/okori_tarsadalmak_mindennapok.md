@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **polgárjog**
 - **család**
 - **vallási ünnepek**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](keresztenyseg_kialakulasa.md)
+- [Következő téma](zsido_monoteizmus.md)

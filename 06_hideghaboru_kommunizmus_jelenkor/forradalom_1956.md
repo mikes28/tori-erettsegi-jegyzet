@@ -43,3 +43,9 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **szabadságharc**
 - **Nagy Imre**
 - **megtorlás**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Következő téma](hideghaboru_ket_vilagrend.md)

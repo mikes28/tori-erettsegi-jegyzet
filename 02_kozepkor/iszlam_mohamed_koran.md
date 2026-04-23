@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **hidzsra**
 - **öt pillér**
 - **umma**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](iszlam_kialakulasa.md)
+- [Következő téma](kozepkori_varos_cehek_kereskedelem.md)

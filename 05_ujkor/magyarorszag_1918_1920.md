@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **ellenforradalom**
 - **Vörös Hadsereg**
 - **Horthy-korszak kezdete**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](ket_vilaghaboru_kozott_nemetorszag_szovjetunio_magyarorszag.md)
+- [Következő téma](magyarorszag_az_elso_vh_tol_a_masodik_vh_osszeomlasig.md)

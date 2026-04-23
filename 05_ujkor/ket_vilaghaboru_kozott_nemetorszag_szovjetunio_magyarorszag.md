@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **Horthy-korszak**
 - **világválság**
 - **Klebelsberg**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](ipari_forradalom_masodik_hullam.md)
+- [Következő téma](magyarorszag_1918_1920.md)

@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **glasznoszty**
 - **rendszerváltás**
 - **Szovjetunió felbomlása**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](kadar_korszak.md)
+- [Következő téma](magyar_politikai_intezmenyek_nemzeti_kerdes.md)

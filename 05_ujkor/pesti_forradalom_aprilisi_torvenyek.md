@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **áprilisi törvények**
 - **felelős kormány**
 - **jobbágyfelszabadítás**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](masodik_vilaghaboru_magyarorszag_holokauszt.md)
+- [Következő téma](reformkor_szechenyi_kossuth.md)

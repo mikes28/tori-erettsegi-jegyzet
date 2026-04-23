@@ -19,3 +19,17 @@ Az alábbi felsorolásban megtalálod az adott korszakhoz tartozó részletes t�
 2. Ezután haladj végig a témákon, és készíts saját jegyzetet is.
 3. A kulcsfogalmakat próbáld meg fejből is felidézni, és magyarázd el, mintha egy osztálytársadnak mesélnéd.
 4. Időnként térj vissza az időrendhez és az ok–okozati összefüggésekhez, mert ezek segítenek a feladatsorok értelmezésében.
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza a README-hez](../README.md)
+- [Előző korszak indexe](../03_kora_ujkor/index.md)
+- [Következő korszak indexe](../05_ujkor/index.md)
+
+### Témák
+
+- [erdely etnikai vallasi helyzet](erdely_etnikai_vallasi_helyzet.md)
+- [mohacs harom reszre szakadas varhaboruk](mohacs_harom_reszre_szakadas_varhaboruk.md)
+- [rakoczi szabadsagharc](rakoczi_szabadsagharc.md)
+- [ujranepezules maria terezia ii jozsef](ujranepezules_maria_terezia_ii_jozsef.md)

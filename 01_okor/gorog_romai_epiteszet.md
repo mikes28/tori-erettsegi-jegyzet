@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **amfiteátrum**
 - **boltív**
 - **Colosseum**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](atheni_demokracia.md)
+- [Következő téma](keresztenyseg_kialakulasa.md)

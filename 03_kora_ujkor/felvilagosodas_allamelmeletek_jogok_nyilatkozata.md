@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **hatalommegosztás**
 - **népfelség**
 - **emberi jogok**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](brit_alkotmanyos_monarchia_amerikai_koztarsasag.md)
+- [Következő téma](foldrajzi_felfedezesek_kapitalizmus.md)

@@ -43,3 +43,9 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **konzervativizmus**
 - **szocializmus**
 - **polgári állam**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](szocializmus_marxizmus_nagyhatalmi_torekvesek.md)

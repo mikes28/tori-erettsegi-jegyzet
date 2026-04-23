@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **Kossuth Lajos**
 - **jobbágyfelszabadítás**
 - **polgári alkotmányosság**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](pesti_forradalom_aprilisi_torvenyek.md)
+- [Következő téma](szabadsagharc_1848_1849.md)

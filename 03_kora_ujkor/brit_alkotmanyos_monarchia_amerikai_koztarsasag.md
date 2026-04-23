@@ -43,3 +43,9 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **polgári jogállam**
 - **USA alkotmánya**
 - **hatalommegosztás**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Következő téma](felvilagosodas_allamelmeletek_jogok_nyilatkozata.md)

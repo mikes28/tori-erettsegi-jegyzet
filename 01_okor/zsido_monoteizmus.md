@@ -44,3 +44,9 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **Tízparancsolat**
 - **próféta**
 - **Diaszpóra**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](okori_tarsadalmak_mindennapok.md)

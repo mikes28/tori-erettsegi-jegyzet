@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **Trianon**
 - **területveszteség**
 - **revizionizmus**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](dualizmus_kora.md)
+- [Következő téma](ipari_forradalom_elso_hullam.md)

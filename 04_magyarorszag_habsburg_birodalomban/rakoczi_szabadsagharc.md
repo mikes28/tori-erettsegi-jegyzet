@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **Rákóczi Ferenc**
 - **szatmári béke**
 - **rendi jogok**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](mohacs_harom_reszre_szakadas_varhaboruk.md)
+- [Következő téma](ujranepezules_maria_terezia_ii_jozsef.md)

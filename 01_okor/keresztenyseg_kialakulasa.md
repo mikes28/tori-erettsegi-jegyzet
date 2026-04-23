@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **Újszövetség**
 - **apostol**
 - **üdvösség**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](gorog_romai_epiteszet.md)
+- [Következő téma](okori_tarsadalmak_mindennapok.md)

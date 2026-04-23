@@ -43,3 +43,9 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **Mária Terézia**
 - **II. József**
 - **úrbéri rendelet**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](rakoczi_szabadsagharc.md)

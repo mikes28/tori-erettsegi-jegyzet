@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **Horthy-korszak**
 - **német befolyás**
 - **háborús összeomlás**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](magyarorszag_1918_1920.md)
+- [Következő téma](masodik_vilaghaboru_magyarorszag_holokauszt.md)

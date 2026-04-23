@@ -43,3 +43,9 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **közös ügyek**
 - **nemzetiségi kérdés**
 - **emancipáció**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Következő téma](elso_vilaghaboru_trianon.md)

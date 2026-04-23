@@ -43,3 +43,9 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **hűbéri rendszer**
 - **nehézeke**
 - **háromnyomás**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](roman_gotikus_reneszansz_epiteszet.md)

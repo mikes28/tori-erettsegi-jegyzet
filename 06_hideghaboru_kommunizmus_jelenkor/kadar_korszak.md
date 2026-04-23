@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **kádári alku**
 - **tervgazdaság**
 - **három T**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](jelenkor_globalis_vilag_eu_demografia.md)
+- [Következő téma](ketpolusu_vilagrend_felbomlasa.md)

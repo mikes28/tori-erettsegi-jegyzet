@@ -43,3 +43,9 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **ötszázak tanácsa**
 - **sztratégosz**
 - **cserépszavazás**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Következő téma](gorog_romai_epiteszet.md)

@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **három részre szakadás**
 - **Hódoltság**
 - **végvári rendszer**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](erdely_etnikai_vallasi_helyzet.md)
+- [Következő téma](rakoczi_szabadsagharc.md)

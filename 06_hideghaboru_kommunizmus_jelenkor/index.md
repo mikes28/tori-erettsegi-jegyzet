@@ -23,3 +23,20 @@ Az alábbi felsorolásban megtalálod az adott korszakhoz tartozó részletes t�
 2. Ezután haladj végig a témákon, és készíts saját jegyzetet is.
 3. A kulcsfogalmakat próbáld meg fejből is felidézni, és magyarázd el, mintha egy osztálytársadnak mesélnéd.
 4. Időnként térj vissza az időrendhez és az ok–okozati összefüggésekhez, mert ezek segítenek a feladatsorok értelmezésében.
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza a README-hez](../README.md)
+- [Előző korszak indexe](../05_ujkor/index.md)
+
+### Témák
+
+- [forradalom 1956](forradalom_1956.md)
+- [hideghaboru ket vilagrend](hideghaboru_ket_vilagrend.md)
+- [jelenkor globalis vilag eu demografia](jelenkor_globalis_vilag_eu_demografia.md)
+- [kadar korszak](kadar_korszak.md)
+- [ketpolusu vilagrend felbomlasa](ketpolusu_vilagrend_felbomlasa.md)
+- [magyar politikai intezmenyek nemzeti kerdes](magyar_politikai_intezmenyek_nemzeti_kerdes.md)
+- [rakosi korszak kommunista diktatura](rakosi_korszak_kommunista_diktatura.md)
+- [rendszervaltas 1989 1991](rendszervaltas_1989_1991.md)

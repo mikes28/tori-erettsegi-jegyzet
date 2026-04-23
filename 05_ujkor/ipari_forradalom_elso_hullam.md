@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **gyáripar**
 - **vasút**
 - **urbanizáció**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](elso_vilaghaboru_trianon.md)
+- [Következő téma](ipari_forradalom_masodik_hullam.md)

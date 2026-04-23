@@ -43,3 +43,9 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **vallási tolerancia**
 - **bevett vallások**
 - **Erdélyi Fejedelemség**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Következő téma](mohacs_harom_reszre_szakadas_varhaboruk.md)

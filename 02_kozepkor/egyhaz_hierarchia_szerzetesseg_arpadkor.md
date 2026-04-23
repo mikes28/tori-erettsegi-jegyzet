@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **szerzetes**
 - **bencés rend**
 - **Árpád-kor**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](egyhaz_hierarchia_szerzetesek.md)
+- [Következő téma](humanizmus_reneszansz.md)

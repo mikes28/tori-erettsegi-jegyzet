@@ -16,3 +16,17 @@ Az alábbi felsorolásban megtalálod az adott korszakhoz tartozó részletes t�
 2. Ezután haladj végig a témákon, és készíts saját jegyzetet is.
 3. A kulcsfogalmakat próbáld meg fejből is felidézni, és magyarázd el, mintha egy osztálytársadnak mesélnéd.
 4. Időnként térj vissza az időrendhez és az ok–okozati összefüggésekhez, mert ezek segítenek a feladatsorok értelmezésében.
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza a README-hez](../README.md)
+- [Előző korszak indexe](../02_kozepkor/index.md)
+- [Következő korszak indexe](../04_magyarorszag_habsburg_birodalomban/index.md)
+
+### Témák
+
+- [brit alkotmanyos monarchia amerikai koztarsasag](brit_alkotmanyos_monarchia_amerikai_koztarsasag.md)
+- [felvilagosodas allamelmeletek jogok nyilatkozata](felvilagosodas_allamelmeletek_jogok_nyilatkozata.md)
+- [foldrajzi felfedezesek kapitalizmus](foldrajzi_felfedezesek_kapitalizmus.md)
+- [reformacio katolikus megujulas](reformacio_katolikus_megujulas.md)

@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **Varsói Szerződés**
 - **két világrend**
 - **NSZK–NDK**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](forradalom_1956.md)
+- [Következő téma](jelenkor_globalis_vilag_eu_demografia.md)

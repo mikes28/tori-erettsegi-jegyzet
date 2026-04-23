@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **árforradalom**
 - **kapitalizmus**
 - **manufaktúra**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](felvilagosodas_allamelmeletek_jogok_nyilatkozata.md)
+- [Következő téma](reformacio_katolikus_megujulas.md)

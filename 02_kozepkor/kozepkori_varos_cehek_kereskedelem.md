@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **céh**
 - **kereskedelem**
 - **vásár**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](iszlam_mohamed_koran.md)
+- [Következő téma](roman_gotikus_reneszansz_epiteszet.md)

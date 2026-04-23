@@ -43,3 +43,10 @@ A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Prób
 - **ÁVH**
 - **államosítás**
 - **kollektivizálás**
+
+<!-- NAV_LINKS_AUTO -->
+## Navigáció
+
+- [Vissza az indexhez](index.md)
+- [Előző téma](magyar_politikai_intezmenyek_nemzeti_kerdes.md)
+- [Következő téma](rendszervaltas_1989_1991.md)
