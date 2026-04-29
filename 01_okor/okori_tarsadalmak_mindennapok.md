@@ -30,9 +30,9 @@ Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin külön�
 - Fontos összefüggés: hogyan függött össze a társadalmi helyzet a politikai jogokkal és a mindennapi élet lehetőségeivel.
 - Érdemes tudni példákat: egy görög polgár, egy római polgár és egy rabszolga mindennapjai hogyan különböztek egymástól.
 
-## Kapcsolódás a történelem tankönyvhöz (9–12. évfolyam, NT-iki)
+## Rövid történeti összefoglaló
 
-Kapcsolódás a 9. osztályos tankönyv ókori társadalmakról és mindennapi életről szóló fejezeteihez. A tankönyv gyakran külön betéteket tartalmaz a hétköznapokról, ezeket érdemes elolvasni a politikai és katonai események mellett. Bár a pontos oldalszámok kiadásonként eltérhetnek, a címek és alcímek alapján könnyen megtalálhatók a kapcsolódó leckék.
+Az ókori görög poliszokban, például Athénban a Kr. e. 5. században a szabad polgárok és a rabszolgák – akik a lakosság felét is kitehették – egymás mellett éltek az agorán, a műhelyekben és a háztartásokban. Rómában a Kr. u. 1–2. században a Colosseum melletti utcákon a bérházak (insulae) emeletein zsúfolódtak a szegények, miközben a gazdagok kényelmes villáiban fűtéssel és mozaikpadlóval rendezkedtek be. Az egyiptomi Nílus-menti falvakban Kr. e. 3000-től a parasztok élete az áradáshoz igazodott: a nagy víz után vetőmag, aratás, majd a fáraó számára ledolgozandó közmunka váltogatta egymást.
 
 ## Kulcsfogalmak röviden
 

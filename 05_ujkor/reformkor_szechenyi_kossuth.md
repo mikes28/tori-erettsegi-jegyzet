@@ -30,9 +30,9 @@ Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin külön�
 - Fontos személyek: Széchenyi István, Kossuth Lajos, Wesselényi, Deák Ferenc.
 - Fontos összefüggés: Széchenyi és Kossuth programjának különbségei és hasonlóságai, valamint közös céljaik.
 
-## Kapcsolódás a történelem tankönyvhöz (9–12. évfolyam, NT-iki)
+## Rövid történeti összefoglaló
 
-Kapcsolódás a 11. osztályos tankönyv reformkorról szóló fejezeteihez. A tankönyvben külön alfejezetek foglalkoznak Széchenyi és Kossuth tevékenységével. Bár a pontos oldalszámok kiadásonként eltérhetnek, a címek és alcímek alapján könnyen megtalálhatók a kapcsolódó leckék.
+1825-ben a pozsonyi diétán Széchenyi István gróf egy évi jövedelmét ajánlotta fel a magyar tudományos akadémia megalapítására, ezzel szimbolikusan megnyitva a reformkor korszakát, amelynek célja Magyarország polgári és gazdasági modernizációja volt. Széchenyi szorgalmazta a Lánchíd építését (megnyílt 1849-ben), a Tisza-szabályozást és a hazai hitelrendszer megteremtését; ő volt a „legnagyobb magyar", aki a változásokat a bécsi udvarral együttműködve kívánta elérni. Az 1840-es évektől Kossuth Lajos a Pesti Hírlap hasábjain radikálisabb, a közteherviselést és az úrbér eltörlését sürgető reformprogramot hirdetett, és a nemesi közvélemény gyújtópontjává vált, felkészítve a nemzetet az 1848-as forradalomra.
 
 ## Kulcsfogalmak röviden
 

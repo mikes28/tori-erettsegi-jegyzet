@@ -30,9 +30,9 @@ Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin külön�
 - Fontos összefüggés: miért fontos a hatalommegosztás a demokrácia működése szempontjából.
 - Érdemes tudni példákat a határon túli magyar közösségekre és néhány magyarországi nemzetiségre.
 
-## Kapcsolódás a történelem tankönyvhöz (9–12. évfolyam, NT-iki)
+## Rövid történeti összefoglaló
 
-Kapcsolódás a 12. osztályos tankönyv állampolgári ismereteket és a mai magyar politikai rendszert bemutató fejezeteihez. Bár a pontos oldalszámok kiadásonként eltérhetnek, a címek és alcímek alapján könnyen megtalálhatók a kapcsolódó leckék.
+1989-ben az Ellenzéki Kerekasztal, a kommunista párt és a civil szervezetek tárgyalássorozata során kialakítottak egy új alkotmányos keretet, amely az egypárti diktatúra helyett parlamentáris köztársaságot alapított. 1989. október 23-án – az 1956-os forradalom évfordulóján – Szűrös Mátyás az Országház erkélyéről kikiáltotta a Magyar Köztársaságot, jelképesen lezárva a népi demokratikus korszakot. 1990. március 25-én és április 8-án megtartották az első szabad, többpárti választásokat, amelyeken a Magyar Demokrata Fórum győzött, Antall József alakított kormányt, és megkezdődött Magyarország demokratikus átalakulásának és euroatlanti integrációjának folyamata.
 
 ## Kulcsfogalmak röviden
 

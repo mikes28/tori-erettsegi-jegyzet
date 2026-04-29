@@ -30,9 +30,9 @@ Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin külön�
 - Fontos összefüggés: hogyan függött össze az ipari fejlődés a városiasodással és a munkásság helyzetének változásával.
 - Érdemes tudni néhány magyar ipari központot és ágazatot (pl. vasút, élelmiszeripar, gépgyártás).
 
-## Kapcsolódás a történelem tankönyvhöz (9–12. évfolyam, NT-iki)
+## Rövid történeti összefoglaló
 
-Kapcsolódás a 11. osztályos tankönyv ipari forradalom második hullámát és a dualizmus kori magyar iparosodást bemutató fejezeteihez. Bár a pontos oldalszámok kiadásonként eltérhetnek, a címek és alcímek alapján könnyen megtalálhatók a kapcsolódó leckék.
+A 19. század második felétől az ipari forradalom második hulláma az elektromosság, az acélipar és a vegyipar forradalmasításával szinte minden területen átalakította a termelést és a közlekedést. 1869-ben az Egyesült Államokban elkészült az első transkontinentális vasútvonal, és Edison 1879-es villanykörte-szabadalma nyomán az 1880-as évektől megkezdődött a városi elektromos hálózatok kiépítése. Magyarországon a dualizmus korában, különösen az 1880–1900-as évek között a vasút, a malomipar és a Ganz-gyár révén hazánk is bekapcsolódott ebbe a folyamatba, és Budapest a korszak végére valóban közép-európai ipari nagyvárossá nőtte ki magát.
 
 ## Kulcsfogalmak röviden
 

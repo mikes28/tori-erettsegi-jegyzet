@@ -30,9 +30,9 @@ Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin külön�
 - Fontos személyek: Petrarca (humanista költő), Leonardo da Vinci, Michelangelo, Erasmus.
 - Fontos összefüggés: hogyan kapcsolódik a reneszánsz az antik hagyományhoz, és miben különbözik a középkori gondolkodástól.
 
-## Kapcsolódás a történelem tankönyvhöz (9–12. évfolyam, NT-iki)
+## Rövid történeti összefoglaló
 
-Kapcsolódás a 10. osztályos történelem tankönyv reneszánszról és humanizmusról szóló fejezeteihez, valamint az irodalomkönyv kapcsolódó részeihez. Érdemes a művészeti illusztrációkat külön is tanulmányozni. Bár a pontos oldalszámok kiadásonként eltérhetnek, a címek és alcímek alapján könnyen megtalálhatók a kapcsolódó leckék.
+A 14. század elején Firenzében, a virágzó kereskedővárosban bontakozott ki az a szellemi megújulás, amelyet humanizmusnak nevezünk: Petrarca és Boccaccio az antik szerzőket fedezték fel újra, és az emberi méltóságot helyezték a középpontba. A 15. századi Firenzében a Medici-bankárdinasztia pártfogásával Botticelli, Leonardo da Vinci és Michelangelo alkotta meg a reneszánsz képzőművészet remekműveit. Magyarországon Hunyadi Mátyás (1458–1490) korának egyik legjelentősebb reneszánsz udvarát teremtette meg Budán: itáliai humanistákat hívott udvarába, és európai hírű könyvtárat, a Corvina-gyűjteményt hozta létre.
 
 ## Kulcsfogalmak röviden
 

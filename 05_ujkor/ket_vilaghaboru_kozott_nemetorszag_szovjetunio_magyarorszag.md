@@ -30,9 +30,9 @@ Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin külön�
 - Fontos személyek: Hitler, Sztálin, Horthy Miklós, Klebelsberg Kunó.
 - Fontos összefüggés: hogyan járultak ezek a rendszerek a második világháború kitöréséhez.
 
-## Kapcsolódás a történelem tankönyvhöz (9–12. évfolyam, NT-iki)
+## Rövid történeti összefoglaló
 
-Kapcsolódás a 12. osztályos tankönyv két világháború közötti időszakot bemutató fejezeteihez. Bár a pontos oldalszámok kiadásonként eltérhetnek, a címek és alcímek alapján könnyen megtalálhatók a kapcsolódó leckék.
+A Versailles-ban 1919-ben aláírt békerendszer megalázó feltételei ellenére a Weimari Köztársaság (1919–1933) a demokratikus parlamentarizmus kísérletét próbálta meghonosítani Németországban, ám a nagy gazdasági világválság, az infláció és a politikai szélsőségek megroppantották ezt a kísérletet. 1933. január 30-án Adolf Hitler kancellári kinevezésével a náci párt pillanatok alatt felszámolta a demokratikus intézményeket, és megkezdte a totális diktatúra kiépítését. A Szovjetunióban ezzel párhuzamosan Sztálin az 1930-as évek nagy terrorával – a Gulag-rendszer kiteljesítésével és a kirakatperekkel – megszilárdította egyeduralmát, és a két diktátor 1939. augusztus 23-án a Molotov–Ribbentrop-paktummal titkos egyezséget kötött Kelet-Európa felosztásáról.
 
 ## Kulcsfogalmak röviden
 

@@ -30,9 +30,9 @@ Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin külön�
 - Fontos személyek: II. Rákóczi Ferenc, Károlyi Sándor.
 - Fontos összefüggés: miért nem vezetett a szabadságharc teljes függetlenséghez, és miért volt mégis fontos a magyar politikai hagyományban.
 
-## Kapcsolódás a történelem tankönyvhöz (9–12. évfolyam, NT-iki)
+## Rövid történeti összefoglaló
 
-Kapcsolódás a 10. osztályos tankönyv Rákóczi-szabadságharcról szóló fejezeteihez. Érdemes áttekinteni a hadműveleteket bemutató térképeket és a szatmári béke pontjait összefoglaló táblázatokat. Bár a pontos oldalszámok kiadásonként eltérhetnek, a címek és alcímek alapján könnyen megtalálhatók a kapcsolódó leckék.
+1703 nyarán II. Rákóczi Ferenc, Erdély egykori fejedelmi sarjadéka, a tiszaháti felkelés élére állt, és hamarosan az egész kuruc mozgalom vezérévé vált, mintegy százezer fős sereg élén küzdve a Habsburg uralom ellen. A szabadságharc nyolc évig tartott, és bár a kurucok eleinte sikeres hadjáratokat vezettek, a túlerő és a belső megosztottság fokozatosan meggyengítette ellenálló képességüket. 1711. április 30-án a szatmári béke megkötésével a harc véget ért: az amnesztiát ígérő egyezség alapján a kuruc nemesség nagy része letette a fegyvert, Rákóczi azonban soha nem tért haza, és 1735-ben a törökországi Rodostóban halt meg száműzetésben.
 
 ## Kulcsfogalmak röviden
 

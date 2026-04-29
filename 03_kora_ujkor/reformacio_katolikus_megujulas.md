@@ -30,9 +30,9 @@ Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin külön�
 - Fontos személyek: Luther Márton, Kálvin János, Loyolai Szent Ignác.
 - Fontos összefüggés: hogyan vezetett a reformáció Európa vallási megosztottságához, és milyen eszközökkel próbált válaszolni erre a katolikus egyház.
 
-## Kapcsolódás a történelem tankönyvhöz (9–12. évfolyam, NT-iki)
+## Rövid történeti összefoglaló
 
-Kapcsolódás a 10. osztályos tankönyv reformációval és ellenreformációval foglalkozó fejezeteihez, valamint a magyar vonatkozásokat bemutató részekhez (protestantizmus Magyarországon). Bár a pontos oldalszámok kiadásonként eltérhetnek, a címek és alcímek alapján könnyen megtalálhatók a kapcsolódó leckék.
+1517. október 31-én Luther Márton wittenbergi szerzetes kiszögezte 95 tételét a búcsúcédulák ellen, ezzel elindítva azt a reformációs mozgalmat, amely a következő évtizedekben kettészakította Nyugat-Európa vallási egységét. 1536-ban Kálvin János Genfben alapozott egyházát a predesztináció tanára és a szigorú közösségi fegyelemre, amelynek hatása különösen erős lett Magyarországon és Erdélyben. A tridenti zsinat (1545–1563) a katolikus megújulás programját foglalta össze: megerősítette a pápa tekintélyét, megtisztította az egyházi visszaéléseket, és a jezsuiták révén az oktatás és a misszió új erejével állt szembe a protestáns terjeszkedéssel.
 
 ## Kulcsfogalmak röviden
 

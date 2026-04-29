@@ -31,9 +31,9 @@ Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin külön�
 - Fontos helyek: Jeruzsálem, Szentföld, Egyiptom.
 - Érdemes tudni a Kr. e. 10. század körüli egységes izraeli királyság idejét (Dávid és Salamon kora).
 
-## Kapcsolódás a történelem tankönyvhöz (9–12. évfolyam, NT-iki)
+## Rövid történeti összefoglaló
 
-Kapcsolódás a 9. osztályos történelem tankönyvhez (NT-iki): az ókori Kelet és a zsidó vallásról szóló fejezetek, a vallások összehasonlítását bemutató részek. Bár a pontos oldalszámok kiadásonként eltérhetnek, a címek és alcímek alapján könnyen megtalálhatók a kapcsolódó leckék.
+A zsidó hagyomány szerint Ábrahám szövetsége Istennel vetette meg az egyistenhit alapjait, Mózes pedig az egyiptomi fogságból való kivonulás után – a hagyomány szerint Kr. e. 13. század körül – a Sínai-hegyen vette át a Tórát. Kr. e. 1000 körül Dávid király Jeruzsálemet tette az egységes zsidó királyság fővárosává, fia, Salamon pedig Kr. e. 960 körül felépítette az első Jeruzsálemi Templomot, az egyistenhit legszentebb helyét. A babiloni fogság (Kr. e. 586–538) után a hazatért zsidók újjáépítették a Templomot, és a diaszpórában szétszóródva is megőrizték egyedi vallásos identitásukat, amely a zsidóság fennmaradásának alapjává vált.
 
 ## Kulcsfogalmak röviden
 

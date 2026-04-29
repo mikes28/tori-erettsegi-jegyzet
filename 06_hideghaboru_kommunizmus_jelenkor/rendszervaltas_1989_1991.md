@@ -30,9 +30,9 @@ Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin külön�
 - Fontos dátum: 1989. október 23. – a Magyar Köztársaság kikiáltása.
 - Fontos összefüggés: milyen politikai és gazdasági nehézségekkel járt az átmenet (munkanélküliség, infláció, társadalmi bizonytalanság).
 
-## Kapcsolódás a történelem tankönyvhöz (9–12. évfolyam, NT-iki)
+## Rövid történeti összefoglaló
 
-Kapcsolódás a 12. osztályos tankönyv rendszerváltásról szóló fejezeteihez, amelyek a politikai események mellett a gazdasági és társadalmi következményeket is elemzik. Bár a pontos oldalszámok kiadásonként eltérhetnek, a címek és alcímek alapján könnyen megtalálhatók a kapcsolódó leckék.
+1989 tavaszán-nyarán az Ellenzéki Kerekasztal és a Magyar Szocialista Munkáspárt tárgyalásainak eredményeként megállapodtak az alkotmányos átmenet feltételeiről, és Magyarország a tárgyalásos rendszerváltás modelljévé vált Kelet-Európában. 1990. március 25-én és április 8-án megrendezték az első szabad választásokat, amelyen a Magyar Demokrata Fórum győzött, és Antall József miniszterelnökletével megalakult az első demokratikusan választott kormány. 1999. március 12-én Magyarország csatlakozott a NATO-hoz, 2004. május 1-jén pedig az Európai Unióhoz – ezzel lezárult az az út, amelyet a rendszerváltás nyitott meg, és az ország visszatért az euroatlanti demokráciák közösségébe.
 
 ## Kulcsfogalmak röviden
 
