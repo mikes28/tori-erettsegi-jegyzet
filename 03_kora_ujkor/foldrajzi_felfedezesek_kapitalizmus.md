@@ -30,9 +30,9 @@ Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin külön�
 - Fontos személyek: Kolumbusz Kristóf, Vasco da Gama, Magellán.
 - Fontos összefüggés: hogyan kapcsolódik össze a felfedezések sora, a gyarmatosítás és a korai kapitalista gazdaság kialakulása.
 
-## Kapcsolódás a történelem tankönyvhöz (9–12. évfolyam, NT-iki)
+## Rövid történeti összefoglaló
 
-Kapcsolódás a 10. osztályos történelem tankönyv nagy földrajzi felfedezéseket és a korai kapitalizmust bemutató fejezeteihez. A térképek és ábrák különösen hasznosak a felfedezők útvonalainak megjegyzéséhez. Bár a pontos oldalszámok kiadásonként eltérhetnek, a címek és alcímek alapján könnyen megtalálhatók a kapcsolódó leckék.
+1492. október 12-én Kolumbusz Kristóf spanyol zászló alatt elérte Amerika partjait, és ezzel megnyílt az az atlanti kereskedelmi útvonal, amely gyökeresen átalakította a világ gazdasági rendjét. Hat évvel később, 1498-ban Vasco da Gama portugál tengerész Afrikát megkerülve eljutott Indiába, és a fűszerkereskedelem új útját nyitotta meg, elvágva az eddigi szárazföldi közvetítő kereskedőket. A 16. századi gyarmatosítás – ezüstbányák Potosíban, cukornád-ültetvények a Karib-szigeteken – hallatlan tőkefelhalmozást indított el Nyugat-Európában, amely az árutermelő kapitalizmus megszilárdulásának egyik legfontosabb forrása lett.
 
 ## Kulcsfogalmak röviden
 

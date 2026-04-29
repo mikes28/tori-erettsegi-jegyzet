@@ -30,9 +30,9 @@ Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin külön�
 - Fontos összefüggés: hogyan kapcsolódnak ezek az eszmék a forradalmakhoz és a nemzetállamok kialakulásához.
 - Érdemes tudni, hogy egyes történelmi szereplők melyik irányzathoz köthetők (pl. liberális reformerek, konzervatív államférfiak).
 
-## Kapcsolódás a történelem tankönyvhöz (9–12. évfolyam, NT-iki)
+## Rövid történeti összefoglaló
 
-Kapcsolódás a 11. osztályos tankönyv 19. századi eszmetörténeti fejezeteihez, amelyek bemutatják az új politikai irányzatokat és a polgári átalakulást. Bár a pontos oldalszámok kiadásonként eltérhetnek, a címek és alcímek alapján könnyen megtalálhatók a kapcsolódó leckék.
+A 19. század elején három meghatározó politikai eszme versengett Európában: a liberalizmus az egyéni szabadságjogokat és a korlátozott állami beavatkozást hirdette, a konzervativizmus a tradicionális intézmények és a hierarchikus rend megőrzését védte, a nacionalizmus pedig a népi-kulturális összetartozás alapján új nemzetállamok létrehozásán munkálkodott. Az 1848-as forradalmak hulláma Párizstól Berlinen és Bécsen át Pestre söpört, és mindhárom eszme – különösen a liberalizmus és nacionalizmus szövetsége – meghatározó szerepet játszott a polgári átalakulás igényének megfogalmazásában. Az 1850–1870-es évek folyamán Olaszország (1861) és Németország (1871) egyesülése megvalósult, bebizonyítva, hogy a nacionalizmus kora a valódi politikai átrendeződés ereje lett.
 
 ## Kulcsfogalmak röviden
 

@@ -30,9 +30,9 @@ Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin külön�
 - Fontos összefüggés: miért éppen Angliában indult el az ipari forradalom, és hogyan terjedt át más országokra.
 - Érdemes tudni a társadalmi következményekről: munkásosztály kialakulása, városiasodás, új szociális problémák.
 
-## Kapcsolódás a történelem tankönyvhöz (9–12. évfolyam, NT-iki)
+## Rövid történeti összefoglaló
 
-Kapcsolódás a 11. osztályos tankönyv ipari forradalomról szóló fejezeteihez. A tankönyvi ábrák és grafikonok segítenek a gazdasági változások megértésében. Bár a pontos oldalszámok kiadásonként eltérhetnek, a címek és alcímek alapján könnyen megtalálhatók a kapcsolódó leckék.
+Az ipari forradalom első hulláma az 1760-as évektől Angliában bontakozott ki, ahol a szén- és vasérc-lelőhelyek, a tőke és a gyarmatpiaci kereslet egyedülálló feltételeket teremtett a gőzgép és a mechanikus szövőszék elterjedéséhez. 1769-ben James Watt szabadalmaztatta a kondenzációs gőzgépet, amely képessé vált arra, hogy malom, szövőgép és szivattyú egyaránt meghajtsa – ezzel a gőzenergia általánosan alkalmazható erőforrássá vált. Az 1780–1830-as évekre a manchesteri pamutüzemek és a birminghami vasgyárak soraiban már százezrek dolgoztak gyári körülmények között, és a városok népessége megtöbbszöröződött, gyökeresen átalakítva a brit társadalom szerkezetét.
 
 ## Kulcsfogalmak röviden
 

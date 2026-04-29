@@ -30,9 +30,9 @@ Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin külön�
 - Fontos személyek: Jézus, Péter apostol, Pál apostol, Konstantin császár.
 - Fontos események: a kereszténység üldözései és államvallássá tétele (313 – milánói ediktum).
 
-## Kapcsolódás a történelem tankönyvhöz (9–12. évfolyam, NT-iki)
+## Rövid történeti összefoglaló
 
-Kapcsolódás a 9. osztályos tankönyv ókori Róma és a kereszténység kialakulása témaköréhez, különösen az Újszövetség és az egyház kialakulásáról szóló részekhez. Bár a pontos oldalszámok kiadásonként eltérhetnek, a címek és alcímek alapján könnyen megtalálhatók a kapcsolódó leckék.
+Jézus Krisztus a Kr. u. 1. század első felében hirdette tanításait a Római Birodalom Júdea tartományában, és Kr. u. 30 körül keresztre feszítették Jeruzsálemben. Az üldözött keresztény közösségeket Kr. u. 313-ban Nagy Konstantin és Licinius a milánói ediktummal felszabadította, szabad vallásgyakorlatot biztosítva számukra. Kr. u. 380-ban I. Theodosius császár a thesszalonikaí ediktummal a kereszténységet a Római Birodalom egyedüli államvallásává nyilvánította, ezzel megpecsételve az ókori pogány vallások sorsát.
 
 ## Kulcsfogalmak röviden
 

@@ -30,9 +30,9 @@ Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin külön�
 - Fontos fogalmak: polisz, népgyűlés, ötszázak tanácsa, sztratégosz, cserépszavazás.
 - Fontos korszak: Kr. e. 5. század – az athéni demokrácia fénykora, Periklész kora.
 
-## Kapcsolódás a történelem tankönyvhöz (9–12. évfolyam, NT-iki)
+## Rövid történeti összefoglaló
 
-Kapcsolódás a 9. osztályos tankönyv ókori Görögországról szóló fejezeteihez: az athéni demokrácia kialakulása, intézményei és társadalmi háttere. Bár a pontos oldalszámok kiadásonként eltérhetnek, a címek és alcímek alapján könnyen megtalálhatók a kapcsolódó leckék.
+Kr. e. 594-ben Szolón archón adósságtörlő és alkotmányozó reformjai megvetették az athéni polgárok egyenlőségének alapjait. Kr. e. 508-ban Kleiszthenész bevezette a területi alapú tíz phylé-rendszert, amellyel végleg megtörte a vérségi arisztokrácia hatalmát, és létrehozta a valódi népgyűlést, az ekklésziát. A demokrácia aranykora Kr. e. 461–429 között Periklész nevéhez fűződik, aki a napidíj bevezetésével lehetővé tette, hogy a szegényebb polgárok is részt vehessenek a városállam irányításában.
 
 ## Kulcsfogalmak röviden
 

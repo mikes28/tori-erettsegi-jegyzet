@@ -30,9 +30,9 @@ Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin külön�
 - Fontos személyek: Károlyi Mihály, Kun Béla, Horthy Miklós.
 - Fontos összefüggés: hogyan járult a politikai instabilitás a későbbi autoriter rendszer kialakulásához.
 
-## Kapcsolódás a történelem tankönyvhöz (9–12. évfolyam, NT-iki)
+## Rövid történeti összefoglaló
 
-Kapcsolódás a 12. osztályos tankönyv 1918–1920 közötti magyarországi eseményeket bemutató fejezeteihez. Bár a pontos oldalszámok kiadásonként eltérhetnek, a címek és alcímek alapján könnyen megtalálhatók a kapcsolódó leckék.
+1918. október 31-én az őszirózsás forradalom söpörte el a régi rendet Budapesten: Károlyi Mihály gróf vette át a hatalmat, és kikiáltotta a köztársaságot, de a szétesőfélben lévő ország területét egymás után szállták meg a szomszéd országok katonái. 1919. március 21-én a kommunisták és a szociáldemokraták koalíciója proklamálta a Magyar Tanácsköztársaságot, amelynek 133 napos uralmát vörös és fehér terror egyaránt jellemezte, majd román csapatok vetettek véget. 1920. június 4-én a trianoni békét Magyarország aláírta, elveszítve területének kétharmadát és számos magyarlakta területet, ami az ország politikai és társadalmi fejlődésének évtizedekre alapvető meghatározójává vált.
 
 ## Kulcsfogalmak röviden
 

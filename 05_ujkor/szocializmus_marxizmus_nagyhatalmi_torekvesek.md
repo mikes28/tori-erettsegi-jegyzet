@@ -30,9 +30,9 @@ Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin külön�
 - Fontos személyek: Karl Marx, Friedrich Engels.
 - Fontos összefüggés: hogyan kapcsolódik össze a társadalmi feszültség (munkáskérdés) és a nemzetközi feszültség (gyarmatosítás, fegyverkezés).
 
-## Kapcsolódás a történelem tankönyvhöz (9–12. évfolyam, NT-iki)
+## Rövid történeti összefoglaló
 
-Kapcsolódás a 11. osztályos tankönyv szocializmusról, munkásmozgalomról és a nagyhatalmi versengésről szóló fejezeteihez. Bár a pontos oldalszámok kiadásonként eltérhetnek, a címek és alcímek alapján könnyen megtalálhatók a kapcsolódó leckék.
+1848 februárjában Marx és Engels kiadta a Kommunista Kiáltványt, amely a tőkések és a munkásosztály (proletariátus) harcát az emberi történelem mozgatórugójaként értelmezte, és a magántulajdon megszüntetésére szólított fel. 1864-ben Londonban megalakult az I. Internacionálé, az első nemzetközi munkásszövetség, amelynek célja a nemzeti határokon átívelő munkásmozgalom összehangolása volt; belső vitái azonban 1876-ra felbomláshoz vezettek. A 19. század második felében Európa nagyhatalmainak versengése – a gyarmatbirodalmak terjeszkedése Afrikában és Ázsiában, a fegyverkezési verseny és a szövetségi rendszerek kiépülése – megágyazott annak a feszültségnek, amely végül 1914-ben az első világháborúba torkollott.
 
 ## Kulcsfogalmak röviden
 

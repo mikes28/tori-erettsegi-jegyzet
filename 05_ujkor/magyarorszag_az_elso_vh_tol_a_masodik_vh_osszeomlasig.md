@@ -30,9 +30,9 @@ Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin külön�
 - Fontos összefüggés: hogyan kapcsolódnak össze az 1918–1920-as események, Trianon, a Horthy-rendszer és a második világháborús katasztrófa.
 - Érdemes tudni néhány kulcsszemélyt (Horthy Miklós, Teleki Pál, Bethlen István) és döntésük következményeit.
 
-## Kapcsolódás a történelem tankönyvhöz (9–12. évfolyam, NT-iki)
+## Rövid történeti összefoglaló
 
-Kapcsolódás a 12. osztályos tankönyv Magyarország 1918–1945 közötti történetét összefoglaló fejezeteihez. Bár a pontos oldalszámok kiadásonként eltérhetnek, a címek és alcímek alapján könnyen megtalálhatók a kapcsolódó leckék.
+A Trianon utáni Magyarországon 1920-tól Horthy Miklós kormányzó irányításával konszolidálódott a Bethlen István miniszterelnök által egyensúlypolitikával jellemzett rendszer, amelynek középpontjában a területi revízió reménye állt. Az 1930-as évek végén a revíziós célok elérése érdekében Magyarország egyre szorosabb szövetséget kötött a náci Németországgal: 1938–1940 között három bécsi döntés visszacsatolt észak-erdélyi, felvidéki és kárpátaljai területeket. 1941. június 27-én Magyarország belépett a Szovjetunió elleni háborúba, majd 1944. március 19-én a németek megszállták az országot, és megkezdődött a magyar zsidóság deportálása, az ország pedig 1945 tavaszán szovjet katonai uralom alá került.
 
 ## Kulcsfogalmak röviden
 

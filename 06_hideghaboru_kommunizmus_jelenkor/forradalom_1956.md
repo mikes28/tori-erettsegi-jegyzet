@@ -30,9 +30,9 @@ Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin külön�
 - Fontos fogalmak: forradalom, szabadságharc, semlegesség, megtorlás.
 - Fontos személyek: Nagy Imre, Kádár János, Maléter Pál, Mindszenty József.
 
-## Kapcsolódás a történelem tankönyvhöz (9–12. évfolyam, NT-iki)
+## Rövid történeti összefoglaló
 
-Kapcsolódás a 12. osztályos tankönyv 1956-os forradalomról szóló fejezeteihez, különösen a követeléseket, a főbb eseményeket és a megtorlást bemutató részekhez. Bár a pontos oldalszámok kiadásonként eltérhetnek, a címek és alcímek alapján könnyen megtalálhatók a kapcsolódó leckék.
+1956. október 23-án Budapesten a Műegyetem hallgatóinak felvonulásával kezdődött az a forradalom, amely néhány óra alatt a Sztálin-szobor ledöntésébe és a Rádió ostromába torkollott, majd az egész ország felkelésévé szélesedett. Nagy Imre miniszterelnök a tömeg nyomására bejelentette Magyarország semlegességét és kilépését a Varsói Szerződésből, de 1956. november 4-én Hruscsov parancsára szovjet tankhad gördült be a fővárosba, és néhány nap alatt leverte a felkelést. A megtorlás során ezreket ítéltek börtönre, Nagy Imrét és társait 1958. június 16-án titkos perben kivégezték, mintegy 200 000 magyar pedig elhagyta az országot.
 
 ## Kulcsfogalmak röviden
 

@@ -30,9 +30,9 @@ Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin külön�
 - Fontos személyek: John Locke, Montesquieu, Rousseau, Voltaire.
 - Fontos összefüggés: hogyan kapcsolódnak a felvilágosodás eszméi az amerikai és francia forradalom politikai programjaihoz, és miért tekintjük az Emberi és Polgári Jogok Nyilatkozatát alapvető jogi dokumentumnak.
 
-## Kapcsolódás a történelem tankönyvhöz (9–12. évfolyam, NT-iki)
+## Rövid történeti összefoglaló
 
-Kapcsolódás a 10–11. osztályos történelem tankönyv felvilágosodásról, az amerikai és francia forradalomról szóló fejezeteihez. A tankönyv rendszerint részleteket közöl az Emberi és Polgári Jogok Nyilatkozatából, ezeket érdemes átolvasni és értelmezni. Bár a pontos oldalszámok kiadásonként eltérhetnek, a címek és alcímek alapján könnyen megtalálhatók a kapcsolódó leckék.
+A 18. századi felvilágosodás gondolkodói – John Locke a természetes jogokról, Montesquieu a hatalommegosztásról, Rousseau a társadalmi szerződésről – olyan eszméket fogalmaztak meg, amelyek az európai és amerikai forradalomkeresők számára kézikönyvül szolgáltak. 1789. augusztus 26-án a francia Nemzetgyűlés elfogadta az Emberi és Polgári Jogok Nyilatkozatát, amely kimondta a szabadság, a tulajdon és az ellenállás jogát, egyszersmind megfogalmazva a modern polgári állam alapelveit. A forradalmi Franciaország ezekkel az elvekkel söpörte el a feudális rendszert, és a napóleoni háborúk révén terjesztette el a liberális eszméket egész Európában.
 
 ## Kulcsfogalmak röviden
 
