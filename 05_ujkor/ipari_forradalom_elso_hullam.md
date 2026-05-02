@@ -1,48 +1,45 @@
 # Az ipari forradalom első hulláma
 
-Az ipari forradalom első hulláma a 18. század végén és a 19. század elején indult el Angliában. A gépek, a gyáripar és a modern közlekedés gyökeresen átalakították a gazdaságot és a társadalmat.
+## Rövid lényeg
+- Az ipari forradalom első hulláma a 18. sz. végén Angliában indult el.
+- A gőzgép (Watt, 1769) és a textilipar gépesítése volt az alapja.
+- A vasút megjelenése forradalmasította a szállítást és a kereskedelmét.
+- Új társadalmi osztály jött létre: az ipari munkásság (proletariátus).
+- A folyamat az 1780–1830-as évekre Manchester, Birmingham körzetére összpontosult.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **ipari forradalom**: a kézműves termelés gépesített gyáriiparrá való átalakulása
+- **gőzgép**: James Watt (1769) javítása; szén energiájából mechanikus munkát állít elő
+- **gyáripar**: tőkés tulajdonú, gépesített, nagyüzemi termelés; munkamegosztás
+- **vasút**: gőzmozdony + sínpálya; 1825: az első kereskedelmi vasút (Stockton–Darlington)
+- **urbanizáció**: tömeges városba áramlás; az agrártársadalomból ipari társadalomba való átmenet
+- **munkásosztály (proletariátus)**: bért kapó ipari munkások; nincs termelőeszközük
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **James Watt** – kondenzációs gőzgép (1769); az ipari forradalom szimbóluma
+- **George Stephenson** – az első gőzmozdony (Rocket, 1829); vasútépítés úttörője
+- **Richard Arkwright** – fonógép szabadalma; első gyárak Angliában
 
-- Textilipar gépesítése: fonó- és szövőgépek, gyárak.
-- Gőzgép: új energiaforrás, amelyet bányászatban, iparban és közlekedésben is használtak.
-- Gyáripar: tömeges termelés, munkamegosztás, munkásosztály kialakulása.
-- Közlekedés forradalma: vasút, gőzhajó.
-- Összefüggések a mezőgazdaság, könnyű- és nehézipar között.
+## Évszámok
+- **1769** – Watt gőzgép-szabadalma
+- **1760-as évek** – az ipari forradalom kezdete Angliában (textilipar)
+- **1825** – első kereskedelmi vasút (Stockton–Darlington)
+- **1780–1830** – az ipari forradalom első hullámának csúcsidőszaka Angliában
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Okok, miért Angliában:** szén és vas bőven; tőke (gyarmatokból); tengerészeti kereskedelem; politikai stabilitás; szabadalmak védelme
+- **Következmények:** gyors városnövekedés → zsúfoltság, szegénynegyedek; gyermekmunka; a munkásmozgalom kialakulása; Anglia világhatalma megerősödik
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- Az ipari forradalom az emberiség termelési és életmódbeli átalakulásának egyik legnagyobb fordulópontja.
+- A gőzgép nemcsak egy találmány volt, hanem egy egész korszak szimbóluma.
+- Az iparosodás javította az átlagos életszínvonalat hosszú távon, de rövidtávon nagyon nehéz körülményeket teremtett.
+- A munkásosztály kialakulása a szocialista és munkásmozgalmak előfeltétele volt.
 
-- Az ipari forradalom először Angliában bontakozott ki, ahol megfelelő tőke, nyersanyag és munkaerő állt rendelkezésre.
-- A textilipar gépesítése jelentősen növelte a termelékenységet, és olcsóbbá tette a ruházati termékeket.
-- A gőzgép használata lehetővé tette a mélyebb bányák működtetését és a gyárak rugalmasabb elhelyezését.
-- A vasút kiépülése gyorsabbá tette az áruk és emberek szállítását, összekötve a városokat és ipari központokat.
-- A mezőgazdaság, a könnyűipar (pl. textilipar) és a nehézipar (pl. vasgyártás) egymásra épülve húzták magukkal a gazdasági növekedést.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: ipari forradalom, gőzgép, gyáripar, vasút, urbanizáció.
-- Fontos összefüggés: miért éppen Angliában indult el az ipari forradalom, és hogyan terjedt át más országokra.
-- Érdemes tudni a társadalmi következményekről: munkásosztály kialakulása, városiasodás, új szociális problémák.
-
-## Rövid történeti összefoglaló
-
-Az ipari forradalom első hulláma az 1760-as évektől Angliában bontakozott ki, ahol a szén- és vasérc-lelőhelyek, a tőke és a gyarmatpiaci kereslet egyedülálló feltételeket teremtett a gőzgép és a mechanikus szövőszék elterjedéséhez. 1769-ben James Watt szabadalmaztatta a kondenzációs gőzgépet, amely képessé vált arra, hogy malom, szövőgép és szivattyú egyaránt meghajtsa – ezzel a gőzenergia általánosan alkalmazható erőforrássá vált. Az 1780–1830-as évekre a manchesteri pamutüzemek és a birminghami vasgyárak soraiban már százezrek dolgoztak gyári körülmények között, és a városok népessége megtöbbszöröződött, gyökeresen átalakítva a brit társadalom szerkezetét.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **ipari forradalom**
-- **gőzgép**
-- **gyáripar**
-- **vasút**
-- **urbanizáció**
+## Forráselemzéshez
+- Korabeli parlamenti vizsgálati anyagok (gyermekmunka): a szociális problémák dokumentumai
+- Gőzgép-szabadalmak és gyártechnikai leírások: az innováció rögzített forrásai
+- Statisztikák (vasút km, gyárak száma, városnépesség): a fejlődés mennyiségi mérése
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

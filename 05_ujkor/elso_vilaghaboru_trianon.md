@@ -1,48 +1,48 @@
-# Az első világháború, békék és Trianon
+# Az első világháború és Trianon
 
-Az első világháború totális háború volt, amelyben a nagyhatalmak évekig tartó küzdelmet folytattak. A háborút lezáró békék átalakították Európa térképét, Magyarország számára pedig a trianoni békeszerződés súlyos területi és népességveszteséget jelentett.
+## Rövid lényeg
+- 1914. június 28.: a szarajevói merénylet kiváltó oka lett az első világháborúnak.
+- A háború 4 évig tartott; tízmillió katona halt meg; állóháborúk, gázfegyverek, lövészárkok.
+- 1918: az Osztrák–Magyar Monarchia és Magyarország összeomlása.
+- 1920. június 4.: a trianoni békeszerzpodés Magyarország területének 2/3-át elvette.
+- Trianon a magyar kollektív emlékezet egyik legmeghatározóbb traumája.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **antant**: Nagy-Britannia, Franciaország, Oroszország (és USA 1917-től) szövetsége
+- **központi hatalmak**: Németország, Osztrák–Magyar Monarchia, Oszmán Birodalom, Bulgária
+- **állóháború**: a lövészárkok mögül zajló hónapokon, éveken át tartó szinte mozdulatlan frontvonal
+- **Párizs környéki békerendszer**: 1919–1920-as békék, amelyek újrarajzolták Európa térképét
+- **trianoni békeszerződés (1920)**: Magyarország elveszítette területének 2/3-át, lakosságának >1/3-át
+- **revizionizmus**: a trianoni határok felülvizsgálatának politikai igénye
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **Gavrilo Princip** – a szarajevói merénylet elkövetője; 1914. június 28.
+- **Ferenc Ferdinánd** – az Osztrák–Magyar Monarchia trónörököse; meggyilkolták Szarajevóban
+- **Wilson elnök** – az USA elnöke; 14 pontos békeprogram; önrendelkezési elv
+- **Apponyi Albert** – Magyarország képviselője a trianoni béketárgyalásokon
 
-- Központi hatalmak és antant.
-- Frontok: nyugati front, keleti front, balkáni front.
-- Párizs környéki békerendszer.
-- Trianoni békeszerződés (1920).
-- Következmények: területveszteség, népességveszteség, gazdasági nehézségek.
+## Évszámok
+- **1914. június 28.** – szarajevói merénylet
+- **1914. augusztus** – az első világháború kitörése; az Osztrák–Magyar Monarchia hadüzenete Szerbiának
+- **1917** – az USA belép a háborúba; orosz forradalom → Oroszország kilép
+- **1918. november** – fegyverszünet; a Monarchia és Magyarország összeomlása
+- **1920. június 4.** – trianoni békeszerződés aláírása
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Okok a háborúnak:** nagyhatalmi rivalizálás, szövetségi rendszerek, fegyverkezési verseny, a Balkán feszültségei
+- **Trianon okai:** a vesztes oldalon állás; Wilson önrendelkezési elvének alkalmazása a kisebbségekre; antant győztesek érdekei
+- **Következmények:** ~3,3 millió magyar került az utódállamokba; gazdasági dezintegráció; a revízió a két világháború közötti politika fő célja lett
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- Az első világháború az európai civilizáció önpusztítása volt: az ipari tömeggyilkosság kezdete.
+- Trianon nem egyszerűen területveszteség volt, hanem milliók életét szétszakító döntés.
+- A Párizs környéki békerendszer az önrendelkezési elveket egyenetlenül alkalmazta: a magyarokra nem.
+- A trianoni revizionizmus meghatározta a Horthy-korszak külpolitikáját és közvéleményét.
 
-- Az első világháború 1914-ben robbant ki, közvetlen kiváltó oka a szarajevói merénylet volt.
-- A háború hosszú állóháborúvá vált, hatalmas emberveszteségekkel.
-- 1918–1920 között a Párizs környéki békeszerződések újrarajzolták Európa határait.
-- A trianoni béke értelmében Magyarország területének nagy részét elvesztette, sok magyar került új államok határai közé.
-- A béke súlyos gazdasági, társadalmi és lelki traumát okozott a magyar társadalomban.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: antant, központi hatalmak, front, Párizs környéki békék, Trianon.
-- Fontos évszámok: 1914–1918 – első világháború; 1920 – trianoni béke.
-- Fontos összefüggés: hogyan járult hozzá a háború és a békerendszer Európa politikai instabilitásához és a revíziós törekvésekhez.
-
-## Rövid történeti összefoglaló
-
-1914. június 28-án Szarajevóban Gavrilo Princip meggyilkolta Ferenc Ferdinánd trónörököst, és ez a merénylet néhány héten belül lángba borította Európát: az Osztrák–Magyar Monarchia hadüzenetével megkezdődött az első világháború. Négy évnyi frontmészárlás és mintegy tízmillió halott után 1918 novemberére összeomlott a Monarchia; Magyarország legyőzött államként fegyverszünetet kötött. 1920. június 4-én a versailles-i Trianon-palotában aláírt békeszerződés Magyarország területének kétharmadát és lakosságának több mint harmadát az utódállamokhoz csatolta, és a nemzeti tragédia, amelyet „Trianon" névvel illetünk, máig a magyar kollektív emlékezet legfájóbb pontja.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **első világháború**
-- **Párizs környéki békék**
-- **Trianon**
-- **területveszteség**
-- **revizionizmus**
+## Forráselemzéshez
+- Trianoni békeszöveg: a területi rendelkezések és indoklásaik
+- Apponyi Albert védőbeszéde: Magyarország érvelése a béketárgyalásokon
+- Háborús fényképek és levélgyűjtemények: az állóháború és a katonák életének dokumentumai
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

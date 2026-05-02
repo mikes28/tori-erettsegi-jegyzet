@@ -1,48 +1,48 @@
-# A hidegháború: szovjet–amerikai szembenállás és a két világrend
+# A hidegháború és a két világrend
 
-A második világháború után a világ két nagyhatalmi tömbre szakadt: az Egyesült Államok vezette nyugati blokkra és a Szovjetunió vezette keleti blokkra. A hidegháború idején a szembenállás főként politikai, katonai és gazdasági versengésben jelent meg, nem pedig közvetlen nagyhatalmi háborúban.
+## Rövid lényeg
+- A hidegháború a II. vh. utáni USA–Szovjetunió szembenállás; közvetlen katonai összecsapás nélkül.
+- Két tömb: NATO (1949) – nyugati demokráciák; Varsói Szerződés (1955) – keleti kommunista tömb.
+- Fegyverkezési verseny, atompatt, propaganda és helyi háborúk (Korea, Vietnam) jellemzik.
+- Németország kettéosztása (NSZK és NDK) Európa megosztottságának szimbóluma volt.
+- A kubai rakétaválság (1962) a hidegháború legsúlyosabb feszültségpontja volt.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **hidegháború**: közvetlen fegyveres konfliktus nélküli, hosszú ideig tartó USA–SZU szembenállás (1947–1991)
+- **NATO**: Észak-atlanti Szerződés Szervezete (1949); a nyugati katonai szövetség
+- **Varsói Szerződés**: a szovjet blokk katonai szövetsége (1955); NDK, Magyarország, Lengyelország stb.
+- **Marshall-terv**: USA gazdasági segélyprogram Nyugat-Európának (1947–1952); a kommunizmus ellen
+- **atompatt (MAD)**: kölcsönösen biztosított megsemmisítés – az atomháborút visszatartó egyensúly
+- **berlini fal**: 1961-ben épített fal Kelet-Berlin és Nyugat-Berlin között; az NDK-ból való szökés megakadályozása
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **Truman** – USA elnöke; Truman-doktrína: a kommunizmus feltartóztatása
+- **Sztálin** – Szovjetunió; Kelet-Európa szovjetizálása
+- **Kennedy** – USA elnöke a kubai válság idején (1962)
+- **Hruscsov** – Sztálin utódja; „desztalinizáció"; kubai válság főszereplője
 
-- Hidegháború: közvetlen fegyveres összecsapás nélküli, hosszú ideig tartó nagyhatalmi szembenállás.
-- Két világrend: kapitalista-demokratikus Nyugat és kommunista-szocialista Kelet.
-- Katonai tömbök: NATO és Varsói Szerződés.
-- Két Németország: NSZK (nyugati), NDK (keleti).
-- Fegyverkezési verseny, űrverseny, propaganda.
+## Évszámok
+- **1947** – Truman-doktrína; a hidegháború kezdete
+- **1949** – NATO alapítása; szovjet atombomba-kísérlet
+- **1950–1953** – koreai háború
+- **1955** – Varsói Szerződés alapítása
+- **1961** – berlini fal felépítése
+- **1962** – kubai rakétaválság; a hidegháború csúcspontja
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Okok:** a II. vh. utáni hatalmi vákuum Európában; ideológiai ellentét (liberális demokrácia vs. kommunizmus); atomfegyverek versenge
+- **Következmények:** Európa és a világ kettéosztottsága; fejlődő országok „harmadik világgá" válnak; az atomháború fenyegetése
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- A hidegháború „hideg" maradt, mert mindkét oldal tartott az atomháborútól – ez paradox biztonságot teremtett.
+- A berlini fal az ideológiai megosztottság legkézzelfoghatóbb szimbóluma volt.
+- A helyi háborúk (Korea, Vietnam) a hidegháborús logika áttételes megjelenési formái.
+- A Marshall-terv gazdaságilag is fegyvere volt a hidegháborúnak: a prosperáló Nyugat vonzóbb volt.
 
-- A második világháború után Európa keleti részén szovjet befolyás alá került államokban kommunista rendszerek jöttek létre.
-- A NATO-t 1949-ben hozták létre nyugati szövetségként, a Varsói Szerződés 1955-ben alakult válaszként.
-- Németországot megszállási övezetekre osztották, később jött létre az NSZK és az NDK.
-- A fegyverkezési verseny során mindkét oldal atomfegyvereket és hordozóeszközöket fejlesztett, ami állandó fenyegetettséget jelentett.
-- A konfliktus több helyi háborúban (pl. koreai, vietnámi háború) is megjelent, de a nagyhatalmak igyekeztek elkerülni a közvetlen összecsapást.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: hidegháború, NATO, Varsói Szerződés, kétpólusú világrend, fegyverkezési verseny.
-- Fontos földrajzi pontok: NSZK, NDK, Berlin, Korea, Vietnam.
-- Fontos összefüggés: miért nem alakult ki közvetlen USA–SZU háború, és hogyan tartották fenn az egyensúlyt (elrettentés, kölcsönös megsemmisítés veszélye).
-
-## Rövid történeti összefoglaló
-
-1947-re a második világháború győztes nagyhatalmainak szövetsége felbomlott: az Egyesült Államok és a Szovjetunió szemben álló tömbökre osztotta a világot, és megkezdődött a hidegháború korszaka. 1949-ben megalakult a nyugati védelmi szövetség, a NATO, majd 1955-ben szovjet kezdeményezésre létrejött a Varsói Szerződés mint a keleti tömb katonai szövetsége. A két szuperhatalom fegyveres összecsapás helyett fegyverkezési versennyel, kémkedéssel és helyi konfliktusok (Korea 1950, Vietnam, Közel-Kelet) finanszírozásával küzdött egymás ellen, miközben 1961-ben Berlin kettéosztása a berlini fal felépítésével vált fizikailag is láthatóvá.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **hidegháború**
-- **NATO**
-- **Varsói Szerződés**
-- **két világrend**
-- **NSZK–NDK**
+## Forráselemzéshez
+- Churchill „vasfüggöny"-beszéde (1946): a hidegháború retorikai megindításának forrása
+- Truman-doktrína szövege (1947): az USA hivatalos szerepvállalásának dokumentuma
+- Hruscsov titkos beszéde (1956): a sztálinizmus bírálata belülről; a desztalinizáció kiindulópontja
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

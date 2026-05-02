@@ -1,48 +1,47 @@
-# Az ipari forradalom második hulláma a világban és Magyarországon
+# Az ipari forradalom második hulláma és Magyarország iparosodása
 
-A 19. század második felében az ipari fejlődés újabb szakaszba lépett: megjelennek az új energiaforrások, a nehézipar és a vegyipar látványosan fejlődik. Magyarország is bekapcsolódik ebbe a folyamatba, különösen a dualizmus korában.
+## Rövid lényeg
+- A 19. sz. második felében a második ipari forradalom az elektromosság, acél és vegyipar forradalma volt.
+- Új energiaforrások: villamos energia (Edison, 1879) és kőolaj (belső égésű motor).
+- Acélipar, gépgyártás, vegyipar: az ipar új ágazatai jelentek meg.
+- Magyarországon a dualizmus korában (1867–1914) gyors iparosodás ment végbe.
+- A Budapest-centrikus fejlődés: Ganz-gyár, malomipar, vasúthálózat.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **második ipari forradalom**: 19. sz. második fele; acél, elektromosság, kőolaj, vegyipar
+- **villamos energia**: Edison és Tesla fejlesztései; az ipar és a városok elektrifikálása
+- **acélipar**: a vastól az acélhoz; Bessemer-eljárás (1856); hidak, vasút, felhőkarcolók
+- **vegyipar**: műtrágya, festékek, gyógyszerek; Liebig, BASF
+- **belső égésű motor**: kőolaj-alapú; Daimler és Benz (1885); az autó és repülő előfutára
+- **Ganz-gyár**: az első elektromos gyár Magyarországon; turbinák, villamosok exportja
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **Thomas Edison** – villanyégő (1879), fonográf; az elektromos ipar úttörője
+- **Nikola Tesla** – váltóáramú rendszer; a modern elektromos hálózatok alapja
+- **Gottlieb Daimler / Karl Benz** – belső égésű motor, első automobilok (1885)
+- **Mechwart András** – a Ganz-gyár fejlesztője; hengerszék (malomipar) exportálta a világba
 
-- Második ipari forradalom: a 19. század második felének és 20. század elejének ipari fellendülése.
-- Új energiaforrások: villamos energia, kőolaj.
-- Nehézipar: acélgyártás, gépgyártás, bányászat.
-- Vegyipar: műtrágya, festékek, gyógyszeripar kezdetei.
-- Kutatás-fejlesztés, találmányok szerepe (telefon, villanykörte stb.).
+## Évszámok
+- **1856** – Bessemer-eljárás: olcsó acélgyártás
+- **1869** – transkontinentális vasút, USA
+- **1879** – Edison villanykörte-szabadalma
+- **1885** – Daimler/Benz első automobilja
+- **1896** – Budapest: az első kontinentális metró; Ganz-gyártás; millenniumi ipari kiállítás
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Okok:** tőkefelhalmozás az első hullámból; tudományos kutatás és ipar összekapcsolódása; globális piacok
+- **Következmény Magyarországon:** Budapest a 20. sz. elejére valódi ipari nagyvárossá vált; de az iparosodás térbelileg egyenetlen maradt (vidék elmaradott)
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- A második ipari forradalom szétválasztotta a tudást és az ipart – megjelent az ipari K+F (kutatás-fejlesztés).
+- Magyarország az iparosodás második hullámában kapcsolódott be, de Budapest ezzel gyors és látványos fejlődést ért el.
+- A Ganz-gyár szimbolikussá vált: Magyarország nem csak fogyasztó, hanem exportőr is volt iparilag.
+- A munkáskérdés a második ipari forradalommal sem oldódott meg – inkább tovább éleződött.
 
-- A második ipari forradalom során a villamos energia és a kőolaj használata forradalmasította a termelést és a közlekedést.
-- Az acélgyártás fejlődése lehetővé tette nagy vasúti hálózatok, hidak és felhőkarcolók építését.
-- A vegyipar és a gépgyártás fejlődése új termékeket hozott, és tovább növelte a termelékenységet.
-- Magyarországon a dualizmus korában (1867–1918) jelentős vasútépítés, ipari központok kialakulása (Budapest, Győr, Miskolc) zajlott.
-- A mezőgazdaság, könnyűipar és nehézipar összekapcsolódása erős gazdasági növekedést eredményezett, de társadalmi feszültségeket is szült (munkáskérdés).
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: második ipari forradalom, villamos energia, nehézipar, vegyipar, kutatás-fejlesztés.
-- Fontos összefüggés: hogyan függött össze az ipari fejlődés a városiasodással és a munkásság helyzetének változásával.
-- Érdemes tudni néhány magyar ipari központot és ágazatot (pl. vasút, élelmiszeripar, gépgyártás).
-
-## Rövid történeti összefoglaló
-
-A 19. század második felétől az ipari forradalom második hulláma az elektromosság, az acélipar és a vegyipar forradalmasításával szinte minden területen átalakította a termelést és a közlekedést. 1869-ben az Egyesült Államokban elkészült az első transkontinentális vasútvonal, és Edison 1879-es villanykörte-szabadalma nyomán az 1880-as évektől megkezdődött a városi elektromos hálózatok kiépítése. Magyarországon a dualizmus korában, különösen az 1880–1900-as évek között a vasút, a malomipar és a Ganz-gyár révén hazánk is bekapcsolódott ebbe a folyamatba, és Budapest a korszak végére valóban közép-európai ipari nagyvárossá nőtte ki magát.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **második ipari forradalom**
-- **villamos energia**
-- **nehézipar**
-- **vegyipar**
-- **iparosodás Magyarországon**
+## Forráselemzéshez
+- Iparstatisztikák (gyárak száma, munkások, vasút km): a fejlődés számszerű bizonyítékai
+- Millenniumi kiállítás anyagai: az önreprezentáció és az ipari büszkeség forrása
+- Gyári fotók és műszaki rajzok: az ipari forradalom vizuális forrásai
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

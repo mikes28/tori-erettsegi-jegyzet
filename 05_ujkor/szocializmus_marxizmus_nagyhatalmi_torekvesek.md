@@ -1,48 +1,47 @@
-# A szocializmus (marxizmus), polgári állam és nagyhatalmi törekvések
+# Szocializmus, marxizmus és nagyhatalmi törekvések
 
-A 19. század második felében a szocializmus és a marxizmus a kapitalizmus kritikájaként jelent meg. Ugyanebben az időben a polgári államok nagyhatalmi versengésbe kezdtek, amelynek következménye az első világháború lett.
+## Rövid lényeg
+- Marx és Engels (1848: Kommunista kiáltvány) a kapitalizmust osztályharcra épülő rendszernek tartotta.
+- A munkásmozgalom szociáldemokrata pártokat és szakszervezeteket hozott létre Európában.
+- A 19. sz. végén a nagyhatalmak gyarmatokért és piacokért versengtek (imperializmus).
+- A gyarmatosítás és a nagyhatalmi szövetségek rendszere hozzájárult az első világháborúhoz.
+- A polgári állam elvei (alkotmány, parlament, jogegyenlőség) párhuzamosan terjedtek Európában.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **marxizmus**: Marx és Engels tanai; az osztályharc mint a történelem mozgatórugója; kommunizmus mint végcél
+- **osztályharc**: tőkések (burzsoázia) és munkások (proletariátus) érdekellentéte
+- **Kommunista kiáltvány (1848)**: Marx–Engels programirata; „Munkások világa, egyesüljetek!"
+- **szociáldemokrácia**: a marxizmust a parlamenti úton megvalósítani kívánó irányzat
+- **imperializmus**: a nagyhatalmak gyarmatszerzési versengése; gazdasági és politikai terjeszkedés
+- **hármas szövetség**: Németország, Osztrák–Magyar Monarchia, Olaszország (1882)
+- **antant**: Franciaország, Oroszország, Nagy-Britannia (1907)
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **Karl Marx** – a tudományos szocializmus megalapítója; „A tőke" (1867); Kommunista kiáltvány
+- **Friedrich Engels** – Marx munkatársa; „A munkásosztály helyzete Angliában" (1845)
+- **Ferdinand Lassalle** – a német szociáldemokrácia előfutára
 
-- Marxizmus: Karl Marx és Friedrich Engels tanai az osztályharcról, a kapitalizmus kritikájáról és a kommunizmus eljöveteléről.
-- Osztályharc: a tőkések és munkások ellentéte.
-- Polgári állam: jogállami keretek között működő, kapitalista gazdaságú állam.
-- Nagyhatalmi törekvések: Németország, Nagy-Britannia, Franciaország, Oroszország, USA befolyási versenye.
-- Gyarmatosítás és imperializmus: gyarmatok és piacok megszerzéséért folytatott verseny.
+## Évszámok
+- **1848** – Kommunista kiáltvány megjelenése
+- **1864** – I. Internacionálé (Munkásnemzetközi Szövetség) alapítása
+- **1867** – Marx: „A tőke" I. kötete
+- **1882** – hármas szövetség
+- **1907** – az antant formálissá válik
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Okok a marxizmus sikerének:** az iparosodás nyomora, a munkások jogfosztottsága, a kizsákmányolás látható és mérhető volta
+- **Nagyhatalmi versengés következménye:** szövetségi rendszerek, fegyverkezési verseny → az első világháború
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- Marx a kapitalizmus kritikáját a forradalmi praxis programjává emelte – ez különbözteti meg az egyszerű társadalomkritikától.
+- A szociáldemokrácia és a kommunizmus különválása a reformista vs. forradalmi út vitájából ered.
+- Az imperializmus egyszerre volt gazdasági szükségszerűség és ideológiai program (a „fehér ember terhe").
+- A nagyhatalmi szövetségek automatizmusa tette, hogy egy helyi konfliktus (Szarajevó) világháborúvá válhatott.
 
-- Marx és Engels a Kommunista kiáltványban fogalmazták meg a kapitalizmus bírálatát és a proletárforradalom eszméjét.
-- A munkásmozgalom sok országban szervezeteket, pártokat hozott létre, és szociális jogokat követelt.
-- A 19–20. század fordulójára több nagyhatalom versengett a gyarmatokért és a világgazdasági befolyásért.
-- Németország gyors ipari fejlődése feszültséget keltett a régebbi gyarmattartó hatalmakkal szemben.
-- A nagyhatalmi ellentétek, szövetségi rendszerek és fegyverkezés végül az első világháború kitöréséhez vezettek.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: marxizmus, osztályharc, polgári állam, imperializmus, nagyhatalom.
-- Fontos személyek: Karl Marx, Friedrich Engels.
-- Fontos összefüggés: hogyan kapcsolódik össze a társadalmi feszültség (munkáskérdés) és a nemzetközi feszültség (gyarmatosítás, fegyverkezés).
-
-## Rövid történeti összefoglaló
-
-1848 februárjában Marx és Engels kiadta a Kommunista Kiáltványt, amely a tőkések és a munkásosztály (proletariátus) harcát az emberi történelem mozgatórugójaként értelmezte, és a magántulajdon megszüntetésére szólított fel. 1864-ben Londonban megalakult az I. Internacionálé, az első nemzetközi munkásszövetség, amelynek célja a nemzeti határokon átívelő munkásmozgalom összehangolása volt; belső vitái azonban 1876-ra felbomláshoz vezettek. A 19. század második felében Európa nagyhatalmainak versengése – a gyarmatbirodalmak terjeszkedése Afrikában és Ázsiában, a fegyverkezési verseny és a szövetségi rendszerek kiépülése – megágyazott annak a feszültségnek, amely végül 1914-ben az első világháborúba torkollott.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **marxizmus**
-- **osztályharc**
-- **polgári állam**
-- **imperializmus**
-- **nagyhatalom**
+## Forráselemzéshez
+- Kommunista kiáltvány szövege: a marxista ideológia legismertebb elsődleges forrása
+- Munkásszervezetek alapszabályai: a munkásmozgalom szervezési elvei
+- Gyarmatosítási dokumentumok (pl. berlini kongresszus, 1884): Afrika felosztásának elsődleges forrása
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció
