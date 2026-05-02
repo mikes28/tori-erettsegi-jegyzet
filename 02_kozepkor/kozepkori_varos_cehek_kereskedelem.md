@@ -1,48 +1,43 @@
-# A középkori város, lakói, céhek és kereskedelem
+# Középkori város, céhek és kereskedelem
 
-A középkori városok megerősödése új életformát hozott Európában. A városi polgárok, a céhek és a kereskedelem fontos szerepet játszottak a gazdaság és a társadalom átalakulásában.
+## Rövid lényeg
+- A 11–12. századi Európában a városok gazdasági és kulturális központokká váltak.
+- A városi polgárok kiváltságlevelekkel önkormányzati jogokat szereztek.
+- A céhek szabályozták a kézműves ipar termelését, minőségét és képzési rendszerét.
+- A távolsági kereskedelmet a Hanza-szövetség és az itáliai kereskedők dominálták.
+- A pénzgazdálkodás és hitelrendszer a városokban fejlődött ki.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **városi polgár**: a várost jogilag alkotó, kiváltságokkal rendelkező szabad lakos
+- **kiváltságlevél**: az önkormányzati jogokat, vásártartási jogot rögzítő okirat a városi polgároknak
+- **céh**: azonos mesterséget üzők szervezete; szabályozta a képzést, a termelést, az árakat
+- **inas–legény–mester**: a céhes képzés fokozatai; mestermű igazolta a mesterré válást
+- **Hanza-szövetség**: észak-német kereskedővárosok szövetsége (Lübeck, Hamburg stb.); az Észak-Balti kereskedelem ura
+- **távolsági kereskedelem**: értékes áruk (fűszer, textil, selyem) szállítása nagy távolságra
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- Kiemelkedő személyek helyett inkább intézmények: **céhmester**, **kereskedő patrícius**, **Hanza-kereskedők**
 
-- Városi polgár: a város lakója, aki bizonyos jogokkal és kötelezettségekkel rendelkezett.
-- Városi kiváltságok: önkormányzat, vásártartási jog, falak építésének joga.
-- Céh: az azonos mesterséget űzők szakmai és érdekvédelmi szervezete.
-- Helyi kereskedelem: piacok és heti vásárok a környék lakossága számára.
-- Távolsági kereskedelem: nagyobb távolságokra irányuló áruforgalom (pl. Hanza-városok, itáliai kereskedők).
+## Évszámok
+- **11–12. sz.** – európai városfejlődés fellendülése
+- **1241** – Hanza elődjének megalakítása észak-német városok közt
+- **14–15. sz.** – Hanza fénykora; Lübeck vezető szerepe
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Okok a városfejlődésnek:** mezőgazdasági fellendülés → felesleg → kereskedelem → városba áramlás; biztonságosabb utak
+- **Céhrendszer következménye:** jó minőségű, de drága áruk; a szabad verseny korlátozása; stabil kézműves társadalmi réteg
+- **Kereskedelem következménye:** pénzgazdálkodás elterjedése; banki tevékenység (pl. Medici-banküzletek); a paraszti önellátás visszaszorulása
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- A középkori városok a jobbágyrendszer alóli szabadulás lehetőségét is kínálták: „a városi levegő szabaddá tesz."
+- A céhrendszer védette a mestereket, de gátolta az innovációt és a szabad versenyt.
+- A Hanza-szövetség az első multinacionális kereskedelmi tömörülések egyike volt.
+- A pénzgazdálkodás városokban való terjedése aláásta a természeti járadékon alapuló hűbéri rendszert.
 
-- A városok gyakran fallal voltak körülvéve, hogy megvédjék őket a támadásoktól.
-- A városi polgárok fontos célja az önkormányzati jogok megszerzése volt, hogy maguk választhassák vezetőiket.
-- A céhek szabályozták a mesterek, legények és inasok képzését, valamint a termékek minőségét és árát.
-- A helyi és távolsági kereskedelem új termékeket hozott Európába, például fűszereket, textíliákat, luxuscikkeket.
-- A városok a pénzgazdálkodás, a banki tevékenység és a hitelrendszer kialakulásának fontos színterei lettek.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: polgár, városi kiváltságlevél, céh, inas, legény, mester.
-- Fontos összefüggés: a városok szerepe a pénzgazdálkodás és a polgárság megerősödésében.
-- Érdemes tudni a városi és a falusi életmód közötti különbségeket (szabadság, jogok, munkalehetőségek).
-
-## Rövid történeti összefoglaló
-
-A 11–12. századi Európában a mezőgazdasági fellendülés, a biztonságosabb utak és a növekvő népesség nyomán egyre több vásárhely nőtte ki magát valódi várossá: Párizs, Köln és London ekkoriban haladta meg a tízezer főt. A 13. század elejére a kézműves mesterek céhekbe szerveződtek, amelyek tagfelvételi szabályaikkal és minőségi előírásaikkal monopolizálták az egyes iparágakat, így a cipészektől a kovácsokig mindenki a saját céhének védelme alatt dolgozott. 1241-ben észak-német kereskedővárosok megalapozták a Hanza-szövetség elődjét, amely a 14–15. század folyamán Lubeck irányításával az Északi- és Balti-tenger kereskedelmét uralta, miközben Magyarország is bekapcsolódott a kelet-nyugati tranzitkereskedelembe.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **városi polgár**
-- **városi kiváltság**
-- **céh**
-- **kereskedelem**
-- **vásár**
+## Forráselemzéshez
+- Városi kiváltságlevelek: az önkormányzat és a jogok dokumentumai
+- Céhszabályzatok: a termelés, képzés, minőség szabályainak elsődleges forrásai
+- Kereskedelmi könyvek (pl. Medici-féle számlák): a pénzgazdálkodás nyomai
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

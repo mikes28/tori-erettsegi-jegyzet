@@ -1,48 +1,46 @@
-# A kereszténység kialakulása, tanai és elterjedése
+# A kereszténység kialakulása és elterjedése
 
-A kereszténység a zsidó vallási hagyományból nőtt ki, de hamar önálló világvallássá vált. Tanai az egyistenhitre, a szeretet parancsára és az üdvösség reményére épülnek.
+## Rövid lényeg
+- A kereszténység a zsidó vallási hagyományból nőtt ki, Júdeában, a Római Birodalom területén.
+- Jézus tanításai: egyistenhit, szeretetfőparancs, üdvösség reménye.
+- Az apostolok, különösen Pál, a Mediterráneumban terjesztették a vallást.
+- 313-ban a milánói ediktum biztosított szabad vallásgyakorlatot, 380-ban államvallás lett.
+- A kereszténység meghatározta az európai középkori civilizáció alapjait.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **Újszövetség**: a keresztény Biblia Jézus életét és tanításait tartalmazó része
+- **evangélium**: „jó hír"; Jézus életéről szóló négy kanonikus szöveg (Máté, Márk, Lukács, János)
+- **apostol**: Jézus tanítványa és küldötte, aki terjesztette a tanításokat
+- **milánói ediktum (313)**: vallásszabadságot biztosító rendelkezés Nagy Konstantin nevéhez kötve
+- **üdvösség**: a hívők örök élete Isten közelében – a keresztény hit központi ígérete
+- **diaszpóra**: szétszórtság; az üldözött keresztények is diaszpórában éltek, mint korábban a zsidók
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **Jézus Krisztus** – a kereszténység alapítója, Kr. u. ~30 körül feszítették meg Jeruzsálemben
+- **Péter apostol** – az első pápának tekintett tanítvány, Rómában halt mártírhalált
+- **Pál apostol** – missziós útjain pogányok közt terjesztette a vallást; levelei az Újszövetség részei
+- **Nagy Konstantin** – 313: milánói ediktum; valószínűleg megkeresztelkedett halálos ágyán
+- **I. Theodosius** – 380: a kereszténységet a Birodalom egyedüli államvallásává tette
 
-- Jézus élete és tanításai az evangéliumok alapján.
-- Egyistenhit és szeretetfőparancs: szeresd Istent és felebarátodat.
-- Üdvösség reménye: a hívők örök élete Isten közelében.
-- Újszövetség: a keresztény Biblia második része.
-- Péter és Pál apostol szerepe a kereszténység terjesztésében.
+## Évszámok
+- **Kr. u. ~30** – Jézus keresztre feszítése Jeruzsálemben
+- **Kr. u. 313** – milánói ediktum: szabad vallásgyakorlat
+- **Kr. u. 380** – thesszalonikaí ediktum: kereszténység államvallás
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Okok:** zsidó vallási válság, Római Birodalom válsága, a tanítás univerzális üzenete (mindenki egyenlő Isten előtt)
+- **Következmények:** a középkori Európa vallásos egysége; az egyház kulturális, politikai szerepe; iszlám és kereszténység párhuzamos hatása a történelemre
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- A kereszténység gyors terjedésének oka részben az volt, hogy mindenkit egyenlőként fogadott el.
+- A milánói ediktum fordulópontot jelentett: az üldözöttből államilag támogatott vallás lett.
+- Pál apostol missziós útjai nélkül a kereszténység valószínűleg zsidó szekta maradt volna.
+- A 380-as államvallássá tétel az ókori pogány vallások végét is jelentette.
 
-- A kereszténység a Római Birodalom területén, Júdeában alakult ki.
-- Jézust a hagyomány szerint keresztre feszítették, tanítványai feltámadását hirdették.
-- Az első keresztény közösségek először a zsidóság körében, majd a pogány lakosság körében is terjedtek.
-- Pál apostol missziós útjai fontosak voltak a vallás elterjedése szempontjából.
-- A 4. században a kereszténység előbb türelmet élvezett, majd államvallássá vált a Római Birodalomban.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: egyistenhit, szeretetfőparancs, üdvösség, evangélium, Újszövetség.
-- Fontos személyek: Jézus, Péter apostol, Pál apostol, Konstantin császár.
-- Fontos események: a kereszténység üldözései és államvallássá tétele (313 – milánói ediktum).
-
-## Rövid történeti összefoglaló
-
-Jézus Krisztus a Kr. u. 1. század első felében hirdette tanításait a Római Birodalom Júdea tartományában, és Kr. u. 30 körül keresztre feszítették Jeruzsálemben. Az üldözött keresztény közösségeket Kr. u. 313-ban Nagy Konstantin és Licinius a milánói ediktummal felszabadította, szabad vallásgyakorlatot biztosítva számukra. Kr. u. 380-ban I. Theodosius császár a thesszalonikaí ediktummal a kereszténységet a Római Birodalom egyedüli államvallásává nyilvánította, ezzel megpecsételve az ókori pogány vallások sorsát.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **egyistenhit**
-- **szeretetfőparancs**
-- **Újszövetség**
-- **apostol**
-- **üdvösség**
+## Forráselemzéshez
+- Evangéliumok: Jézus tanításainak és életének elsődleges, de hitközösségi szempontból írt forrásai
+- Pál levelei: a korai egyház problémái, tanítás, közösségszervezés
+- Korai katakombák és keresztény műtárgyak: az üldözés korának dokumentumai
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

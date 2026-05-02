@@ -1,48 +1,51 @@
-# Mohamed tanításai és az iszlám vallás kialakulása
+# Mohamed és a Korán
 
-Az iszlám a 7. században jelent meg az Arab-félszigeten, és rövid idő alatt világvallássá vált. Mohamed tanításai az egyistenhitre, az igaz életre és az öt pillér betartására épülnek.
+## Rövid lényeg
+- Mohamed (~570–632) Mekkában született; 40 évesen kezdett prófétálni.
+- A Korán Mohamed kinyilatkoztatásait tartalmazza; halála után írták le és rendszerezték.
+- Az iszlám öt pillére a muszlim hit és életvezetés kötelező elemei.
+- Az iszlám alapvetően egyszerű monoteizmus: nincs papság, nincs szentek kultusza (a sunnita ágban).
+- Mohamed egyszerre volt vallási vezető, hadvezér és törvényhozó.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **Allah**: az egyetlen Isten; az iszlám nem ismeri el a Szentháromságot
+- **Korán**: „recitálás/olvasás"; Mohamed kinyilatkoztatásainak szentírása; arabnyelven; Uthmán kalifa 651-ben rögzítette egységesen
+- **szúra**: a Korán egy fejezete (összesen 114 szúra)
+- **öt pillér (arkán al-iszlám)**:
+  1. **Sahada** – hitvallás: „Nincs más isten, csak Allah, és Mohamed az ő prófétája"
+  2. **Szalát** – napi ötszöri ima
+  3. **Zakát** – kötelező alamizsna (jövedelemarány alapján)
+  4. **Szaum** – ramadáni böjt (9. hónap napkeltétől napnyugtáig)
+  5. **Hadzs** – zarándoklat Mekkába (életben legalább egyszer)
+- **hadísz**: a próféta mondásainak és tetteinek hagyománya; a Korán után a legfontosabb vallási forrás
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **Mohamed** – próféta; ~570 Mekka – 632 Medina; első feleség: Hadídzsa, aki elsőként hitt benne
+- **Hadídzsa** – Mohamed első felesége; az első muszlim nő
+- **Ali** – Mohamed unokatestvére és veje; a síiták szerint az egyedül jogos kalifa-utód
+- **Uthmán** – harmadik kalifa; 651-ben összegyűjtette és rögzítette a Korán szövegét
 
-- Mohamed: az iszlám prófétája, aki kinyilatkoztatásokat kapott.
-- Korán: az iszlám szent könyve, amely Mohamed tanításait tartalmazza.
-- Öt pillér: a hitvallás, az ima, az alamizsna, a böjt és a mekkai zarándoklat.
-- Umma: a hívők közössége.
-- Arab társadalmi-gazdasági háttér: kereskedővárosok, karavánutak, oázisok.
+## Évszámok
+- **~570** – Mohamed születése Mekkában
+- **610** – első kinyilatkoztatás (Gábriel angyal a Hirá-barlangban)
+- **622** – hidzsra; Medinában közösség szervezése
+- **632** – Mohamed halála
+- **651** – a Korán egységes szövegének rögzítése
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Okok Mohamed sikerének:** a törzsi társadalom egységesítési igénye, egyszerű és befogadható üzenet, karizmatikus személyiség
+- **Következmények:** az iszlám egységes szabályrendszere (Korán + hadísz) lehetővé tette a vallás közösségi megélését papi rend nélkül is; a Korán arabul való megőrzése hozzájárult az arab nyelv egységesítéséhez
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- Az öt pillér az iszlám hit és közösségi élet megélésének egyszerű, mindenki számára elérhető kerete.
+- Mohamed egyedisége, hogy próféta, hadvezér és törvényhozó is volt egyidejűleg.
+- A Korán arabul való rögzítése az arab kultúra és identitás pillére is lett.
+- A síita–szunnita megosztás gyökere a Mohamed utáni utódlás vitájában keresendő.
 
-- Mohamed Mekkában kezdte hirdetni az egyistenhitet, de ott ellenállásba ütközött.
-- A Mekkából Medinába való kivonulás, a hidzsra 622-ben történt, ez az iszlám időszámítás kezdete.
-- Medinában erős közösség alakult ki, amely vallási és politikai közösség is volt.
-- A 7–8. században az arab hódítások során az iszlám a Közel-Keleten, Észak-Afrikában és Ibériai-félszigeten is elterjedt.
-- Az iszlám civilizáció fontos tudományos és kulturális közvetítővé vált Európa felé (matematika, orvostudomány, filozófia).
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: iszlám, Korán, próféta, öt pillér, umma.
-- Fontos évszám: 622 – hidzsra, az iszlám időszámítás kezdete.
-- Fontos földrajzi nevek: Mekka, Medina, Arab-félsziget, Bagdad, Córdoba.
-
-## Rövid történeti összefoglaló
-
-Mohamed 570 körül született Mekkában, és 610-ben kezdte el hirdetni az egyistenhitet; tanítása szembefordult a mekkai törzsi arisztokráciával, ezért 622-ben híveivel Medinába menekült – ez a hidzsra az iszlám időszámítás kezdőpontja. Medinában Mohamed egyszerre vallási vezető és hadvezér lett, majd 630-ban serege élén bevonult Mekkába, és a Kábát az iszlám legszentebb helyévé nyilvánította. Halála után (632) tanítványai összegyűjtötték a kinyilatkoztatásokat, és Uthmán kalifa idején, 651-ben rögzítették az egységes Korán-szöveget, amely azóta az iszlám hit megváltoztathatatlan alapja.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **iszlám**
-- **Korán**
-- **hidzsra**
-- **öt pillér**
-- **umma**
+## Forráselemzéshez
+- Korán-szövegek (szúrák): az egyistenhit, az etika és a jog elsődleges forrásai
+- Hadíszok gyűjteményei: a próféta magatartásának és szavainak dokumentumai
+- Mohamed életrajzok (szíra): Ibn Hisám szövege a leghíresebb korai forrás
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

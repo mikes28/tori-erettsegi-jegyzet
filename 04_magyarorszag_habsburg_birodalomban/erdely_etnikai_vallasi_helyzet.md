@@ -1,48 +1,43 @@
 # Erdély sajátos etnikai és vallási helyzete
 
-A 16–17. századi Erdély különleges helyet foglalt el a térségben: etnikailag és vallásilag sokszínű társadalom volt, amelyben viszonylagos vallási türelem érvényesült. Ez a helyzet befolyásolta Erdély politikai mozgásterét is.
+## Rövid lényeg
+- Erdélyt három politikai „nemzet" uralta: magyarok, székelyek, szászok – a románok (vlachok) nem kaptak rendi státust.
+- Az 1568-as tordai országgyűlés Európa egyik első vallásszabadsági nyilatkozatát hozta létre.
+- Négy bevett vallás: katolikus, lutheránus, református, unitárius.
+- Erdély egyensúlyozott a Habsburg és az Oszmán Birodalom között – relatív önállóság.
+- A románok jobbágyi sorban éltek, vallási és politikai jogok nélkül.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **három nemzet**: magyarok, székelyek, szászok – az erdélyi rendi politika szereplői
+- **négy bevett vallás**: katolikus, lutheránus, református, unitárius – mindegyik jogszerűen gyakorolható
+- **vallási türelem (1568)**: az erdélyi egyedülálló rendelet; minden bevett felekezetnek szabad a vallásgyakorlat
+- **fejedelemség**: önálló, de a töröknek adót fizető és a Habsburgokkal szemben egyensúlyozó állam
+- **unitárizmus**: a Szentháromságot elutasító keresztény irányzat; Dávid Ferenc nevéhez kötik Erdélyben
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **János Zsigmond** – az első erdélyi fejedelem; anyja Izabella; türelmi rendeletet adott ki
+- **Dávid Ferenc** – az unitárizmus erdélyi megalapítója; a tordai határozat szellemi atyja
+- **Báthory István** – erős erdélyi fejedelem (1571–1586); majd lengyel király; jezsuita ellenreformáció Erdélyben
 
-- Négy nép – három nemzet: magyarok, székelyek, szászok mint politikai nemzetek.
-- Nemzet: a rendi korban kiváltságos, politikai jogokkal bíró közösség.
-- Vallási tolerancia: a bevett felekezetek törvényes elismerése.
-- Bevett vallások: katolikus, lutheránus, református, unitárius.
-- Fejedelemség: önálló, de a nagyhatalmak (Habsburg, Török Birodalom) közti egyensúlyra kényszerülő államalakulat.
+## Évszámok
+- **1541** – Erdély különválása; Szapolyai János halála után Izabella királyné és János Zsigmond
+- **1568** – tordai országgyűlés: vallási türelem kihirdetése
+- **1571** – Báthory István fejedelemmé választása
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **A vallási türelem okai:** az etnikailag és vallásilag vegyes társadalom stabilitásának igénye; a fejedelemség kis mérete és nagyhatalmi kiszolgáltatottsága
+- **Következmény:** Erdély hosszú ideig a magyar protestantizmus menedéke volt; a vallási sokszínűség relatív békét biztosított
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- Az 1568-as tordai határozat Európa egyik legkorábbi vallásszabadsági dokumentuma.
+- Erdély különleges politikai helyzete – a két birodalom között – tette lehetővé a nagyobb vallási mozgásteret.
+- A románok politikai kizárása az erdélyi rendi rendszerből hosszú távon komoly feszültségforrás lett.
+- A négy bevett vallás rendszere máig a pluralizmus és tolerancia szimbóluma Erdély históriájában.
 
-- Erdély társadalmát magyarok, székelyek, szászok és jelentős román lakosság alkotta, de politikailag csak három „nemzetet” ismertek el.
-- Az 1568-as tordai országgyűlés kimondta a vallásszabadságot a bevett felekezetek számára, ami Európában ekkor még ritkaságnak számított.
-- A román lakosság nagy része jobbágy volt, politikai jogok nélkül, bár vallásilag (ortodoxia) jelen volt.
-- Erdély fejedelmei igyekeztek egyensúlyozni a Habsburg Birodalom és az Oszmán Birodalom között, gyakran szövetségeket váltva.
-- A vallási és etnikai sokszínűség miatt Erdélyben gyakran kompromisszumokra volt szükség a belső béke fenntartásához.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: három nemzet, négy nép, vallási tolerancia, bevett vallás.
-- Fontos évszám: 1568 – tordai országgyűlés, vallási türelem kimondása.
-- Fontos összefüggés: hogyan kapcsolódik Erdély különleges helyzete a magyar rendi nemesség mozgásteréhez és a nagyhatalmi ellentétekhez.
-
-## Rövid történeti összefoglaló
-
-1437-ben a Kápolnai Unióban a három rendi nemzet – a magyar nemesek, a szász polgárok és a székely szabadok – szövetséget kötött egymással, amely évszázadokra meghatározta Erdély politikai struktúráját, miközben a románok jobbágysorban maradtak kívül ezen a rendszeren. 1568-ban a tordai országgyűlésen János Zsigmond erdélyi fejedelem kihirdette a négy bevett vallás (katolikus, lutheránus, kálvinista, unitárius) szabad gyakorlatát, ez az első európai vallásbékét teremtette meg a reformáció korában. A fejedelemség ennek köszönhetően viszonylag toleráns sziget maradt a vallásháborúkkal tépett Európában, bár az ortodox románok és a zsidók törvényes védelem nélkül maradtak.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **három nemzet**
-- **négy nép**
-- **vallási tolerancia**
-- **bevett vallások**
-- **Erdélyi Fejedelemség**
+## Forráselemzéshez
+- Tordai országgyűlési határozat (1568): a vallásszabadság korabeli szövege
+- Korabeli erdélyi törvénycikkek: a három nemzet jogainak rögzítése
+- Báthory-levelezés: a nagyhatalmi manőverezés elsődleges forrásai
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

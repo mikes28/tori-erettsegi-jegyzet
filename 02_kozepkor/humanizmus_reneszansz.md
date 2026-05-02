@@ -1,48 +1,47 @@
-# A humanizmus és a reneszánsz jellemző vonásai
+# A humanizmus és a reneszánsz
 
-A humanizmus és a reneszánsz az európai kultúra megújulását jelentette a késő középkor és a kora újkor határán. Az antik irodalom és művészet újjáéledése mellett az ember és a földi élet került a gondolkodás középpontjába.
+## Rövid lényeg
+- A humanizmus az embert, az értelmet és a földi életet helyezte a középpontba – szemben a középkori teocentrizmussal.
+- A reneszánsz az antik görög-római kultúra és formavilág tudatos újjáélesztése volt, Itáliából kiindulva.
+- A mecénások (pl. Medici-dinasztia) anyagilag lehetővé tették a művészek és tudósok alkotótevékenységét.
+- A perspektíva és a realisztikus emberi test ábrázolása forradalmasította a képzőművészetet.
+- Magyarországon Mátyás király reneszánsz udvarát és a Corvina-könyvtárat teremtette meg.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **humanizmus**: az ember méltóságát és értelmét középpontba helyező szellemi irányzat; antik szerzőket értelmez újra
+- **reneszánsz**: „újjászületés" – az antik kultúra felidézése; 14–16. sz., Itáliából terjedt el
+- **mecénás**: művészetet és tudományt anyagilag támogató gazdag személy vagy dinasztia
+- **perspektíva**: a térbeli mélység ábrázolása a képzőművészetben – reneszánsz vívmány
+- **studia humanitatis**: a humanisták által preferált tanulmányok: grammatika, retorika, poétika, történelem, erkölcsfilozófia
+- **Corvina**: Mátyás király könyvtára; Európa egyik legjelentősebb humanista gyűjteménye
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **Petrarca** – a humanizmus „atyja"; antik szövegek feltárása, líra
+- **Leonardo da Vinci** – festő, szobrász, mérnök, természettudós; a „reneszánsz ember" megtestesítője
+- **Michelangelo** – Sixtus-kápolna, Dávid-szobor; a reneszánsz képzőművészet csúcsa
+- **Erasmus** – humanista teológus; kritizálta az egyházat; „A balgaság dicsérete"
+- **Hunyadi Mátyás** – magyar reneszánsz mecénás; Corvina-könyvtár; itáliai humanisták udvarában
 
-- Humanizmus: szellemi irányzat, amely az embert, az emberi értelmet és méltóságot állítja középpontba.
-- Reneszánsz (újjászületés): az antik görög-római kultúra forma- és eszmevilágának tudatos felidézése.
-- Mecénás: olyan uralkodó vagy gazdag polgár, aki művészeket, tudósokat támogat.
-- Városállamok szerepe: különösen itáliai városok (Firenze, Velence) váltak a reneszánsz központjává.
-- Kapcsolat az irodalom, képzőművészet, építészet és tudományok között.
+## Évszámok
+- **14. sz. eleje** – humanizmus kibontakozása Firenzében (Petrarca, Boccaccio)
+- **1453** – Bizánc eleste; görög tudósok Itáliába menekülnek → antik tudás terjesztése
+- **1458–1490** – Mátyás király kora; a magyar reneszánsz udvar virágkora
+- **1508–1512** – Michelangelo: Sixtus-kápolna mennyezetfreskó
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Okok:** itáliai városállamok gazdasági ereje, az antik szövegek újrafelfedezése, egyházkritika
+- **Következmények:** a tudomány önállósodása; humanista oktatás terjedése; a reformáció előkészítése; Mátyás révén a reneszánsz Közép-Európában is gyökeret vert
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- A reneszánsz az embert tette a világ mértékévé – ez gyökeres váltás a középkori Isten-centrikus gondolkodáshoz képest.
+- A mecénásrendszer az olasz bankárdinasztiák és a művészetek szimbiózisát hozta létre.
+- Magyarországon Mátyás személye összekapcsolta a reneszánsz kultúrát a politikai hatalommal.
+- Az 1453-as bizánci összeomlás paradox módon a reneszánszt erősítette: görög tudósok hoztak magukkal szövegeket.
 
-- A humanisták az antik szerzők (pl. Cicero, Vergilius) műveit másolták, fordították és kommentálták.
-- A reneszánsz művészetben fontos lett az emberi test realisztikus ábrázolása és a térhatás (perspektíva) megjelenítése.
-- A mecénások – például a Medici-család Firenzében – anyagilag támogatták az alkotókat, cserébe presztízst és dicsőséget kaptak.
-- A korszak nagy művészei és tudósai (pl. Leonardo da Vinci, Michelangelo) egyszerre több területen is maradandót alkottak.
-- A humanista gondolkodás az oktatásra is hatott: a latin nyelv, az antik történetírás és irodalom kiemelt szerepet kapott az iskolákban.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: humanizmus, reneszánsz, mecénás, perspektíva.
-- Fontos személyek: Petrarca (humanista költő), Leonardo da Vinci, Michelangelo, Erasmus.
-- Fontos összefüggés: hogyan kapcsolódik a reneszánsz az antik hagyományhoz, és miben különbözik a középkori gondolkodástól.
-
-## Rövid történeti összefoglaló
-
-A 14. század elején Firenzében, a virágzó kereskedővárosban bontakozott ki az a szellemi megújulás, amelyet humanizmusnak nevezünk: Petrarca és Boccaccio az antik szerzőket fedezték fel újra, és az emberi méltóságot helyezték a középpontba. A 15. századi Firenzében a Medici-bankárdinasztia pártfogásával Botticelli, Leonardo da Vinci és Michelangelo alkotta meg a reneszánsz képzőművészet remekműveit. Magyarországon Hunyadi Mátyás (1458–1490) korának egyik legjelentősebb reneszánsz udvarát teremtette meg Budán: itáliai humanistákat hívott udvarába, és európai hírű könyvtárat, a Corvina-gyűjteményt hozta létre.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **humanizmus**
-- **reneszánsz**
-- **mecénás**
-- **perspektíva**
-- **antikvitás**
+## Forráselemzéshez
+- Reneszánsz festmények és szobrok: stílusjegyek azonosítása, mecénás-hatás elemzése
+- Humanista levelezések (Petrarca, Erasmus): az eszmék terjedésének elsődleges forrásai
+- Corvina-kéziratok: Mátyás udvarának kulturális ambíciói dokumentálva
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

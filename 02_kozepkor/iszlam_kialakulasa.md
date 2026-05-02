@@ -1,48 +1,47 @@
-# Mohamed tanításai és az iszlám vallás kialakulása
+# Az iszlám kialakulása és terjesztése
 
-Az iszlám a 7. században alakult ki az Arab-félszigeten, és rövid idő alatt nagy világbirodalom vallásává vált. Fő tanításai között központi az egyistenhit és az öt pillér.
+## Rövid lényeg
+- Az iszlám a 7. században keletkezett az Arab-félszigeten; Mohamed próféta hirdette az egyistenhitet.
+- 622: a hidzsra (Mekka → Medina) az iszlám időszámítás kezdete.
+- A 7–8. századi arab hódítások az iszlámot a Közel-Kelettől Spanyolországig terjesztették.
+- 732: a poitiers-i csatában Martell Károly megállította a frank területekre törő arabokat.
+- Az iszlám civilizáció a középkorban Európánál fejlettebb volt tudományban és kultúrában.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **iszlám**: „meghódolás (Isten előtt)"; monoteista vallás, Mohamed az alapítója
+- **hidzsra**: Mohamed kivonulása Mekkából Medinába (622); az iszlám időszámítás kezdete
+- **kalifa**: Mohamed utódja vallási és világi vezető szerepben; az arab birodalom feje
+- **umma**: az összes muszlim hívők közössége, vallási-politikai egység
+- **dzsihád**: „erőfeszítés"; vallási és katonai küzdelem az iszlám védelméért/terjesztéséért
+- **szunna/síita**: az iszlám két fő irányzata; a kalifa-utódlás kérdésén alakult ki a megosztás
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **Mohamed** – az iszlám prófétája; ~570–632; Mekka, Medina
+- **Abu Bakr** – az első kalifa (632–634); konszolidálta az arab félszigeti uralmat
+- **Martell Károly** – 732: megállítja az arab előrenyomulást Poitiers-nál
 
-- Mohamed: az iszlám prófétája.
-- Korán: az iszlám szent könyve.
-- Öt pillér: hitvallás, ima, alamizsna, böjt, mekkai zarándoklat.
-- Umma: a hívők közössége.
-- Arab társadalmi-gazdasági háttér: kereskedelem, oázisvárosok.
+## Évszámok
+- **610** – Mohamed első kinyilatkoztatásai Mekka közelében
+- **622** – hidzsra; az iszlám naptár kezdőpontja
+- **630** – Mohamed visszafoglalja Mekkát
+- **632** – Mohamed halála; az első kalifa megválasztása
+- **711** – arabok áttörnek a Gibraltáron, Ibériai-félsziget elfoglalása megkezdődik
+- **732** – poitiers-i csata; az arab terjeszkedés megállítása Európában
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Okok a gyors terjeszkedésnek:** az arab törzsek egységesítése, a Bizánci és Perzsa Birodalom kimerültsége, az iszlám üzenete vonzó volt a meghódítottak számára is
+- **Következmények:** új civilizáció a Mediterráneumban; arab közvetítés révén antik tudás jutott vissza Európába; Spanyolország és Szicília keresztes-iszlám kulturális találkozása
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- A hidzsra nemcsak menekülés volt, hanem közösségszervező fordulópont: Medinában valódi politikai-vallási egység jött létre.
+- Az iszlám hódítások sebessége részben a két nagy birodalom (Bizánc, Perzsia) kimerültségével magyarázható.
+- Poitiers 732-ben jelképes határvonal: az iszlám nem tudta tartósan meghódítani Nyugat-Európát.
+- Az iszlám civilizáció a matematikát, orvostudományt és csillagászatot magasabb szinten művelte, mint a korabeli Európa.
 
-- Mohamed Mekka városában hirdette tanításait.
-- A Mekkából Medinába történő kivonulás (hidzsra) az iszlám időszámítás kezdete (622).
-- Az iszlám rövid időn belül hatalmas területekre terjedt ki a Közel-Kelettől Észak-Afrikán át Spanyolországig.
-- Az arab hódítások kulturális találkozásokat eredményeztek: görög, perzsa, indiai hatások keveredtek.
-- Az iszlám civilizáció jelentős tudományos és művészeti eredményeket ért el.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: iszlám, Korán, próféta, egyistenhit, öt pillér.
-- Fontos évszám: 622 – hidzsra, az iszlám időszámítás kezdete.
-- Fontos földrajzi nevek: Mekka, Medina, Arab-félsziget.
-
-## Rövid történeti összefoglaló
-
-Mohamed próféta 610 körül Mekka közelében kapta az első kinyilatkoztatásokat, amelyek a Koránban rögzültek. 622-ben a hidzsra – Mohamed futása Mekkából Medinába – jelöli ki az iszlám időszámítás kezdetét, és ez az esemény egyszersmind a közösségszervező umma megszületésének pillanata is. A próféta 630-ban vértelenül visszafoglalta Mekkát, halálakor (632) pedig az Arab-félsziget népeinek nagy része már az iszlám zászlaja alatt állt, ami megalapozta a következő évtizedek robbanásszerű arab hódítási hullámát.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **iszlám**
-- **Korán**
-- **hidzsra**
-- **öt pillér**
-- **umma**
+## Forráselemzéshez
+- Korán-részletek: az egyistenhit és a közösségi normák elsődleges forrása
+- Arab krónikák a hódításokról: a terjedés irányai és módjai
+- Poitiers-i csata leírásai frank és arab forrásokban: a perspektíva különbsége jól szemléltethető
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

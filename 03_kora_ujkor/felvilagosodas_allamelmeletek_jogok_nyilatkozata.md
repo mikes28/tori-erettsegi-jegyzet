@@ -1,48 +1,48 @@
-# A felvilágosodás államelméletei és az Emberi és Polgári Jogok Nyilatkozata
+# A felvilágosodás és az Emberi és Polgári Jogok Nyilatkozata
 
-A 17–18. században kibontakozó felvilágosodás új módon gondolkodott az emberről, a társadalomról és az államról. A filozófusok az észre támaszkodva fogalmazták meg a szabadság, a jogegyenlőség és a hatalommegosztás elveit, amelyek később a forradalmak idején politikai programokká váltak.
+## Rövid lényeg
+- A 17–18. sz.-i felvilágosodás az ész, a szabadság és a természetes jogok elvein alapuló új szemléletet hozott.
+- Fő tanítások: természetes jogok, társadalmi szerződés, hatalommegosztás, népfelség elve.
+- 1789: az Emberi és Polgári Jogok Nyilatkozata a francia forradalom ideológiai alapdokumentuma.
+- A felvilágosodás eszméi az európai forradalmak és alkotmányok alapjává váltak.
+- A felvilágosult abszolutizmus (Mária Terézia, II. József, II. Frigyes) állami reformokra használta ezeket az elveket.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **felvilágosodás**: 17–18. sz.-i szellemi mozgalom; az ész, a kritikai gondolkodás és az empirizmus hirdetője
+- **természetes jogok**: mindenkit születéstől megillető jogok; Locke: élet, szabadság, tulajdon
+- **társadalmi szerződés**: az állam az állampolgárok megállapodásán alapul, nem az isteni rendelkezésen
+- **hatalommegosztás**: a törvényhozó, végrehajtó és bírói hatalom egymástól független intézményekben működik (Montesquieu)
+- **népfelség elve**: a hatalom végső forrása a nép; a kormányzat a nép megbízottja (Rousseau)
+- **Emberi és Polgári Jogok Nyilatkozata (1789)**: szabadság, egyenlőség, a törvény előtti egyenlőség, tulajdonjog alapelvei
+- **felvilágosult abszolutizmus**: olyan abszolút monarchia, amely felvilágosodás elveit alkalmaz (reformok felülről)
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **John Locke** – természetes jogok, vallási tolerancia, a parlamentáris rendszer szószólója
+- **Montesquieu** – „A törvények szelleméről"; hatalommegosztás elmélete
+- **Rousseau** – társadalmi szerződés; általános akarat; népfelség; a francia forradalom eszmei előfutára
+- **Voltaire** – vallási türelem, szólásszabadság, egyházkritika; az abszolutizmus bírálója
+- **II. (Nagy) Frigyes** – felvilágosult abszolút porosz király; Voltaire-rel levelezett
 
-- Felvilágosodás: 17–18. századi eszmerendszer, amely az ész, a tapasztalat és a kritikus gondolkodás fontosságát hangsúlyozta.
-- Társadalmi szerződés: az elgondolás szerint az emberek megállapodnak abban, hogyan hozzák létre az államot és hogyan adják át hatalmuk egy részét a kormányzatnak.
-- Hatalommegosztás: az államhatalom megosztása törvényhozó, végrehajtó és bírói hatalomra, hogy egyik se válhasson korlátlanul uralkodóvá.
-- Népfelség elve: a hatalom végső forrása a nép, a kormányzat csak megbízottként gyakorolja a hatalmat.
-- Emberi és Polgári Jogok Nyilatkozata: az 1789-es francia forradalom alapdokumentuma, amely rögzíti az alapvető jogokat és szabadságokat.
+## Évszámok
+- **1689** – Locke: „Két értekezés a kormányzatról"
+- **1748** – Montesquieu: „A törvények szelleméről"
+- **1762** – Rousseau: „A társadalmi szerződésről"
+- **1789. augusztus 26.** – Emberi és Polgári Jogok Nyilatkozata
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Okok:** a tudományos forradalom (Newton) nyomán az ész autoritásának növekedése; a vallásháborúk fásultsága; a polgárság öntudata
+- **Következmények:** az Emberi és Polgári Jogok Nyilatkozata; az USA alkotmánya; reformkori és forradalmi mozgalmak alapja Európában
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- Locke természetes jogai ma is az emberi jogi diskurzus alapjai: élet, szabadság, tulajdon.
+- A hatalommegosztás elmélete a modern demokráciák szervezési elvvé vált.
+- Rousseau radikális nézetei közvetlen előfutárai a jakobinus forradalomnak.
+- A felvilágosodás egyszerre volt elitkultúra és forradalmi ideológia.
 
-- John Locke szerint az embereknek vannak velük született, természetes jogaik (élet, szabadság, tulajdon), amelyeket az államnak védenie kell.
-- Montesquieu a hatalommegosztás elvét fogalmazta meg, hogy a törvényhozó, a végrehajtó és a bírói hatalom egymást ellenőrizze.
-- Rousseau a népfelség elvét hangsúlyozta, szerinte a hatalom forrása a nép közös akarata (általános akarat).
-- Az Emberi és Polgári Jogok Nyilatkozata kimondta az emberek jogi egyenlőségét, a szabadságot, a tulajdonhoz való jogot és a törvény előtti egyenlőséget.
-- A Nyilatkozat eszméi nagy hatással voltak a későbbi alkotmányokra és emberi jogi dokumentumokra Európában és a világ más részein is.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: felvilágosodás, társadalmi szerződés, hatalommegosztás, népfelség elve, emberi jogok.
-- Fontos személyek: John Locke, Montesquieu, Rousseau, Voltaire.
-- Fontos összefüggés: hogyan kapcsolódnak a felvilágosodás eszméi az amerikai és francia forradalom politikai programjaihoz, és miért tekintjük az Emberi és Polgári Jogok Nyilatkozatát alapvető jogi dokumentumnak.
-
-## Rövid történeti összefoglaló
-
-A 18. századi felvilágosodás gondolkodói – John Locke a természetes jogokról, Montesquieu a hatalommegosztásról, Rousseau a társadalmi szerződésről – olyan eszméket fogalmaztak meg, amelyek az európai és amerikai forradalomkeresők számára kézikönyvül szolgáltak. 1789. augusztus 26-án a francia Nemzetgyűlés elfogadta az Emberi és Polgári Jogok Nyilatkozatát, amely kimondta a szabadság, a tulajdon és az ellenállás jogát, egyszersmind megfogalmazva a modern polgári állam alapelveit. A forradalmi Franciaország ezekkel az elvekkel söpörte el a feudális rendszert, és a napóleoni háborúk révén terjesztette el a liberális eszméket egész Európában.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **felvilágosodás**
-- **társadalmi szerződés**
-- **hatalommegosztás**
-- **népfelség**
-- **emberi jogok**
+## Forráselemzéshez
+- Az Emberi és Polgári Jogok Nyilatkozatának szövege: természetes jogok + politikai elvek forrásként elemezhetők
+- Felvilágosodás-kori szövegek (Voltaire, Rousseau): az egyházkritika és a politikai radikalizmus dokumentumai
+- Reformkori magyar szövegek: hogyan épültek a felvilágosodás eszméire
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

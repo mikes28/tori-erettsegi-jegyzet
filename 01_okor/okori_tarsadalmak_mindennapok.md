@@ -1,48 +1,42 @@
 # Ókori társadalmak és a mindennapi élet
 
-Az ókori társadalmak nemcsak uralkodókból és hadvezérekből álltak, hanem hétköznapi emberekből is, akik dolgoztak, családot alapítottak és vallási szertartásokon vettek részt. A mindennapi élet megértése segít közelebb kerülni ezekhez a régi kultúrákhoz.
+## Rövid lényeg
+- Az ókori társadalmak élesen tagoltak: szabad polgárok, szabadosok, rabszolgák, nők.
+- A politikai jogok a társadalmi helyzethez és nemhez kötődtek.
+- A rabszolgamunka a görög és római gazdaság alapját képezte.
+- A patriarchális család (pater familias) volt a társadalom alapegysége Rómában.
+- A vallási ünnepek egyszerre töltöttek be vallási, közösségi és gazdasági szerepet.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **pater familias**: a római család feje; teljes jogi hatalommal bírt a tagok felett
+- **polgárjog**: a politikai részvétel és jogvédelem feltétele; csak szabad, született férfiaknak
+- **rabszolgaság**: személyek tulajdonként kezelése; háborúkból, adósságokból, születésből eredt
+- **metoikosz**: betelepülő idegen Athénban; nem volt politikai joga
+- **agóra/fórum**: a görög/római városok piaci és közösségi tere
+- **insula**: római bérház, ahol szegényebb polgárok laktak, szűk és zsúfolt körülmények között
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- Nem kötődnek kiemelkedő személyek, inkább társadalmi típusok: **szabad polgár**, **rabszolga**, **nő**, **kereskedő**
 
-- Társadalmi rétegek: szabadok, rabszolgák, előkelők, közrendűek.
-- Városi és falusi élet különbségei az ókori civilizációkban.
-- Család szerepe: patriarchális családmodell, apai hatalom.
-- Nők helyzete: jogaik és lehetőségeik különböztek kultúránként.
-- Vallási ünnepek és szokások: áldozatok, fesztiválok, templomok.
+## Évszámok
+- **Kr. e. 5. sz.** – az athéni demokrácia kora; kb. 30–40 000 szabad polgár, hasonló számú rabszolga
+- **Kr. u. 1–2. sz.** – Róma virágkora; milliós városban insulák és villák egymás mellett
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Okok a rabszolgaság fennmaradásának:** háborús foglyok, olcsó munkaerő, gazdasági érdek
+- **Következmények:** a társadalom egy részének teljes jogfosztottsága; ökonomiai fejlődés lehetővé tétele; felkelések (pl. Spartacus)
+- **Nők helyzete:** jogi szempontból alárendeltek, de kulturális és vallási szerepük volt
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- Az ókori demokrácia alapvetően férfi polgárokra korlátozódott – a nők és rabszolgák ki voltak zárva.
+- A rabszolgamunka nélkül az ókori városállamok gazdasága nem lett volna fenntartható.
+- A pater familias intézménye a patriarchális társadalom szimbóluma volt Rómában.
+- Az agóra/fórum egyszerre töltötte be a politika, kereskedelem és közösségi élet szerepét.
 
-- Az ókori Egyiptomban a Nílus áradása határozta meg a földművelés ritmusát, és ezzel a mindennapi életet is.
-- Görög poliszokban a polgárjoggal rendelkező férfiak vettek részt a politikai életben, míg a nők és rabszolgák ebből kimaradtak.
-- A rómaiaknál a család központi szereplője a pater familias volt, aki a család vagyonát és jogi ügyeit irányította.
-- A rabszolgamunka sok ókori társadalomban a gazdaság fontos része volt, különösen a nagy birodalmakban.
-- A vallási ünnepek nemcsak vallási, hanem közösségi események is voltak, ahol az emberek találkoztak, kereskedtek és szórakoztak.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: polgár, rabszolga, pater familias, patriarchális család.
-- Fontos összefüggés: hogyan függött össze a társadalmi helyzet a politikai jogokkal és a mindennapi élet lehetőségeivel.
-- Érdemes tudni példákat: egy görög polgár, egy római polgár és egy rabszolga mindennapjai hogyan különböztek egymástól.
-
-## Rövid történeti összefoglaló
-
-Az ókori görög poliszokban, például Athénban a Kr. e. 5. században a szabad polgárok és a rabszolgák – akik a lakosság felét is kitehették – egymás mellett éltek az agorán, a műhelyekben és a háztartásokban. Rómában a Kr. u. 1–2. században a Colosseum melletti utcákon a bérházak (insulae) emeletein zsúfolódtak a szegények, miközben a gazdagok kényelmes villáiban fűtéssel és mozaikpadlóval rendezkedtek be. Az egyiptomi Nílus-menti falvakban Kr. e. 3000-től a parasztok élete az áradáshoz igazodott: a nagy víz után vetőmag, aratás, majd a fáraó számára ledolgozandó közmunka váltogatta egymást.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **társadalmi rétegek**
-- **rabszolgaság**
-- **polgárjog**
-- **család**
-- **vallási ünnepek**
+## Forráselemzéshez
+- Régészeti leletek: insulák maradványai, edények, szerszámok a mindennapi életről
+- Vázaképek, mozaikok: görög és római mindennapok vizuális forrásai
+- Irodalmi szövegek: Arisztotelész a politikáról, Cicero a közéletről, Vergilius a paraszti életről
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

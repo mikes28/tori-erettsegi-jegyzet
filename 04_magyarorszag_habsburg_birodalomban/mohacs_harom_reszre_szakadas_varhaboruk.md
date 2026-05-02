@@ -1,48 +1,47 @@
-# A mohácsi csata, az ország három részre szakadása és a várháborúk (1541–1568)
+# A mohácsi csata, a három részre szakadás és a várháborúk
 
-A mohácsi csata súlyos veresége után a Magyar Királyság politikai válságba került, kettős királyválasztás és török hódítás követte. Az ország végül három részre szakadt, és évtizedeken át tartó várháborúk alakították a mindennapokat.
+## Rövid lényeg
+- 1526. augusztus 29.: a mohácsi csatában II. Lajos magyar király és seregének java elpusztult.
+- A megüresedett trón kettős királyválasztáshoz vezetett: Szapolyai János vs. Habsburg Ferdinánd.
+- 1541: Szulejmán szultán elfoglalta Budát → az ország három részre szakadt.
+- A három rész: Királyi Magyarország (Habsburgok), Hódoltság (törökök), Erdélyi Fejedelemség.
+- A végvári rendszer évtizedekig védte a Királyi Magyarország határát.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **mohácsi csata (1526)**: a Magyar Királyság döntő vereségét hozó ütközet Szulejmán szultán ellen
+- **kettős királyválasztás**: Szapolyai János (1526) és Habsburg Ferdinánd (1526) egyszerre igényelték a trónt
+- **Hódoltság**: a törökök által közvetlenül igazgatott középső országrész; Buda és Pest is ide tartozott
+- **Királyi Magyarország**: Habsburg-uralom alatt álló nyugati és északi területek (székhely: Pozsony)
+- **Erdélyi Fejedelemség**: keleti országrész; a töröknek adót fizet, de belső önállóságot élvez
+- **végvári rendszer**: erőd-vonal a Hódoltság és a Királyi Magyarország határán; katonai védelmi rendszer
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **II. Lajos** – a mohácsi csatában elesett 20 éves király
+- **Szapolyai János** – a kiskirály, majd a Hódoltság urának helytartójaként működő erdélyi fejedelemség előzménye
+- **Habsburg Ferdinánd** – Ausztria főhercege; a magyar trón egyik igénylője; a Királyi Magyarország ura
+- **I. Szulejmán** – az Oszmán Birodalom szultánja; 1526: Mohács, 1541: Buda elfoglalása
+- **Dobó István** – Eger várának 1552-es védője; a végvári hősiesség jelképe
 
-- Mohácsi csata (1526): a magyar sereg veresége a török hadaktól.
-- Kettős királyválasztás: Szapolyai János és Habsburg Ferdinánd egyszerre igényelte a magyar trónt.
-- Három részre szakadás: Királyi Magyarország, Hódoltság, Erdélyi Fejedelemség.
-- Végvári rendszer: határvédelmi vonal török és Habsburg területek között.
-- Várháborúk (1541–1568): folyamatos harcok a végvárakért.
+## Évszámok
+- **1526. augusztus 29.** – mohácsi csata; II. Lajos halála
+- **1541** – Buda elfoglalása; az ország három részre szakadása
+- **1552** – az egri vár sikeres védelme Dobó István alatt
+- **1541–1568** – várháborúk kora
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Okok a vereségnek:** a magyar hadsereg létszámbeli alulmaradása; a főnemesség széthúzása; a Jagelló-dinasztia gyengesége; Európa többi hatalmának közönye
+- **Következmények:** Magyarország másfél évszázados megosztottsága; demográfiai katasztrófa (falvak pusztulása, rabszolga-kereskedelem); Erdély önálló fejlődése
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- A mohácsi csata Magyarország történetének legnagyobb fordulópontja: az egységes királyság soha nem állt helyre.
+- A három részre szakadás közel 150 évre meghatározta Magyarország politikai, gazdasági és kulturális fejlődését.
+- A végvári katonák hősiessége a nemzeti emlékezet fontos részévé vált (pl. Balassi Bálint végvári lírája).
+- Buda elvesztése (1541) jelképezte azt, hogy Magyarország a két birodalom ütközőzónájává vált.
 
-- 1526-ban a mohácsi csatában a magyar sereg döntő vereséget szenvedett, és II. Lajos király is életét vesztette.
-- A trón megüresedése után Szapolyai Jánost és Habsburg Ferdinándot is királylyá választották, ami belháborúhoz vezetett.
-- 1541-ben a török csellel elfoglalta Budát, és létrejött a Hódoltság, a középső országrész közvetlen török uralom alatt állt.
-- A nyugati és északi területek a Habsburgok kezén maradtak (Királyi Magyarország), Erdély pedig külön fejedelemségként viszonylagos önállóságot kapott.
-- A 16. század közepétől a végvárak mindennapos ostromoknak, portyázásoknak voltak kitéve, a végvári katonák hősies helytállása a magyar emlékezet fontos része lett.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos évszámok: 1526 – mohácsi csata; 1541 – Buda elfoglalása; 1541–1568 – várháborúk időszaka.
-- Fontos fogalmak: kettős királyválasztás, Hódoltság, Királyi Magyarország, Erdélyi Fejedelemség, végvári rendszer.
-- Fontos személyek: II. Lajos, Szapolyai János, Habsburg Ferdinánd, néhány nevezetes végvári kapitány (pl. Zrínyi Miklós a későbbi időszakban).
-
-## Rövid történeti összefoglaló
-
-1526. augusztus 29-én a mohácsi csatamezőn II. Lajos magyar király seregét Szulejmán szultán néhány óra alatt megsemmisítette; a fiatal király a menekülés közben a Csele-patakba fulladt, és ezzel kihalt a Jagelló-dinasztia magyar ága. Az ezt követő belső trónharcok után 1541-ben I. Szulejmán szultán Buda várát ravasz csellel elfoglalta, és ezzel az ország három részre szakadt: a királyi Magyarország, az erdélyi fejedelemség és a hódolt területek. A következő másfél évszázadban az ország szívében kiépült végvárrendszer – Eger (1552), Szigetvár (1566) – ezrei katonájával védte a maradék keresztény Magyarországot a folytonos oszmán betörések ellen.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **mohácsi csata**
-- **kettős királyválasztás**
-- **három részre szakadás**
-- **Hódoltság**
-- **végvári rendszer**
+## Forráselemzéshez
+- Mohácsi csata korabeli leírásai (pl. Brodarics István): a vereség szemtanúi és közvetlen forrásai
+- Végvári vitézek levelei: a határ menti élet nehézségeinek dokumentumai
+- Szulejmán szultán naplója: az oszmán perspektíva a hódítás eseményeiről
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció
