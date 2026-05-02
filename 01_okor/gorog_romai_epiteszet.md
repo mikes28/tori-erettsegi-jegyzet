@@ -1,48 +1,46 @@
-# Az ókori civilizációk; görög és római építészet
+# Az ókori görög és római építészet
 
-Az ókori görög és római építészet maradandó hatást gyakorolt az európai kultúrára. Sok mai középület és emlékmű formavilága ezekből a mintákból ered.
+## Rövid lényeg
+- A görög építészet jellemzője az oszloprendek (dór, ión, korinthoszi) és a templomépítészet.
+- A rómaiak a görög formákat mérnöki szemlélettel fejlesztették tovább: boltív, kupola, beton.
+- A rómaiak monumentális középületeket emeltek: amfiteátrum, bazilika, diadalív, fürdő.
+- A római úthálózat és vízvezetékek a birodalom infrastruktúrájának alapját képezték.
+- Mindkét kultúra nagy hatást gyakorolt a későbbi európai építészetre.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **oszloprend**: görög építészeti rendszer; dór (egyszerű), ión (volutás fejezet), korinthoszi (leveles)
+- **Parthenón**: dór stílusú athéni templom, Kr. e. 447–432
+- **Colosseum**: római amfiteátrum, Kr. u. 70–80 körül, ~80 000 néző
+- **Pantheon**: Róma, Kr. u. 125; 43 méteres betonkupola, ma is áll
+- **boltív/dongaboltozat**: nagy fesztáv és nyitott tér lehetővé tétele – római fejlesztés
+- **akvadukt**: vízvezeték-rendszer, mérnöki csoda
+- **bazilika**: hosszúkás, belső csarnokos épület – később templomforma lett
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **Periklész** – megrendelte a Parthenón építését (Kr. e. 447)
+- **Hadrianus** – a Pantheon újjáépíttetője (Kr. u. 125)
+- **Vitruvius** – római építészetteoretikus, az „Építészetről" c. mű szerzője
 
-- Görög templom, oszloprendek (dór, ión, korinthoszi).
-- Római bazilika, amfiteátrum, fürdő, diadalív.
-- Boltív, dongaboltozat, kupola használata.
-- Városépítés: utak, akvaduktok, fórumok.
-- Anyaghasználat: kő, márvány, beton (római találmány).
+## Évszámok
+- **Kr. e. 447–432** – Parthenón építése, Athén
+- **Kr. u. 70–80** – Colosseum, Róma
+- **Kr. u. 125** – Pantheon befejezése, Róma
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Okok:** vallási igény (templomok), közösségi élet (fórum, amfiteátrum), birodalom reprezentációja
+- **Következmények:** az európai klasszicista és neoklasszicista építészet alapja; sok épület ma is áll; mérnöki tudás öröksége (beton, boltív)
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- A görög templomépítészet a harmónia és az arány elvein alapult.
+- A rómaiak a görög formákat praktikus igényekre alkalmazták és tovább fejlesztették.
+- A boltív és a beton használata lehetővé tette az ókori világ legnagyobb épületeinek megépítését.
+- Az akvaduktok és utak nélkül a Római Birodalom nem lett volna fenntartható.
+- A klasszikus építészeti hagyomány máig hat az európai középületekre.
 
-- A görög építészet főleg templomokat és középületeket emelt a városok központjaiban.
-- A rómaiak átvették a görög formákat, de mérnöki szemlélettel bővítették azokat.
-- A római út- és vízvezeték-építés a birodalom működéséhez volt elengedhetetlen.
-- A boltív és a beton használata lehetővé tette a nagy fesztávok és monumentális terek kialakítását.
-- Számos mai európai főváros középületeinek homlokzata görög-római mintákat idéz.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Ismerd fel a főbb épülettípusokat képen: templom, amfiteátrum, diadalív, fürdő.
-- Fontos fogalmak: oszloprend, boltív, bazilika, amfiteátrum.
-- Fontos példák: Parthenón (Athén), Colosseum (Róma), Pantheon (Róma).
-
-## Rövid történeti összefoglaló
-
-Kr. e. 447-ben Periklész irányításával megkezdődött az Athéni Akropoliszon a Parthenón építése, amely Kr. e. 432-re készült el, és a dór oszloprend tökéletesített példájaként ma is áll. A Római Birodalomban Kr. u. 70–80 között emelték a Colosseumot, amelynek nyolcvanezer férőhelyes arénaportálja a három görög oszloprend összehangolt alkalmazásával vált az ívelt építészet mintaképévé. Kr. u. 125-ben Hadrianus császár kincseként befejezték a Pantheon újjáépítését, amelynek 43 méteres betonesetű kupolája máig az ókori mérnöki tudás csúcsteljesítménye.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **oszloprend**
-- **bazilika**
-- **amfiteátrum**
-- **boltív**
-- **Colosseum**
+## Forráselemzéshez
+- Épületek képelemzése: oszloprendek azonosítása, stílusjegyek felismerése fotón/rajzon
+- Vitruvius szövegei: az ókori építészetelmélet elsődleges forrása
+- Régészeti leletek és romok: helyszíni bizonyítékok a használatról és technikáról
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

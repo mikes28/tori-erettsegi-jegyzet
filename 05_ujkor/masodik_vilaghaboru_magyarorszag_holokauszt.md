@@ -1,48 +1,49 @@
 # A második világháború, Magyarország részvétele és a holokauszt
 
-A második világháború a történelem egyik legpusztítóbb konfliktusa volt. Magyarország a tengelyhatalmak oldalán vett részt a háborúban, amelynek során sor került a zsidó lakosság tömeges elhurcolására és meggyilkolására, a holokausztra.
+## Rövid lényeg
+- 1939. szeptember 1.: Németország megtámadta Lengyelországot – kitört a második világháború.
+- Magyarország 1941-ben lépett be a háborúba a Szovjetunió és Jugoszlávia ellen.
+- A doni katasztrófa (1943. január): a 2. magyar hadsereg megsemmisülése.
+- 1944. március 19.: Németország megszállta Magyarországot; megkezdődtek a tömeges deportálások.
+- A magyarországi zsidóság ~500 000 tagját deportálták; a többségük Auschwitzban pusztult el.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **tengelyhatalmak**: Németország, Olaszország, Japán és szövetségeseik
+- **szövetségesek (antifasiszta koalíció)**: Nagy-Britannia, USA, Szovjetunió
+- **doni katasztrófa (1943)**: a 2. magyar hadsereg veresége a Don folyónál; ~100–150 000 halott
+- **holokauszt**: a zsidó és más üldözött csoportok szisztematikus megsemmisítése a nácik által
+- **deportálás**: csoportos kényszerkitelepítés haláltáborokba; Magyarországon 1944 nyarán
+- **Auschwitz-Birkenau**: haláltábor Lengyelországban; a magyarországi zsidók nagy részét ide vitték
+- **nyilasok (Nyilaskeresztes Párt)**: szélsőjobboldali, antiszemita párt; 1944 október: hatalomra jutás
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **Szálasi Ferenc** – a nyilasok vezére; 1944. október: hatalomátvétel; háborús bűnös
+- **Eichmann, Adolf** – a zsidók deportálásának szervezője Magyarországon (1944)
+- **Wallenberg, Raoul** – svéd diplomata; svéd útlevelekkel mentette a zsidókat Budapesten 1944-ben
+- **Horthy Miklós** – 1944 júliusában leállíttatta a deportálásokat (vidéki zsidók már elpusztultak)
 
-- Tengelyhatalmak és szövetségesek.
-- Frontok: európai, afrikai, csendes-óceáni.
-- Magyarország háborús részvétele: hadbalépés, doni katasztrófa.
-- Német megszállás (1944) és nyilas hatalomátvétel.
-- Holokauszt: zsidó lakosság szisztematikus üldözése és megsemmisítése Európában és Magyarországon.
+## Évszámok
+- **1939. szeptember 1.** – Lengyelország megtámadása; a II. vh. kezdete
+- **1941. június** – Magyarország belép a Szovjetunió elleni háborúba
+- **1943. január** – doni katasztrófa
+- **1944. március 19.** – német megszállás; deportálások megkezdése
+- **1944. október 15.** – nyilas hatalomátvétel; Szálasi
+- **1945. február** – Budapest ostroma véget ér; szovjet felszabadítás/megszállás
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Holokauszt okai Magyarországon:** a náci nyomás, a Quisling-típusú együttműködés, a hazai antiszemitizmus
+- **Következmények:** ~500 000 magyar zsidó halott; az ország romokban; szovjet megszállás; kommunizmus következik
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- A doni katasztrófa a háborús részvétel legsúlyosabb ára volt a magyar társadalom számára.
+- A magyarországi zsidóság deportálása az egyik legsúlyosabb holokauszt-esemény volt: rövid idő alatt, nagy hatékonysággal hajtották végre.
+- Wallenberg és más mentők cselekedete bizonyítja, hogy az egyéni ellenállás is volt lehetséges.
+- Magyarország háborús részvétele egyenes következménye volt a revíziós politikának és a Hitlerhez való kötődésnek.
 
-- A második világháború 1939-ben kezdődött Németország Lengyelország elleni támadásával.
-- Magyarország a tengelyhatalmak oldalán lépett be a háborúba, részt vett a Szovjetunió elleni hadjáratban.
-- A doni katasztrófában (1943) a 2. magyar hadsereg súlyos veszteségeket szenvedett.
-- 1944-ben Németország megszállta Magyarországot, majd a nyilasok átvették a hatalmat.
-- A holokauszt során a magyar zsidóság nagy részét deportálták, jelentős részük Auschwitz-Birkenauban vesztette életét.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: tengelyhatalmak, szövetségesek, doni katasztrófa, német megszállás, nyilas hatalomátvétel, holokauszt.
-- Fontos évszámok: 1939–1945 – második világháború; 1944 – német megszállás; 1945 – háború vége Magyarországon.
-- Fontos összefüggés: hogyan vezetett a háború Magyarország összeomlásához és a civil lakosság, különösen a zsidóság tragédiájához.
-
-## Rövid történeti összefoglaló
-
-1941. június 27-én Magyarország csatlakozott a Szovjetunió ellen indított háborúhoz, és a Don-kanyarban 1943 januárjában elszenvedett katasztrófában a 2. magyar hadsereg szinte megsemmisült: közel százezer katona esett el vagy esett fogságba. 1944. március 19-én a németek megszállták Magyarországot, és április végétől – Adolf Eichmann irányításával – megkezdődött a vidéki zsidóság deportálása: alig hét hét alatt mintegy 437 000 embert hurcoltak főként Auschwitzba, akiknek többségét megérkezésük napján megölték. Budapest 1945. február 13-án szabadult fel a szovjet ostrom nyomán, de az ország romokban állt, és a háború közel hatszázezer magyar zsidó áldozatot követelt.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **második világháború**
-- **doni katasztrófa**
-- **német megszállás**
-- **nyilasok**
-- **holokauszt**
+## Forráselemzéshez
+- Túlélők visszaemlékezései: az emberi szenvedés személyes dokumentumai
+- Deportálási listák és vasúti menetrendek: az adminisztratív gépezetről szóló elsődleges források
+- Háborús fényképek és filmhíradók: a háború vizuális forrásai
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

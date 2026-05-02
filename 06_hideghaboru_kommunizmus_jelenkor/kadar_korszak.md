@@ -1,48 +1,46 @@
-# A kádári diktatúra és a „kádári alku”
+# A Kádár-korszak és a „kádári alku"
 
-Az 1956 utáni időszakban Kádár János vezetésével stabilizálódott a kommunista rendszer Magyarországon. A kádári diktatúra kemény megtorlással indult, később azonban viszonylagos életszínvonal-emelkedéssel párosult, amit gyakran „kádári alkuként” szoktak emlegetni.
+## Rövid lényeg
+- A Kádár-korszak (1956–1988) az 1956-os forradalmat követő konszolidált kommunizmus időszaka.
+- A „kádári alku": politikai passzivitásért cserébe viszonylagos anyagi biztonság és mozgásszabadság.
+- Az 1968-as Új Gazdasági Mechanizmus némi piaci elemet engedett a tervgazdálkodásba.
+- A kultúrpolitikában a „három T" (támogatott, tűrt, tiltott) határozta meg, mi jelenhet meg.
+- A rendszer a 80-as évekre gazdaságilag meggyengült: eladósodás, recesszió.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **kádári alku**: a hallgatólagos megállapodás: politikai lojalitás/passzivitás → állami ellátás, fogyasztói kényelem
+- **Új Gazdasági Mechanizmus (1968)**: korlátozott piaci elemek bevezetése; vállalatok nagyobb önállósága
+- **tervgazdaság**: az állam határozza meg a termelési célokat; magántulajdon helyett állami tulajdon
+- **három T**: Aczél György-féle kultúrpolitika; **T**ámogatott, **T**űrt, **T**iltott alkotások
+- **MSZMP**: Magyar Szocialista Munkáspárt; az egypárt Kádár idején
+- **gulyáskommunizmus**: a köznyelv neve a viszonylag magas fogyasztási szintű Kádár-kori szocializmusra
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **Kádár János** – 1956–1988: a párt első titkára; a rendszer névadója
+- **Aczél György** – a kultúrpolitika irányítója; a három T rendszerének megalkotója
+- **Pozsgay Imre** – reformkommunista politikus; a rendszerváltás folyamatában szerepet játszott
 
-- Pártállam fennmaradása: egypártrendszer, MSZMP uralma.
-- Tervgazdaság: központilag irányított gazdaság.
-- „Kádári alku”: politikai passzivitásért cserébe viszonylagos anyag biztonság.
-- Kultúrpolitika: „három T” (támogatott, tűrt, tiltott művek).
-- Lassú reformkísérletek: gazdasági mechanizmusok óvatos módosítása.
+## Évszámok
+- **1956** – a forradalom leverése; Kádár hatalomra kerülése
+- **1961–1963** – az 1956-os megtorlások lezárása; amnesztia
+- **1968** – Új Gazdasági Mechanizmus; prágai tavasz leverésében Magyarország is részt vesz
+- **1970-es évek** – csúcsidőszak: lakásépítés, fogyasztás növekszik, de eladósodás is
+- **1988** – Kádár leváltása; reformkommunisták veszik át a hatalmat
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **A kádári alku oka:** az 1956-os trauma után a párt nem merte a kemény sztálinista módszereket alkalmazni tartósan
+- **Következmény:** a rendszer relatív stabilitása; de a gazdasági reformok elmaradása → összeomlás a 80-as évekre; 18 milliárd dollár külső adósság
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- A kádári alku a kommunizmus önpusztítása volt: az enyhítés szükségessé tette a piacgazdaságra való átmenetet is.
+- A „gulyáskommunizmus" a szocialista blokkon belül valóban megkülönböztette Magyarországot.
+- A három T rendszere nem egyszerű cenzúra volt, hanem egy finom kontrollmechanizmus, amely teret hagyott a kompromisszumnak.
+- A Kádár-korszak gazdasági örökségének fő problémája az eladósodás volt, amelyet a rendszerváltás után kellett kezelni.
 
-- Az 1956-os megtorlást követően Kádár fokozatosan enyhített a terroron, de a politikai ellenzéket továbbra sem tűrte.
-- A 60-as–70-es években bevezettek bizonyos gazdasági reformokat, amelyek nagyobb mozgásteret engedtek a vállalatoknak.
-- A fogyasztási cikkek szélesebb körben váltak elérhetővé, ami javította az emberek mindennapi életét.
-- A kultúrában a hatalom igyekezett különbséget tenni a rendszert támogató, elnézett és tiltott megnyilvánulások között.
-- A rendszer hosszú távon eladósodáshoz és gazdasági nehézségekhez vezetett, ami a 80-as évekre válság jeleit mutatta.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: kádári diktatúra, kádári alku, tervgazdaság, három T.
-- Fontos személyek: Kádár János, Aczél György.
-- Fontos összefüggés: miért érezték sokan „enyhébbnek” a Kádár-rendszert, és milyen ára volt ennek (politikai szabadság hiánya, eladósodás).
-
-## Rövid történeti összefoglaló
-
-Kádár János az 1956-os forradalom leverése után szovjet támogatással vette át a hatalmat, és az első években kegyetlen megtorlással – ezrek bebörtönzésével és Nagy Imre 1958-as kivégzésével – szilárdította meg uralmát. Az 1960-as évek elejétől azonban az „aki nincs ellenünk, az velünk van" jelszóval meghirdetett konszolidáció, majd az 1968-as Új Gazdasági Mechanizmus bevezette a „gulyáskommunizmus" modelljét, amelyben az életszínvonal emelésével és a relatív fogyasztói szabadsággal kompenzálták a politikai elnyomást. 1968 augusztusában Kádár – bár vonakodva – csatlakozott a prágai tavasz elfojtásához, és magyar csapatok is részt vettek a Csehszlovákia megszállásában, ami erkölcsi szennyfoltot hagyott a kádári rendszer képén.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **Kádár-korszak**
-- **MSZMP**
-- **kádári alku**
-- **tervgazdaság**
-- **három T**
+## Forráselemzéshez
+- MSZMP határozatok: a párt döntéshozatalának forrásai
+- Az Új Gazdasági Mechanizmus gazdasági statisztikái: a reform hatásainak mérése
+- Irodalmi és filmes alkotások a Kádár-korból: a „tűrt" kultúra vizuális és szöveges forrásai
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

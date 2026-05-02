@@ -1,48 +1,43 @@
-# Magyarországi politikai intézmények és nemzeti kérdések (Alaptörvény, hatalmi ágak, választási rendszer, nemzetiségek)
+# Magyarországi politikai intézmények és a nemzeti kérdés
 
-A mai magyar állam működésének megértéséhez fontos ismerni az Alaptörvényt, a hatalmi ágak rendszerét és a választási rendszert. Ezzel párhuzamosan a nemzeti kérdések – a határon túli magyarok, a hazai nemzetiségek és a romák – továbbra is fontos társadalmi és politikai témák.
+## Rövid lényeg
+- Magyarország alaptörvénye (2011) az alkotmány szerepét tölti be; meghatározza az intézményeket és alapjogokat.
+- A hatalommegosztás elvén alapuló rendszer: Országgyűlés (törvényhozó), kormány (végrehajtó), bíróságok (igazságszolgáltató).
+- A vegyes választási rendszer egyéni körzeteket és listás szavazást ötvöz.
+- A határon túli magyarok (~2–2,5 millió) helyzete fontos külpolitikai téma.
+- Magyarországon 13 elismert nemzeti kisebbség él, a legnagyobb a roma közösség.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **Alaptörvény (2011)**: Magyarország hatályos alkotmánya; az Országgyűlés fogadta el
+- **Országgyűlés**: az egykamarás törvényhozó testület; 199 képviselő
+- **kormány**: a végrehajtó hatalmat gyakorló testület; élén a miniszterelnök
+- **köztársasági elnök**: az államfő; Magyarországon inkább szimbolikus szerep; az Országgyűlés választja
+- **Alkotmánybíróság**: az alaptörvény-sértő jogszabályokat megsemmisítheti
+- **választási rendszer**: vegyes rendszer; 106 egyéni körzetbeli mandátum + 93 listás mandátum
+- **határon túli magyarok**: Romániában (Erdély), Szlovákiában, Szerbiában, Ukrajnában élő magyarok
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- Intézményi szereplők: **miniszterelnök**, **köztársasági elnök**, **az Alkotmánybíróság elnöke**
 
-- Alaptörvény: Magyarország alkotmányának szerepét betöltő alapjogi és intézményi dokumentum.
-- Hatalmi ágak: törvényhozó (Országgyűlés), végrehajtó (kormány, köztársasági elnök), bírói (bíróságok).
-- Önkormányzatok: helyi közösségek választott testületei.
-- Választási rendszer: vegyes rendszer, egyéni választókerületek és listás szavazás.
-- Nemzeti kérdések: határon túli magyar közösségek, hazai nemzetiségek és romák helyzete.
+## Évszámok
+- **1990** – az első szabad választások; a parlamentáris demokrácia helyreállítása
+- **2004** – EU-csatlakozás; a határon túli magyarok uniós polgárok (pl. Románia, Szlovákia)
+- **2011** – az Alaptörvény elfogadása; lép hatályba 2012-ben
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **A határon túliak kérdésének eredete:** trianoni békeszerzpodés (1920); milliók kerültek az utódállamokba
+- **Következmény:** a szomszéd országokkal való kapcsolatok alakításában a kisebbségi kérdés meghatározó; kettős állampolgárság (2010-től)
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- A hatalommegosztás a demokrácia működésének alapfeltétele; nélküle egy ág korlátlan hatalmat szerezhet.
+- A határon túli magyarok ügye nemcsak bel-, hanem kétoldalú diplomáciai kérdés is.
+- A roma közösség helyzete az egyik legsúlyosabb szociális és emberi jogi kérdés Magyarországon.
+- Az Alkotmánybíróság szerepe kulcsfontosságú: törvényhozó és végrehajtó hatalmat is korlátoz.
 
-- Az Alaptörvény rögzíti Magyarország államformáját, alapértékeit, az állampolgárok jogait és kötelességeit.
-- Az Országgyűlés hozza a törvényeket, a kormány irányítja a végrehajtó hatalmat, a bíróságok pedig függetlenek a többi hatalmi ágtól.
-- Az önkormányzatok helyi ügyekben hoznak döntéseket, például oktatás, városfejlesztés, helyi rendeletek terén.
-- A választási rendszer meghatározza, hogy az állampolgárok hogyan választják meg képviselőiket az Országgyűlésbe.
-- A határon túli magyar közösségek és a hazai nemzetiségek, valamint a romák jogainak és helyzetének kérdése gyakran felmerül a politikai vitákban és nemzetközi kapcsolatokban.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: Alaptörvény, hatalmi ágak, önkormányzat, választási rendszer, nemzetiség.
-- Fontos összefüggés: miért fontos a hatalommegosztás a demokrácia működése szempontjából.
-- Érdemes tudni példákat a határon túli magyar közösségekre és néhány magyarországi nemzetiségre.
-
-## Rövid történeti összefoglaló
-
-1989-ben az Ellenzéki Kerekasztal, a kommunista párt és a civil szervezetek tárgyalássorozata során kialakítottak egy új alkotmányos keretet, amely az egypárti diktatúra helyett parlamentáris köztársaságot alapított. 1989. október 23-án – az 1956-os forradalom évfordulóján – Szűrös Mátyás az Országház erkélyéről kikiáltotta a Magyar Köztársaságot, jelképesen lezárva a népi demokratikus korszakot. 1990. március 25-én és április 8-án megtartották az első szabad, többpárti választásokat, amelyeken a Magyar Demokrata Fórum győzött, Antall József alakított kormányt, és megkezdődött Magyarország demokratikus átalakulásának és euroatlanti integrációjának folyamata.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **Alaptörvény**
-- **hatalmi ágak**
-- **választási rendszer**
-- **nemzetiségek**
-- **romák**
+## Forráselemzéshez
+- Az Alaptörvény szövege: az alkotmányos elvek és intézményi keretek elsődleges forrása
+- Választási eredmények statisztikái: a pártrendszer és szavazói magatartás elemzéséhez
+- Kisebbségi jogi keretegyezmények: a nemzetközi normák és magyarországi jogok összehasonlítása
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

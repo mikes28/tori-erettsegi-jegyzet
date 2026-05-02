@@ -1,48 +1,47 @@
-# Magyarország története az első világháborútól a második világháborús összeomlásig
+# Magyarország az első világháborútól a második világháborús összeomlásig
 
-Az első világháború végétől a második világháború lezárásáig Magyarország története fordulatos és válságokkal teli időszak volt. A forradalmak, Trianon, a Horthy-korszak és a háborús részvétel mind hozzájárultak az ország második világháborús összeomlásához.
+## Rövid lényeg
+- A Horthy-korszak (1920–1944) konzervatív autoritárius rendszer volt; a revízió volt a külpolitika fő célja.
+- Bethlen István (1921–1931) konszolidálta a rendszert; Magyarország lassan talpra állt.
+- A gazdasági világválság (1929) és a szélsőjobb erősödése destabilizálta az országot.
+- A bécsi döntések (1938, 1940, 1941) területi visszaszerzéseket hoztak, de Hitlerhez kötötték Magyarországot.
+- 1944: német megszállás → Magyarország frontszínterré vált.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **Horthy-rendszer**: parlamentáris formák mögött konzervatív, antidemokratikus hatalom; Horthy személyi tekintélye
+- **Bethlen-konszolidáció**: stabilizáció 1921–1931 között; választójog szűkítése, gazdasági talpraállás
+- **revízió**: a trianoni határok felülvizsgálatának politikai programja
+- **bécsi döntések**: 1938 (Felvidék), 1940 (Észak-Erdély), 1941 (Délvidék) visszacsatolása Magyarországhoz
+- **Teleki Pál**: miniszterelnök 1939–1941; öngyilkosságot követett el, amikor Magyarország belépett a Jugoszlávia elleni háborúba
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **Horthy Miklós** – kormányzó 1920–1944; de facto államfő
+- **Bethlen István** – miniszterelnök 1921–1931; konszolidáció
+- **Teleki Pál** – miniszterelnök 1939–1941; öngyilkossága politikai tiltakozás volt
+- **Gömbös Gyula** – miniszterelnök 1932–1936; fasizáló tendenciák; közeledés Hitlerhez
 
-- Trianon utáni berendezkedés és revíziós politika.
-- Horthy-korszak politikai rendszere.
-- Gazdasági válságok és társadalmi feszültségek.
-- Fokozódó német befolyás.
-- Magyarország háborúba sodródása és összeomlása.
+## Évszámok
+- **1921–1931** – Bethlen-korszak; konszolidáció
+- **1929** – világválság; Magyarországot is sújtja
+- **1938** – első bécsi döntés; Felvidék visszacsatolása
+- **1940** – második bécsi döntés; Észak-Erdély visszacsatolása
+- **1941** – harmadik bécsi döntés (Délvidék); belépés a Jugoszlávia és a Szovjetunió elleni háborúba
+- **1944. március 19.** – Magyarország német megszállása
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Revíziós politika következménye:** területi sikerek Hitlertől → de cserébe hadba lépés a szövetségesek ellen
+- **A megszállás következménye:** a holokauszt felgyorsul; nyilas hatalomátvétel; Magyarország frontszínterré válik
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- A Horthy-rendszer pragmatikus alapon közeledett Hitlerhez: területeket kapott, de elveszítette önállóságát.
+- Teleki Pál öngyilkossága szimbolizálja azt a dilemmát, amellyel Magyarország szembenézett: a revízió ára a Hitler melletti hadba lépés lett.
+- A bécsi döntések rövid távú sikernek tűntek, de hosszú távon Magyarország vesztét okozták.
+- A Horthy-korszak nem azonosítható a nácizmussal, de a zsidóüldözésben aktív szerepet játszott.
 
-- Trianon után a revízió, vagyis a határok felülvizsgálata központi cél lett a magyar politikában.
-- A Horthy-rendszer korlátozott parlamentáris rendszer volt, nem teljes demokrácia, de nem is totális diktatúra.
-- A gazdasági világválság Magyarországot is sújtotta, munkanélküliséghez és társadalmi elégedetlenséghez vezetett.
-- A 30-as években Magyarország egyre inkább Németország szövetségébe sodródott, részben a területi revíziós ígéretek miatt.
-- A második világháború végére az ország fronttá vált, jelentős pusztítás és emberveszteség érte.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: revízió, Horthy-korszak, német befolyás, összeomlás.
-- Fontos összefüggés: hogyan kapcsolódnak össze az 1918–1920-as események, Trianon, a Horthy-rendszer és a második világháborús katasztrófa.
-- Érdemes tudni néhány kulcsszemélyt (Horthy Miklós, Teleki Pál, Bethlen István) és döntésük következményeit.
-
-## Rövid történeti összefoglaló
-
-A Trianon utáni Magyarországon 1920-tól Horthy Miklós kormányzó irányításával konszolidálódott a Bethlen István miniszterelnök által egyensúlypolitikával jellemzett rendszer, amelynek középpontjában a területi revízió reménye állt. Az 1930-as évek végén a revíziós célok elérése érdekében Magyarország egyre szorosabb szövetséget kötött a náci Németországgal: 1938–1940 között három bécsi döntés visszacsatolt észak-erdélyi, felvidéki és kárpátaljai területeket. 1941. június 27-én Magyarország belépett a Szovjetunió elleni háborúba, majd 1944. március 19-én a németek megszállták az országot, és megkezdődött a magyar zsidóság deportálása, az ország pedig 1945 tavaszán szovjet katonai uralom alá került.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **Trianon utáni Magyarország**
-- **reviziós politika**
-- **Horthy-korszak**
-- **német befolyás**
-- **háborús összeomlás**
+## Forráselemzéshez
+- Teleki Pál búcsúlevele: politikai dilemmák elsődleges forrása
+- Bécsi döntések szövegei: a területi változások jogi dokumentumai
+- Statisztikák (munkanélküliség, gazdasági mutatók): a válság hatásának mérése
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

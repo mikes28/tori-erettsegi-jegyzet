@@ -1,48 +1,45 @@
-# Az uradalom, a földbirtokosok és jobbágyok, hűbériség és mezőgazdasági fejlődés
+# Uradalom, jobbágyság és hűbériség
 
-A középkori falusi élet központja az uradalom volt, ahol a földbirtokos és a jobbágyok együtt biztosították a megélhetést. A hűbéri rendszer és az új mezőgazdasági technikák határozták meg Európa gazdasági működését a X–XI. századtól kezdve.
+## Rövid lényeg
+- A középkori Európa gazdaságának alapja a mezőgazdasági uradalom volt.
+- A hűbéri rendszer személyes hűségen és földbirtok-adományozáson alapult (hűbérúr–vazallus).
+- A jobbágy a földet használta, cserébe robotot és terményjáradékot adott az úrnak.
+- Az új mezőgazdasági technikák (nehézeke, szügyhám, háromnyomás) növelték a terméshozamot.
+- A hűbériség a 13. sz. után fokozatosan bomlott a városok és a pénzgazdálkodás előretörésével.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **uradalom**: nagybirtok; feudális úr majorsága + jobbágytelkek + erdők, rétek
+- **jobbágy**: a földet bérlő paraszt; személyében szabad, de helyhez kötött; robot, dézsma, ajándék kötelezettsége
+- **robot**: ingyenes munka az úrnak a jobbágy által
+- **dézsma (tized)**: a termés 10%-a az egyháznak/úrnak
+- **hűbériség (feudalizmus)**: hűbérúr föld adományoz → vazallus hűséget és katonai szolgálatot nyújt
+- **vasallus**: a hűbérúr alá rendelt nemes, aki hűségesküt tett
+- **nehézeke**: nehéz vas ekefej; agyagos talaj felszántásához; 10. sz.-tól terjed
+- **háromnyomásos gazdálkodás**: őszi vetés – tavaszi vetés – ugar; csökkentette a talaj kimerülését
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **Nagy Károly (Karoling-birodalom)** – a frank hűbériség megszilárdítója a 8–9. sz.-ban
 
-- Uradalom: nagybirtok, amelyhez a földesúr majorsága és a jobbágytelkek tartoztak.
-- Földbirtokos (úr): a föld tulajdonosa, aki jogokkal és hatalommal bírt a jobbágyok felett.
-- Jobbágy: személyében szabad, de a földesúrnak szolgáltatásokkal tartozó paraszt.
-- Hűbériség: személyes hűségen és földbirtokon alapuló társadalmi-politikai rendszer.
-- Mezőgazdasági technika: nehézeke, szügyhám, háromnyomásos gazdálkodás.
+## Évszámok
+- **9–10. sz.** – a hűbéri rendszer megszilárdulása Nyugat-Európában
+- **10–11. sz.** – nehézeke és szügyhám elterjedése → terméshozam-növekedés → népességnövekedés
+- **13–14. sz.** – a hűbériség felbomlásának kezdete; városodás, pénzgazdálkodás
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Okok a hűbériség kialakulásának:** a Karoling-birodalom felbomlása → belső háborúk, normann/arab betörések → helyi védelem szükséglete → földbirtok cserébe védelemért
+- **Következmény a technikai fejlődésnek:** mezőgazdasági többlet → városba kerülő felesleg → kereskedelem → a hűbéri rendszer gyengülése
+- **Jobbágyság következménye:** a parasztság röghöz kötöttsége Kelet-Európában egészen a 18–19. sz.-ig fennmaradt
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- A hűbéri rendszer nem volt merev hierarchia, hanem sokszor személyes és kölcsönös kötelezettségek laza hálója.
+- A jobbágy helyzete nem rabszolgaság – volt saját telke és jogai, de a szabadság erősen korlátozott volt.
+- A háromnyomásos gazdálkodás az egyik legfontosabb középkori agrárinnovációnak számít.
+- A városiasodás és a pénzgazdálkodás terjedése fokozatosan aláásták a naturális csere alapú hűbériséget.
 
-- A jobbágy telket kapott, cserébe különböző szolgáltatásokat végzett, például robotot, terményjáradékot és ajándékokat adott az úrnak.
-- A hűbéri lánc csúcsán a király állt, alatta a főurak és a kisebb nemesek kaptak földbirtokot hűségükért cserébe.
-- A X–XI. századtól a nehézeke bevezetése lehetővé tette a kötöttebb, agyagos talajok feltörését, ami növelte a terméshozamokat.
-- A szügyhám kímélte az állatokat, és hatékonyabb erőátvitelt biztosított, így gyorsabb és mélyebb szántást tett lehetővé.
-- A háromnyomásos gazdálkodás váltakoztatta az őszi vetést, a tavaszi vetést és a pihentetett ugarterületet, ezzel csökkentve a talaj kimerülését.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: uradalom, majorság, jobbágy, robot, hűbéri lánc, nehézeke, szügyhám, háromnyomásos gazdálkodás.
-- Fontos összefüggés: a technikai fejlődés (eke, hám, vetésforgó) és a népesség növekedése közötti kapcsolat.
-- Érdemes tudni, hogy a középkori Európa lakosságának többsége falvakban élt, és megélhetése a mezőgazdaságtól függött.
-
-## Rövid történeti összefoglaló
-
-A 9. századi Karoling-birodalomban megszilárdult hűbéri rendszer lényege az volt, hogy a nagy földesurak hűbért (hűségesküt és katonai szolgálatot) kaptak kisebb uraktól cserébe a megélhetést biztosító hűbérbirtokért. A hűbéri lánc alján a jobbágyok álltak: a 11–13. századi Európában az uradalom parasztjai robbot (ingyenmunkát) és dézsmát (terménytized) tartoztak teljesíteni uruknak, cserébe a föld használatáért és a várúr katonai oltalmáért. Ez a kölcsönös függési rendszer lassanként bomlani kezdett a 13. századi városfejlődés és a pénzgazdálkodás elterjedése nyomán, de egyes vidékeken Kelet-Európában egészen a 18–19. századig fennmaradt.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **uradalom**
-- **jobbágy**
-- **hűbéri rendszer**
-- **nehézeke**
-- **háromnyomás**
+## Forráselemzéshez
+- Uradalmi számadáskönyvek: robot, dézsma, terméshozam adatai
+- Hűbéreskük szövegei: a személyes hűség és kötelezettség formulái
+- Képi források: középkori kalászok aratása, eke-ábrázolások a parasztéletről
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

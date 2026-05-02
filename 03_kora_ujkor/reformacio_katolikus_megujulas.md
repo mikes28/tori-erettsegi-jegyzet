@@ -1,48 +1,50 @@
-# A reformáció és a katolikus megújulás Európában és Magyarországon
+# A reformáció és a katolikus megújulás
 
-A 16. századi reformáció a nyugati kereszténység megújítását célozta, de végül egyházszakadáshoz vezetett. A katolikus egyház ellenreformációval és belső megújulással válaszolt a kihívásokra.
+## Rövid lényeg
+- Luther Márton 1517-es wittenbergi téziseit az egyházi visszaélések bírálata vezette.
+- A reformáció nyomán a nyugati kereszténység véglegesen kettészakadt (protestáns–katolikus).
+- A lutheránus, kálvinista és anglikán irányzatok eltérő tanokat hirdettek.
+- A tridenti zsinat (1545–1563) megerősítette a katolikus tanokat és megindította a belső reformot.
+- Magyarországon a reformáció gyorsan terjedt, de a Habsburg-uralom és az ellenreformáció visszaszorította.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **reformáció**: vallási mozgalom a 16. sz.-ban; az egyház megreformálása → végül egyházszakadás
+- **hit általi megigazulás (Luther)**: nem a jócselekedetek, hanem az Istenbe vetett hit ment meg
+- **Sola Scriptura**: egyedül a Biblia a hit alapja; a pápai tekintély elutasítása
+- **predesztináció (Kálvin)**: Isten eleve elrendelte, ki üdvözül – a kálvini (református) tan
+- **anglikán egyház**: az angol reformáció eredménye; VIII. Henrik szakít Rómával (1534)
+- **tridenti zsinat (1545–1563)**: a katolikus megújulás alapja; pontosítja a tanokat, reformálja a papságot
+- **ellenreformáció**: a katolikusok visszatérítési kampánya; jezsuiták, barokk művészet, inkvizíció
+- **jezsuita rend (1540)**: Loyolai Ignác alapítja; oktatás, misszió, pápai hűség
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **Luther Márton** – 1517: 95 tétel; hit általi megigazulás; bibliafordítás németre
+- **Kálvin János** – Genf, predesztináció; fegyelmezett gyülekezeti élet; református egyház
+- **Loyolai (Szent) Ignác** – 1540: jezsuita rend alapítója; az ellenreformáció motorja
+- **VIII. Henrik** – 1534: anglikán egyház; politikai és dinasztikus okok
 
-- Reformáció: vallási mozgalom, amely az egyház visszatérését szerette volna az eredeti, biblikus tanításokhoz.
-- Luther Márton tanai: hit általi megigazulás, a Biblia elsődleges szerepe, a búcsúcédulák elutasítása.
-- Kálvin János tanai: eleve elrendelés (predesztináció), szervezett egyházközösség, fegyelmezett élet.
-- Tridenti zsinat: a katolikus egyház válasza a reformációra, a hitelvek pontosítása és a fegyelem szigorítása.
-- Ellenreformáció, barokk: új szerzetesrendek (pl. jezsuiták), protestánsok visszatérítése, látványos barokk művészet.
+## Évszámok
+- **1517** – Luther Márton: 95 tétel, Wittenberg
+- **1534** – VIII. Henrik: az anglikán egyház létrehozása
+- **1536** – Kálvin: „A keresztény vallás alapjai"
+- **1540** – jezsuita rend megalapítása
+- **1545–1563** – tridenti zsinat
+- **16. sz.** – a reformáció magyarországi terjedése; Dévai Bíró Mátyás, Heltai Gáspár
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Okok:** egyházi korrupció, búcsúcédulák, pápai visszaélések; humanizmus kritikai szelleme; könyvnyomtatás (Gutenberg) → eszmék gyors terjedése
+- **Következmények:** vallásháborúk Európában (pl. 30 éves háború, 1618–1648); az egységes nyugati kereszténység felbomlása; az egyéni lelkiismeret fontosságának erősödése
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- A könyvnyomtatás nélkül a reformáció sohasem terjedt volna el ilyen gyorsan.
+- Luther különlegessége, hogy politikai hatalmak is felkarolták – a fejedelmek érdekeltek voltak az egyházi vagyon megszerzésében.
+- A tridenti zsinat bizonyítja, hogy az egyház képes volt belső megújulásra is, nemcsak elnyomásra.
+- Magyarországon a reformáció a három részre szakadt országban a protestáns területeken különösen mély gyökereket vert.
 
-- Luther Márton 1517-ben kiszögezte híres téziseit Wittenbergben, bírálva a búcsúcédulák árusítását és az egyház visszaéléseit.
-- A reformáció nyomán több protestáns irányzat alakult ki: lutheránus, kálvinista, anglikán egyház.
-- A tridenti zsinat (1545–1563) a katolikus hitelvek megerősítését és a visszaélések visszaszorítását tűzte ki célul.
-- A jezsuita rend fontos szerepet játszott az oktatásban és a missziós tevékenységben, így a katolikus megújulás motorja lett.
-- Magyarországon is elterjedtek a protestáns irányzatok, de a Habsburg-uralkodók és a katolikus egyház később erősen támogatták az ellenreformációt.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: reformáció, lutheránus, kálvinista, tridenti zsinat, ellenreformáció, barokk.
-- Fontos személyek: Luther Márton, Kálvin János, Loyolai Szent Ignác.
-- Fontos összefüggés: hogyan vezetett a reformáció Európa vallási megosztottságához, és milyen eszközökkel próbált válaszolni erre a katolikus egyház.
-
-## Rövid történeti összefoglaló
-
-1517. október 31-én Luther Márton wittenbergi szerzetes kiszögezte 95 tételét a búcsúcédulák ellen, ezzel elindítva azt a reformációs mozgalmat, amely a következő évtizedekben kettészakította Nyugat-Európa vallási egységét. 1536-ban Kálvin János Genfben alapozott egyházát a predesztináció tanára és a szigorú közösségi fegyelemre, amelynek hatása különösen erős lett Magyarországon és Erdélyben. A tridenti zsinat (1545–1563) a katolikus megújulás programját foglalta össze: megerősítette a pápa tekintélyét, megtisztította az egyházi visszaéléseket, és a jezsuiták révén az oktatás és a misszió új erejével állt szembe a protestáns terjeszkedéssel.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **reformáció**
-- **Luther**
-- **Kálvin**
-- **tridenti zsinat**
-- **ellenreformáció**
+## Forráselemzéshez
+- Luther 95 tézise: közvetlen kritika az egyházi visszaélésekről; reformprogramja
+- Kálvin: „A keresztény vallás alapjai" – a predesztináció és gyülekezeti szervezet tanainak alapja
+- Tridenti zsinat dokumentumai: a katolikus válasz rögzített elvei
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

@@ -1,48 +1,45 @@
 # A jelenkor: globális világ, Európai Unió, demográfiai változások
 
-A 20–21. század fordulóján a világ egyre szorosabban összekapcsolódott: a gazdaság, az információ és az emberek mozgása globális rendszereket hozott létre. Magyarország az Európai Unió tagjaként vesz részt ebben a folyamatban, miközben jelentős demográfiai változásokkal is szembesül.
+## Rövid lényeg
+- A globalizáció a világ gazdasági, kulturális és információs összefonódása a 20. sz. végétől.
+- Az Európai Unió az európai integráció csúcspontja; Magyarország 2004-ben csatlakozott.
+- A demográfiai változások Magyarországon: öregedő társadalom, elvándorlás, csökkenő termékenység.
+- A népmozgások 1945 utáni nagy hullámokban zajlottak: kitelepítések, menekültek, vendégmunkások.
+- Az EU szabad mozgása lehetővé teszi, de a demográfiai kihívások súlyosak.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **globalizáció**: a világ gazdaságainak és kultúráinak összekapcsolódása; internet, multinacionális cégek
+- **Európai Unió (EU)**: európai integráció; egységes piac, eurózóna, szabad mozgás
+- **Schengen-rendszer**: határellenőrzés-mentes utazás a tagállamok között (1995-től)
+- **demográfia**: a népesség méretét, összetételét és változásait vizsgáló tudomány
+- **elöregedés**: az idősebbek arányának növekedése a társadalomban; szociális és gazdasági terhet jelent
+- **migráció**: emberek mozgása; gazdasági vagy kényszermigráció; menekültkrízis (2015)
+- **kitelepítés**: kényszerlakhelyváltás; pl. 1945 utáni magyarországi németek kitelepítése
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- Kiemelkedő egyéni személyek helyett inkább intézmények: **Európai Bizottság**, **Európai Parlament**
 
-- Globalizáció: a világ gazdasági, kulturális és információs összekapcsolódása.
-- Európai Unió: európai államok együttműködési és integrációs szervezete.
-- EU főbb szervei: Európai Parlament, Európai Bizottság, Európai Tanács.
-- Demográfiai változások: népesség öregedése, vándorlás, népességfogyás egyes térségekben.
-- Népmozgások 1945-től: kitelepítések, bevándorlás, vendégmunkások, menekültválságok.
+## Évszámok
+- **1957** – Római Szerződés; az Európai Gazdasági Közösség (EGK) alapítása
+- **1993** – Maastrichti Szerződés; az Európai Unió megszületése
+- **1995** – Schengeni Egyezmény hatálybalépése
+- **2004** – Magyarország csatlakozik az EU-hoz
+- **2015** – európai menekültkrízis; tömeges bevándorlás Szíriából és Afrikából
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **A globalizáció hatásai Magyarországon:** külföldi befektetők (munkahely), de tőkekivonás veszélye; fiatalok elvándorlása
+- **EU-csatlakozás következménye:** gazdasági fejlődés (kohéziós alapok), de agyelszívás; szabad mozgás előnye és hátránya
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- Az EU nemcsak gazdasági, hanem politikai projekt: a béke biztosítása Európában.
+- A demográfiai válság Magyarországon nem szimplán gazdasági kérdés, hanem generációkon átívelő társadalmi probléma.
+- A globalizáció nyertesei és vesztesei nem egyforma arányban osztódnak el – ez a 21. sz. egyik fő feszültsége.
+- A 2015-ös menekültkrízis az EU-t mélyen megosztotta: a szolidaritás és az önérdek konfliktusa.
 
-- A globalizáció fokozta a gazdaságok közötti függőséget, de egyúttal növelte a versenyt is.
-- Az Európai Unió célja az együttműködés, a béke és a gazdasági fejlődés biztosítása a tagállamok között.
-- Az EU-n belüli szabad mozgás lehetővé teszi a munkavállalást és tanulást más tagállamokban.
-- Sok európai országban, így Magyarországon is, a népesség öregszik, és a fiatalok egy része külföldön vállal munkát.
-- A 20. század második felétől több hullámban zajlottak népmozgások: háborús menekültek, gazdasági bevándorlók, kitelepítések.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: globalizáció, Európai Unió, demográfia, migráció.
-- Fontos összefüggés: milyen előnyökkel és kihívásokkal jár az EU-tagság és a globalizáció egy kis ország számára.
-- Érdemes tudni néhány alapvető dolgot az EU intézményeinek működéséről és Magyarország szerepéről bennük.
-
-## Rövid történeti összefoglaló
-
-1957-ben hat nyugat-európai ország – Franciaország, Nyugat-Németország, Olaszország, Belgium, Hollandia és Luxemburg – aláírta a Római Szerződést, amellyel megalapozták az Európai Gazdasági Közösséget, a mai EU elődjét. A maastrichti szerződés 1993. november 1-jei hatályba lépésével az Európai Unió jött létre, amely egységes belső piacot, majd 2002-től közös pénznemet (euró) teremtett. A kelet-európai rendszerváltások nyomán Magyarország 2004. május 1-jén csatlakozott az EU-hoz, belépve abba a globalizálódó, egyre összefonódó világgazdaságba, ahol a demográfiai kihívások (elöregedés, migráció) a 21. századi politika egyik legsürgetőbb kérdésévé váltak.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **globalizáció**
-- **Európai Unió**
-- **demográfia**
-- **migráció**
-- **népmozgások**
+## Forráselemzéshez
+- EU-alapszerződések (Maastricht, Lisszabon): az integráció jogi kerete
+- Eurostat statisztikák: demográfiai és gazdasági adatok összehasonlítható formában
+- Kitelepítési iratok (1945–47): a kényszermigráció korabeli dokumentumai
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

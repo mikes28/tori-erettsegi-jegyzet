@@ -1,48 +1,46 @@
-# Az athéni államszervezet és a demokrácia virágkora
+# Az athéni demokrácia
 
-Az athéni demokrácia az egyik legfontosabb ókori politikai berendezkedés, amelyben a polgárok közvetlenül részt vehettek a döntéshozatalban. A mai demokráciák több elemükben ide vezethetők vissza.
+## Rövid lényeg
+- Az athéni demokrácia a Kr. e. 5. században érte el csúcspontját Periklész alatt.
+- Szolón, Kleiszthenész és Periklész reformjai fokozatosan erősítették a nép politikai részvételét.
+- A népgyűlésen (ekklészián) minden szabad, nagykorú athéni polgár férfi részt vehetett.
+- A hivatalokat sorsolással töltötték be – kivéve a sztratégoszokat –, hogy elkerüljék a hatalomkoncentrációt.
+- A demokrácia korlátolt volt: nők, rabszolgák és metoikoszok ki voltak zárva.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **polisz**: görög városállam, önálló politikai közösség
+- **ekklészia**: népgyűlés, a legfőbb döntéshozó testület
+- **Ötszázak tanácsa (bulé)**: előkészítette a népgyűlés napirendjét, 500 sorsolással kiválasztott tag
+- **sztratégosz**: megválasztott hadvezér és politikai tisztségviselő (pl. Periklész)
+- **osztrakiszmosz (cserépszavazás)**: a nép száműzhetett veszélyesnek ítélt személyeket 10 évre
+- **metoikosz**: betelepülő idegen, akinek nem volt politikai joga
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **Szolón** – Kr. e. 594: adósságok törlése, vagyoni osztályok alapú alkotmány
+- **Kleiszthenész** – Kr. e. 508: területi alapú phylé-rendszer, valódi népgyűlés létrehozása
+- **Periklész** – Kr. e. 461–429: a demokrácia aranykora; napidíj bevezetése, Parthenón
 
-- Polisz: városállam, amely politikai közösséget alkot.
-- Népgyűlés (ekklészia): a polgárok fő döntéshozó szerve.
-- Ötszázak tanácsa: előkészítette a népgyűlés üléseit.
-- Sztratégoszok: hadvezérek és fontos állami tisztségviselők.
-- Cserépszavazás (osztrakiszmosz): a zsarnokság megelőzését szolgáló intézmény.
+## Évszámok
+- **Kr. e. 594** – Szolón reformjai
+- **Kr. e. 508** – Kleiszthenész alkotmányos reformjai
+- **Kr. e. 461–429** – Periklész kora, a demokrácia fénykora
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Okok:** arisztokrácia elleni elégedetlenség, adósság-rabszolgaság, városi polgárság erősödése
+- **Következmények:** a politikai részvétel kiszélesedése; a demokrácia modellje az utókor számára; kulturális virágkor (Parthenón, tragédia, filozófia)
+- **Korlátok:** rabszolgaság fennmaradása, nők és idegenek kizárása
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- Az athéni demokrácia a nép közvetlen részvételén alapult, szemben a mai képviseleti demokráciával.
+- Periklész korában a napidíj bevezetése lehetővé tette a szegényebb polgárok részvételét is a politikában.
+- A sorsolás elvének alkalmazása a hatalomkoncentráció megelőzését szolgálta.
+- Az athéni demokrácia kizáró jellegű volt: a lakosság többsége (nők, rabszolgák, idegenek) nem volt polgár.
+- A cserépszavazás egyedi eszköz volt a zsarnokság megelőzésére.
 
-- Az athéni demokrácia fokozatosan alakult ki az arisztokratikus berendezkedésből.
-- Szolón, Kleiszthenész és Periklész reformjai mind erősítették a nép részvételét a politikában.
-- A népgyűlésen minden athéni polgár részt vehetett, aki szabad, nagykorú férfi volt.
-- A hivatalviselés és a tanácsba kerülés sok esetben sorsolással történt, hogy elkerüljék a hatalom koncentrációját.
-- Az athéni demokrácia nem volt teljes: a nők, a rabszolgák és a betelepültek (metoikoszok) nem rendelkeztek politikai jogokkal.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos személyek: Szolón, Kleiszthenész, Periklész.
-- Fontos fogalmak: polisz, népgyűlés, ötszázak tanácsa, sztratégosz, cserépszavazás.
-- Fontos korszak: Kr. e. 5. század – az athéni demokrácia fénykora, Periklész kora.
-
-## Rövid történeti összefoglaló
-
-Kr. e. 594-ben Szolón archón adósságtörlő és alkotmányozó reformjai megvetették az athéni polgárok egyenlőségének alapjait. Kr. e. 508-ban Kleiszthenész bevezette a területi alapú tíz phylé-rendszert, amellyel végleg megtörte a vérségi arisztokrácia hatalmát, és létrehozta a valódi népgyűlést, az ekklésziát. A demokrácia aranykora Kr. e. 461–429 között Periklész nevéhez fűződik, aki a napidíj bevezetésével lehetővé tette, hogy a szegényebb polgárok is részt vehessenek a városállam irányításában.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **polisz**
-- **népgyűlés**
-- **ötszázak tanácsa**
-- **sztratégosz**
-- **cserépszavazás**
+## Forráselemzéshez
+- Periklész temetési beszéde (Thuküdidésznél): a demokrácia elvei elsődleges forrásból
+- Vázaképek, feliratok: a népgyűlés és a mindennapi élet képei
+- Alkotmányos szövegek és feliratok az agórán: törvényhozás dokumentumai
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

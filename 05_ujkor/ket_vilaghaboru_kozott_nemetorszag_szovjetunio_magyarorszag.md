@@ -1,48 +1,47 @@
 # A két világháború között: Németország, Szovjetunió, Magyarország
 
-Az első világháború utáni időszakban több országban diktatórikus rendszerek jöttek létre. Németországban a nemzetiszocializmus, a Szovjetunióban a kommunista diktatúra, Magyarországon pedig az autoriter Horthy-rendszer alakult ki.
+## Rövid lényeg
+- A gazdasági világválság (1929–1933) destabilizálta Európát és hozzájárult a szélsőségek erősödéséhez.
+- Németországban Hitler 1933-ban hatalomra jutott; náci diktatúra, antiszemitizmus, fegyverkezés.
+- A Szovjetunióban Sztálin irányítása alatt tömeges terror, kényszermunka és erőltetett iparosítás zajlott.
+- A Horthy-rendszer konzervatív autoritárius rendszer volt, korlátozott parlamentarizmussal.
+- Klebelsberg Kunó kultuszminiszter oktatási és kultúrpolitikai fejlesztéseket hajtott végre.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **nemzetiszocializmus (nácizmus)**: Hitler és az NSDAP rasszista, antiszemita és militarista diktatúrája
+- **sztálinizmus**: Sztálin személyi kultuszán alapuló kommunista diktatúra; terror, gulágok, tervgazdálkodás
+- **Horthy-korszak (1920–1944)**: Horthy Miklós kormányzósága; parlamentáris látszat, konzervatív elit uralma
+- **gazdasági világválság (1929)**: a tőzsdekrach nyomán globális recesszió; munkanélküliség, bankcsődök
+- **revizionizmus**: a trianoni határok felülvizsgálatának politikai igénye; a Horthy-kori külpolitika fő célja
+- **Klebelsberg Kunó** – kultuszminiszter (1922–1931); iskolaépítés, tudományos intézmények
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **Hitler, Adolf** – Németország kancelláija és vezére 1933-tól; II. vh. kirobbantója
+- **Sztálin, Joszif** – a Szovjetunió főtitkára; kegyetlen diktatúra; iparosítás és terror
+- **Horthy Miklós** – Magyarország kormányzója (1920–1944); tengernagy, aki sosem látott tengert
+- **Bethlen István** – miniszterelnök (1921–1931); a Horthy-rendszer konszolidálója
 
-- Nemzetiszocialista Németország: Hitler, náci párt, totális diktatúra.
-- Kommunista Szovjetunió: egy párt uralma, tervgazdaság, terror.
-- Horthy-kor Magyarországon: kormányzó, korlátozott parlamentáris rendszer.
-- Gazdasági világválság (1929–33) hatásai.
-- Társadalom, életmód, kultúrpolitika (pl. Klebelsberg Kunó oktatási reformjai).
+## Évszámok
+- **1922–1931** – Bethlen István miniszterelnöksége; konszolidáció
+- **1929** – tőzsdekrach New Yorkban; világválság kezdete
+- **1933** – Hitler hatalomra jutása; Weimari Köztársaság vége
+- **1936–1939** – Sztálin nagy terror; show-perek, gulágok
+- **1938** – első bécsi döntés: Felvidék egy részét visszakapja Magyarország
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Okok a diktatúráknak:** világválság → szegénység → radikalizmus; versailles-i békék sértettjei (Németország, Magyarország); kommunizmus félelme erősíti a jobboldalt
+- **Következmények:** a második világháború előkészítése; a demokrácia összeomlása Európa nagy részén
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- A gazdasági világválság és a versailles-i sértettség egyaránt hozzájárult Hitler hatalomra kerüléséhez.
+- A Horthy-korszak nem volt totális diktatúra, de nem volt valódi demokrácia sem.
+- Sztálin rendszere és Hitler rendszere egyaránt totális diktatúra volt, de ideológiájuk ellentétes.
+- A bécsi döntések rövid távú sikernek tűntek, de Magyarországot közelebb sodorták Hitlerhez.
 
-- Németországban a gazdasági válság és a versailles-i béke megalázó feltételei hozzájárultak Hitler hatalomra jutásához.
-- A náci rendszer antiszemita politikát folytatott, felszámolta a demokráciát, és háborús készülődésbe kezdett.
-- A Szovjetunióban Sztálin idején tömeges terror, tisztogatások és erőltetett iparosítás zajlott.
-- Magyarországon a Horthy-korszak konzervatív, nemesi-polgári elit által vezetett rendszer volt, korlátozott politikai szabadságokkal.
-- Klebelsberg Kunó kultuszminiszter jelentős oktatási és kultúrpolitikai fejlesztéseket kezdeményezett.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: nemzetiszocializmus, kommunizmus, autoriter rendszer, gazdasági világválság.
-- Fontos személyek: Hitler, Sztálin, Horthy Miklós, Klebelsberg Kunó.
-- Fontos összefüggés: hogyan járultak ezek a rendszerek a második világháború kitöréséhez.
-
-## Rövid történeti összefoglaló
-
-A Versailles-ban 1919-ben aláírt békerendszer megalázó feltételei ellenére a Weimari Köztársaság (1919–1933) a demokratikus parlamentarizmus kísérletét próbálta meghonosítani Németországban, ám a nagy gazdasági világválság, az infláció és a politikai szélsőségek megroppantották ezt a kísérletet. 1933. január 30-án Adolf Hitler kancellári kinevezésével a náci párt pillanatok alatt felszámolta a demokratikus intézményeket, és megkezdte a totális diktatúra kiépítését. A Szovjetunióban ezzel párhuzamosan Sztálin az 1930-as évek nagy terrorával – a Gulag-rendszer kiteljesítésével és a kirakatperekkel – megszilárdította egyeduralmát, és a két diktátor 1939. augusztus 23-án a Molotov–Ribbentrop-paktummal titkos egyezséget kötött Kelet-Európa felosztásáról.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **nemzetiszocializmus**
-- **kommunizmus**
-- **Horthy-korszak**
-- **világválság**
-- **Klebelsberg**
+## Forráselemzéshez
+- Propaganda plakátok (náci, szovjet, Horthy-kori): az ideológiai manipuláció vizuális forrásai
+- Nürnbergi törvények szövege (1935): a náci fajvédelem jogszabályi alapja
+- Klebelsberg kultúrpolitikai iratai: a kultúrfölény-program dokumentumai
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

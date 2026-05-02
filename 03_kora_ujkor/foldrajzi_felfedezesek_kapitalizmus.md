@@ -1,48 +1,47 @@
-# A portugál és spanyol felfedezések, a nagy földrajzi felfedezések és a kapitalizmus kezdetei
+# Nagy földrajzi felfedezések és a kapitalizmus kezdetei
 
-A 15–16. században a portugál és spanyol hajósok új tengeri útvonalakat fedeztek fel, amelyek összekötötték Európát Amerikával, Afrikával és Ázsiával. A felfedezések nyomán átalakult a világgazdaság, és megjelentek a kapitalizmus korai formái.
+## Rövid lényeg
+- A 15–16. sz.-ban portugálok és spanyolok új tengeri utakat nyitottak Afrikába, Ázsiába és Amerikába.
+- 1492: Kolumbusz eléri Amerikát; 1498: Vasco da Gama eljut Indiába tengeri úton.
+- Az európaiaknak áramlott nemesfém az árforradalom kiváltója lett.
+- A gyarmatosítás manufaktúrákat, bankokat és tőzsdéket hívott életre – ezek a kapitalizmus első elemei.
+- Közép- és Kelet-Európában a második jobbágyság jelensége a nyugati kereskedelmi kapcsolódás mellékhatása volt.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **nagy földrajzi felfedezések**: 15–17. sz.-i európai tengerészek felfedező útjai; Amerika, Afrika, Ázsia
+- **gyarmat**: egy hatalom által meghódított és kizsákmányolt terület
+- **árforradalom**: az Amerikából áradó nemesfém → pénzkínálat nő → árak tartósan emelkednek (16. sz.)
+- **kapitalizmus**: tőkebefektetés nyereségért; magántulajdon, szabad piac, munkaerő
+- **manufaktúra**: nagyobb munkás-egységek kézimunkán alapuló termelése; tőkés tulajdonos irányítja
+- **tőzsde**: értékpapírok és áruk szervezett kereskedelmének helyszíne; Antwerpen 1531
+- **második jobbágyság**: Kelet-Európában a földesurak gabonát termeltek exportra → erősödő jobbágyi kötöttség
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **Kolumbusz Kristóf** – 1492: eléri a Karib-szigeteket; a spanyol gyarmatosítás kezdete
+- **Vasco da Gama** – 1498: Afrika megkerülésével eljut Indiába; portugál kereskedelmi út
+- **Magellán** – 1519–1522: az első körülhajózás (ő maga a Fülöp-szigeteknél halt meg)
 
-- Nagy földrajzi felfedezések: új tengeri útvonalak Európából Afrikába, Ázsiába és Amerikába.
-- Portugál felfedezések: Afrika partvidéke, Jóreménység foka, India (Vasco da Gama).
-- Spanyol felfedezések: Amerika „felfedezése” (Kolumbusz Kristóf), világkörüli út (Magellán expedíciója).
-- Kapitalizmus: olyan gazdasági rendszer, ahol a tőke (pénz, eszközök) befektetése nyereségszerzés céljából történik.
-- Árforradalom, manufaktúrák, bankok, tőzsde, második jobbágyság.
+## Évszámok
+- **1488** – Bartolomeu Dias: Jóreménység foka megkerülése
+- **1492** – Kolumbusz: Amerika „felfedezése"
+- **1498** – Vasco da Gama: India tengeri úton
+- **1519–1522** – Magellán–Elcano körülhajózás
+- **1531** – antwerpeni tőzsde alapítása
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Okok a felfedezések megindulásának:** Törökország elzárja az Európa–Ázsia szárazföldi útjait → tengeri alternatívák keresése; műszaki fejlődés (karavell, iránytű)
+- **Következmények:** az indiánok és afrikaiak tömeges kizsákmányolása, rabszolga-kereskedelem; az európai árforradalom; a kapitalista gazdaság csírái; Amerika gyarmatosítása
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- A felfedezések nem csupán földrajzi esemény: gazdasági, társadalmi és kulturális forradalmat hoztak.
+- Az árforradalom az első globális gazdasági hatás volt, amelyet az Újvilág ezüstje okozott.
+- A rabszolga-kereskedelem a gyarmatosítás legsötétebb következménye, amelynek hatása ma is érezhető.
+- A kapitalizmus nem egyetlen pillanatban jött létre, hanem fokozatosan, a kereskedelem és tőkefelhalmozás nyomán.
 
-- A portugálok fokozatosan járták be Afrika nyugati partvidékét, majd Afrika megkerülésével érték el Indiát.
-- Kolumbusz Kristóf 1492-ben nyugati irányba hajózva jutott el Amerikába, miközben Indiát kereste.
-- A gyarmatosítás következtében Európába hatalmas mennyiségű nemesfém áramlott, ami az árak általános emelkedéséhez vezetett (árforradalom).
-- A tőke felhalmozódása és a kereskedelem bővülése hozzájárult a manufaktúrák, bankok és tőzsdék megjelenéséhez.
-- Közép- és Kelet-Európában ezzel párhuzamosan erősödött a második jobbágyság: a földesurak a mezőgazdasági termékek eladásával próbáltak bekapcsolódni a nyugati piacokra.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: nagy földrajzi felfedezések, gyarmat, árforradalom, kapitalizmus, manufaktúra, bank, tőzsde, második jobbágyság.
-- Fontos személyek: Kolumbusz Kristóf, Vasco da Gama, Magellán.
-- Fontos összefüggés: hogyan kapcsolódik össze a felfedezések sora, a gyarmatosítás és a korai kapitalista gazdaság kialakulása.
-
-## Rövid történeti összefoglaló
-
-1492. október 12-én Kolumbusz Kristóf spanyol zászló alatt elérte Amerika partjait, és ezzel megnyílt az az atlanti kereskedelmi útvonal, amely gyökeresen átalakította a világ gazdasági rendjét. Hat évvel később, 1498-ban Vasco da Gama portugál tengerész Afrikát megkerülve eljutott Indiába, és a fűszerkereskedelem új útját nyitotta meg, elvágva az eddigi szárazföldi közvetítő kereskedőket. A 16. századi gyarmatosítás – ezüstbányák Potosíban, cukornád-ültetvények a Karib-szigeteken – hallatlan tőkefelhalmozást indított el Nyugat-Európában, amely az árutermelő kapitalizmus megszilárdulásának egyik legfontosabb forrása lett.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **nagy földrajzi felfedezések**
-- **gyarmatosítás**
-- **árforradalom**
-- **kapitalizmus**
-- **manufaktúra**
+## Forráselemzéshez
+- Kolumbusz naplója: az Újvilág első európai leírása; szubjektív, propagandisztikus forrás
+- Korabeli térképek: a felfedezések hatása az Európa-centrikus világképre
+- Rabszolga-kereskedelmi iratok: a gazdasági alapú emberi jogtiprás dokumentumai
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

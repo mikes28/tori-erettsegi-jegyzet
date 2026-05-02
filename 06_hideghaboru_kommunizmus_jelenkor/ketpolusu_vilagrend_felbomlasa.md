@@ -1,48 +1,45 @@
 # A kétpólusú világrend felbomlása
 
-A 20. század végére a hidegháború rendszere fokozatosan meggyengült, majd összeomlott. Németország újraegyesítése, a Szovjetunió felbomlása és a közép-európai kommunista rendszerek bukása új korszakot nyitott a világpolitikában.
+## Rövid lényeg
+- Az 1980-as években a Szovjetunió gazdaságilag kimerült; Gorbacsov reformokat hirdetett.
+- Peresztrojka és glasznoszty: a kommunista rendszer nyitottabbá és rugalmasabbá tétele – de ezzel el is indult a felbomlás.
+- 1989: a berlini fal leomlása; Közép-Kelet-Európa békés rendszerváltásai.
+- 1990: Németország újraegyesítése.
+- 1991: a Szovjetunió felbomlása; 15 utódállam jön létre.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **peresztrojka**: „átalakítás"; Gorbacsov gazdasági és politikai reformprogramja
+- **glasznoszty**: „nyitottság"; a szabad vélemény-nyilvánítás korlátozott engedélyezése
+- **Berlin fal leomlása (1989. november 9.)**: szimbolikus fordulópont; a hidegháború vége Európában
+- **Szovjetunió felbomlása (1991)**: 15 utódállam; Oroszország lett a legfontosabb örökös
+- **enyhülés (détente)**: a hidegháborús feszültség fokozatos csökkentése az 1970-es évektől
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **Gorbacsov, Mihail** – a Szovjetunió utolsó főtitkára; peresztrojka és glasznoszty
+- **Reagan, Ronald** – USA elnöke 1981–1989; keményvonalas hidegháborús politika; fegyverkezési verseny
+- **Helmut Kohl** – nyugatnémet kancellár; Németország újraegyesítésének megvalósítója
+- **Lech Wałęsa** – lengyel Szolidaritás mozgalom vezére; Nobel-békedíj
 
-- Enyhülés (détente): a hidegháborús feszültség csökkentésének időszaka.
-- Németország újraegyesítése (1990).
-- Szovjetunió felbomlása (1991).
-- Közép-európai rendszerváltások: békés átmenet a kommunista diktatúrákból a demokráciába.
-- Európai integráció erősödése: Európai Unió bővülése.
+## Évszámok
+- **1985** – Gorbacsov hatalomra jutása
+- **1989. november 9.** – berlini fal leomlása
+- **1990. október 3.** – Németország újraegyesítése
+- **1991. december 25.** – a Szovjetunió hivatalos felbomlása; Gorbacsov lemondása
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Okok a Szovjetunió összeomlásának:** gazdasági válság, az afganisztáni háború terhe, a reformok kontroll nélküli terjedése, a nemzeti mozgalmak erősödése a tagköztársaságokban
+- **Következmények:** az USA egyedüli szuperhatalom lett (unipolárís világ); Közép-Kelet-Európa integrációja a NATO-ba és EU-ba; Jugoszlávia felbomlása
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- Gorbacsov reformjai nem szándékozták felszámolni a Szovjetuniót – mégis ez lett az eredmény.
+- A berlini fal leomlása nemcsak politikai esemény volt, hanem szimbolikus érzelmi fordulópont is.
+- A Szolidaritás mozgalom Lengyelországban mutatta meg, hogy alulról is meg lehet ingatni a kommunizmust.
+- Az 1989-es forradalmak szinte kivétel nélkül békések voltak – ellentétben az 1848-as forradalmi hullámmal.
 
-- Az 1980-as évekre a Szovjetunió gazdaságilag meggyengült, és reformokra kényszerült (Gorbacsov: peresztrojka, glasznoszty).
-- 1989-ben a berlini fal lebontása a hidegháború végét jelképezte Európában.
-- 1990-ben megtörtént Németország egyesítése, az NDK beolvadt az NSZK-ba.
-- 1991-ben a Szovjetunió hivatalosan is felbomlott, helyén több független utódállam jött létre.
-- Közép- és Kelet-Európában – köztük Magyarországon – békés rendszerváltások zajlottak le, amelyek a többpártrendszer és a piacgazdaság irányába mutattak.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: enyhülés, peresztrojka, glasznoszty, rendszerváltás.
-- Fontos évszámok: 1989 – berlini fal leomlása; 1990 – német egység; 1991 – a Szovjetunió felbomlása.
-- Fontos összefüggés: hogyan járult a gazdasági válság és a belső reformok a kommunista rendszerek bukásához.
-
-## Rövid történeti összefoglaló
-
-1989. november 9-én éjjel a berlini fal leomlott: a kelet-berlini hatóságok bejelentése nyomán tízezrek vonultak az ellenőrzőpontokhoz, és a határőrök engedték át őket – ezzel szimbolikusan véget ért a hidegháború Európában. Az ezt követő hónapokban sorra buktak meg a kelet-európai kommunista rendszerek: Csehszlovákiában a bársonyos forradalom, Romániában a véres felkelés, Albániában és Bulgáriában tárgyalásos átmenet hozta a változást. 1991. december 25-én Mihail Gorbacsov lemondott a Szovjetunió elnöki tisztéről, és az SZSZKSZ másnap formálisan is megszűnt – a kétpólusú világ helyére a globális erőegyensúly új, bizonytalan rendje lépett.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **berlini fal**
-- **peresztrojka**
-- **glasznoszty**
-- **rendszerváltás**
-- **Szovjetunió felbomlása**
+## Forráselemzéshez
+- Gorbacsov beszédei: a reformkommunizmus és a glasznoszty forrásai
+- A berlini fal leomlásának televíziós felvételei: élő közvetítés mint történelmi forrás
+- A Szovjetunió felbomlásának jogi dokumentumai (alma-atai nyilatkozat): a végső lépések rögzítése
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció

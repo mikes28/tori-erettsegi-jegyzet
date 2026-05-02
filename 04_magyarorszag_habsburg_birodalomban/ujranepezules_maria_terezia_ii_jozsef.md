@@ -1,48 +1,50 @@
 # Magyarország újranépesülése, Mária Terézia és II. József reformjai
 
-A török uralom és a háborúk következtében Magyarország nagy része elnéptelenedett, ezért a 18. században újranépesítésre volt szükség. Mária Terézia és II. József felvilágosult abszolutista uralkodóként reformokkal próbálták modernizálni a birodalmat és benne Magyarországot.
+## Rövid lényeg
+- A 18. sz. elején Magyarország nagy részét elnéptelenedés sújtotta a háborúk és járványok után.
+- A Habsburgok betelepítési politikával (németek, szerbek, románok, szlovákok) pótolták a népességveszteséget.
+- Mária Terézia (1740–1780): úrbéri rendelet, Ratio Educationis, katonai és közigazgatási reformok.
+- II. József (1780–1790): türelmi rendelet, jobbágyrendelet, nyelvrendelet – de sok intézkedés visszavont lett.
+- A nyelvrendelet (1784) heves magyar nemesi ellenállást váltott ki → a nemzeti öntudat erősödése.
 
-## Fogalmak, személyek, események
+## Fogalmak
+- **felvilágosult abszolutizmus**: erős centralizált hatalom, de felvilágosodás elvein alapuló reformokkal
+- **újranépesülés**: 18. sz.-i betelepítések és természetes szaporulat után Magyarország népsűrűségének növekedése
+- **úrbéri rendelet (1767)**: Mária Terézia szabályozta a jobbágyi terheket; meghatározta a robot, dézsma és ajándék mértékét
+- **Ratio Educationis (1777)**: az oktatási rendszer állami egységesítése; kötelező alsó fokú oktatás
+- **türelmi rendelet (1781)**: II. József megadta a protestánsoknak és ortodoxoknak a szabad vallásgyakorlatot
+- **jobbágyrendelet (1785)**: II. József engedélyezte a jobbágyok szabad költözését, házasságát, mesterségváltását
+- **nyelvrendelet (1784)**: a latin helyett a német lett a hivatal és oktatás nyelve → nemesi ellenállás
 
-Az alábbi fogalmak, személyek és események segítenek megérteni a témát. Érdemes őket többször átolvasni, és saját szavaiddal is megfogalmazni.
+## Személyek
+- **Mária Terézia** – 1740–1780: Habsburg-birodalom királynője; pragmatikus reformer; anyja II. Józsefnek
+- **II. József** – „kalapos király"; forradalmi tempójú reformok; 1790-ben visszavonta legtöbb rendeletét
+- **Festetics György** – a Georgikon (Keszthely) alapítója; Mária Terézia-kori reformok haszonélvezője
 
-- Újranépesülés: betelepítések, belső vándorlás, természetes szaporulat.
-- Felvilágosult abszolutizmus: felülről jövő reformok, erős uralkodói hatalommal.
-- Mária Terézia reformjai: úrbéri rendelet, Ratio Educationis, katonai és pénzügyi reformok.
-- II. József reformjai: türelmi rendelet, jobbágyrendelet, nyelvrendelet.
-- Demográfiai változások: népességnövekedés, etnikai sokszínűség növekedése.
+## Évszámok
+- **1711–1780** – a betelepítések és gazdasági újjáépítés kora
+- **1740** – Mária Terézia trónra lép; osztrák örökösödési háború
+- **1767** – úrbéri rendelet
+- **1777** – Ratio Educationis
+- **1781** – türelmi rendelet (II. József)
+- **1784** – nyelvrendelet; nemesi ellenállás kezdete
+- **1790** – II. József visszavonja intézkedéseinek nagy részét (kivéve türelmi és jobbágyrendelet)
 
-## Legfontosabb tények, időrend, ok–okozati összefüggések
+## Okok és következmények
+- **Betelepítések oka:** a háborúk utáni elnéptelenedés; gazdasági érdek (adóalap bővítése)
+- **Következmény a betelepítéseknek:** Magyarország etnikai sokszínűsége tartósan megváltozott; a magyarság aránya csökkent
+- **II. József rendeletei következménye:** meggyorsult a polgári átalakulás; de a visszavonás gyengítette az állami tekintélyt; a nemesi ellenállás a reformkor előkészítőjévé vált
 
-Ebben a részben a történelmi folyamatokat próbáljuk áttekinteni: mi miért történik, milyen következményekkel jár, és hogyan illeszkedik a nagyobb történelmi képbe.
+## Esszéhez használható állítások
+- Mária Terézia és II. József felvilágosult abszolutizmusa felülről próbálta modernizálni a birodalmat a társadalom megkérdezése nélkül.
+- A betelepítések gazdasági sikert hoztak, de Magyarország etnikai szerkezetét tartósan megváltoztatták.
+- II. József türelmi rendelete az egyik legfontosabb lépés volt a vallásszabadság felé Magyarországon.
+- A nyelvrendelet ellen induló nemesi mozgalom volt a magyar reformkor és a nemzeti ébredés egyik első megnyilvánulása.
 
-- A 18. század elején sok vidék elnéptelenedett vagy gyéren lakott volt, ezért a Habsburg udvar szervezett betelepítéseket indított (németek, szlovákok, szerbek, románok stb.).
-- Mária Terézia úrbéri rendelete rendezte a jobbágyterheket, meghatározva a robot és egyéb szolgáltatások mértékét.
-- A Ratio Educationis az oktatási rendszer egységesítését célozta, több állami iskolát hoztak létre.
-- II. József türelmi rendelete szélesebb vallásszabadságot biztosított a protestánsoknak és görögkeletieknek, a jobbágyrendelet pedig a jobbágyok személyi kötöttségeit enyhítette.
-- A nyelvrendelet a németet tette meg hivatalos nyelvvé, ami ellenállást váltott ki a magyar rendekből, és erősítette a magyar nemzeti öntudatot.
-
-## A vizsgán várható évszámok, helyek, személyek
-
-Itt azok az elemek szerepelnek, amelyeket a középszintű érettségin különösen érdemes ismerni, felismerni, illetve röviden megmagyarázni.
-
-- Fontos fogalmak: felvilágosult abszolutizmus, úrbéri rendelet, Ratio Educationis, türelmi rendelet, jobbágyrendelet, nyelvrendelet.
-- Fontos személyek: Mária Terézia, II. József.
-- Fontos összefüggés: hogyan járultak hozzá a betelepítések és reformok Magyarország gazdasági és társadalmi átalakulásához.
-
-## Rövid történeti összefoglaló
-
-A 18. század elején a török kiűzése után az elpusztult Alföldön és Délvidéken Habsburg-szervezésű telepítésekkel – sváb, szerb, román és szlovák bevándorlókkal – igyekeztek pótolni a hiányzó munkaerőt. 1722-ben a magyar rendek elfogadták a Pragmatica Sanctiót, amellyel elismerték a Habsburg-ház nőági örökösödési jogát, cserébe Mária Terézia megerősítette a nemesség kiváltságait; az 1740-es évektől a királynő mégis komoly gazdasági és oktatási reformokat hajtott végre Magyarországon. II. József (1780–1790) még tovább ment: 1781-ben kiadta a türelmi rendeletet, 1785-ben eltörölte a jobbágyságot, és a latin helyett a németet tette kötelező hivatalos nyelvvé, ám reformjait heves rendi ellenállás fogadta, és halálos ágyán többségüket visszavonta.
-
-## Kulcsfogalmak röviden
-
-A következő 3–5 kulcsfogalom segít rendszerezni a fejezet lényegét. Próbáld meg ezeket saját szavaiddal is megfogalmazni, és példát hozni rájuk.
-
-- **újranépesülés**
-- **felvilágosult abszolutizmus**
-- **Mária Terézia**
-- **II. József**
-- **úrbéri rendelet**
+## Forráselemzéshez
+- Úrbéri összeírások: a jobbágyi terhek és a földbirtokok állapotának dokumentumai
+- Ratio Educationis szövege: az állami oktatáspolitika elvei és rendszere
+- II. József levelezése és rendeletei: a reformabszolutizmus gondolkodásmódjának forrásai
 
 <!-- NAV_LINKS_AUTO -->
 ## Navigáció
